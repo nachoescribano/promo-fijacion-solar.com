@@ -63,18 +63,18 @@
     "qualities-advantages": "Cualidades y ventajas",
     "system-components": "Componentes del Sistema",
     "more-info": "Más información",
-    "logos": {
+    "material-cover": {
+      "a2inox": {
+        "image": "assets/images/MAT_INOX_A2.jpg",
+        "image-alt": "Inoxidable A2"
+      },
+      "al": {
+        "image": "assets/images/MAT_ALU",
+        "image-alt": "Aluminio"
+      },
       "a": {
-        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-        "image-alt": "CUBIERTA PANEL 5G"
-      },
-      "a1": {
-        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-        "image-alt": "CUBIERTA PANEL 5G"
-      },
-      "a2": {
-        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-        "image-alt": "CUBIERTA PANEL 5G"
+        "image": "assets/images/MAT_ACERO.jpg",
+        "image-alt": "Acero"
       }
     },
     "types": [
@@ -93,26 +93,26 @@
                 "type": "image",
                 "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
                 "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
-                "image-alt": "Estructura coplanar para placas solares"
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
               },
               {
                 "type": "image",
                 "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
                 "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
-                "image-alt": "Estructura coplanar para placas solares"
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
               },
               {
                 "type": "image",
                 "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002@2x.jpg",
-                "image-alt": "Estructura coplanar para placas solares"
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
               }
             ],
             "qualities-list": [
               "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
               "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para cualquier paso de greca.",
               "Orientación de placas tipo retrato (vertical).",
-              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Fijación del sistema directamente sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
               "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
               "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
@@ -120,53 +120,316 @@
             "components": [
               {
                 "title": "DIN-7504-K A2",
-                "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
-                "image": "assets/images/icono-formacion.svg",
-                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-                "image-alt": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
-                "url": "",
-                "logos": ["a2"]
+                "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2.",
+                "image": "assets/images/DIN-7504-K-A2.jpg",
+                "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
+                "image-alt": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
+                "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
+                "logos": ["a2inox"]
               },
               {
                 "title": "GMA-A",
                 "description": "Galga de aluminio de marco.",
-                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image": "assets/images/GM-A.jpg",
+                "image2x": "assets/images/GM-A@2x.jpg",
                 "image-alt": "Galga de aluminio de marco.",
-                "url": "",
+                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
                 "logos": ["a1"]
               },
               {
                 "title": "KFR-SC",
                 "description": "Grapa fijación rápida.",
-                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "",
-                "logos": ["a1", "a"]
+                "image": "assets/images/KFR-SC.jpg",
+                "image2x": "assets/images/KFR-SC@2x.jpg",
+                "image-alt": "Grapa fijación rápida.",
+                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+                "logos": ["al", "a"]
+              },
+              {
+                "title": "PSA-A",
+                "description": "Perfil de aluminio con alas.",
+                "image": "assets/images/PSA-A.jpg",
+                "image2x": "assets/images/PSA-A@2x.jpg",
+                "image-alt": "Perfil de aluminio con alas.",
+                "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
+                "logos": ["al"]
               }
             ]
           },
           {
             "title": "SC-PSD",
-            "description": "XXXX",
-            "carousel": [],
-            "qualities-list": ["XXXX.", "XXX."],
-            "components": []
+            "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para pasos de greca ≤ 360mm.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para pasos de greca ≤ 360mm.",
+              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              {
+                "title": "GMA-A",
+                "description": "Galga de aluminio de marco.",
+                "image": "assets/images/GM-A.jpg",
+                "image2x": "assets/images/GM-A@2x.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+                "logos": ["a1"]
+              },
+              {
+                "title": "KFR-SC",
+                "description": "Grapa fijación rápida.",
+                "image": "assets/images/KFR-SC.jpg",
+                "image2x": "assets/images/KFR-SC@2x.jpg",
+                "image-alt": "Grapa fijación rápida.",
+                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+                "logos": ["al", "a"]
+              },
+              {
+                "title": "PSA-A",
+                "description": "Perfil de aluminio con alas.",
+                "image": "assets/images/PSA-A.jpg",
+                "image2x": "assets/images/PSA-A@2x.jpg",
+                "image-alt": "Perfil de aluminio con alas.",
+                "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
+                "logos": ["al"]
+              }
+            ]
           },
           {
             "title": "SC-PSV",
-            "description": "XXXX",
-            "carousel": [],
-            "qualities-list": ["XXXX.", "XXX."],
-            "components": []
+            "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
+              },
+                {
+                  "type": "image",
+                  "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
+                  "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
+                  "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
+                }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona baja de la cubierta.",
+              "Orientación de placas tipo paisaje (Horizontal).",
+              "Fijación del sistema directamente sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              {
+                "title": "GMA-A",
+                "description": "Galga de aluminio de marco.",
+                "image": "assets/images/GM-A.jpg",
+                "image2x": "assets/images/GM-A@2x.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+                "logos": ["a1"]
+              },
+              {
+                "title": "KFR-SC",
+                "description": "Grapa fijación rápida.",
+                "image": "assets/images/KFR-SC.jpg",
+                "image2x": "assets/images/KFR-SC@2x.jpg",
+                "image-alt": "Grapa fijación rápida.",
+                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+                "logos": ["al", "a"]
+              },
+              {
+                "title": "PSA-AV",
+                "description": "Perfil de aluminio con alas.",
+                "image": "assets/images/PSA-AV.jpg",
+                "image2x": "assets/images/PSA-AV@2x.jpg",
+                "image-alt": "Perfil de aluminio con alas.",
+                "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
+                "logos": ["al"]
+              }
+            ]
           },
           {
             "title": "SC-PSE",
-            "description": "XXXX",
-            "carousel": [],
+            "description": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              }
+            ],
             "qualities-list": ["XXXX.", "XXX."],
-            "components": []
+            "components": [
+              {
+                "title": "DIN-7504-K A2",
+                "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2.",
+                "image": "assets/images/DIN-7504-K-A2.jpg",
+                "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
+                "image-alt": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
+                "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "GMA-A",
+                "description": "Galga de aluminio de marco.",
+                "image": "assets/images/GM-A.jpg",
+                "image2x": "assets/images/GM-A@2x.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+                "logos": ["a1"]
+              },
+              {
+                "title": "KFR-SC",
+                "description": "Grapa fijación rápida.",
+                "image": "assets/images/KFR-SC.jpg",
+                "image2x": "assets/images/KFR-SC@2x.jpg",
+                "image-alt": "Grapa fijación rápida.",
+                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+                "logos": ["al", "a"]
+              },
+              {
+                "title": "KFS-FI",
+                "description": "Conector cruzado para fijación inferior. Inoxidable A2.",
+                "image": "assets/images/KFS-FI.jpg",
+                "image2x": "assets/images/KFS-FI@2x.jpg",
+                "image-alt": "Conector cruzado para fijación inferior. Inoxidable A2.",
+                "url": "https://www.indexfix.com/producto/11611-KFS-FI-conector-cruzado-para-fijacion-inferior-inoxidable-a2",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "PSE-UN",
+                "description": "Unión de aluminio para perfil PSE-A.",
+                "image": "assets/images/PSE-UN.jpg",
+                "image2x": "assets/images/PSE-UN@2x.jpg",
+                "image-alt": "Unión de aluminio para perfil PSE-A.",
+                "url": "https://www.indexfix.com/producto/11614-PSE-UN-union-de-perfil-de-aluminio-para-fijacion-ensamblada",
+                "logos": ["al"]
+              },
+              {
+                "title": "PSE-A",
+                "description": "Perfil de aluminio para fijación ensamblada.",
+                "image": "assets/images/PSE-A.jpg",
+                "image2x": "assets/images/PSE-A@2x.jpg",
+                "image-alt": "Perfil de aluminio para fijación ensamblada.",
+                "url": "https://www.indexfix.com/producto/11615-PSE-A-perfil-de-aluminio-para-fijacion-ensamblada",
+                "logos": ["al"]
+              }
+            ]
           },
           {
             "title": "SC-GPX",
