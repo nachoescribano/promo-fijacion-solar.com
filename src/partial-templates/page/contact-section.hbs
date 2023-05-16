@@ -1,0 +1,159 @@
+<a id="contact-section"></a>
+{{#with contact-section}}
+  <section class="section section--color">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2 class="section__title">
+            {{title}}
+          </h2>
+        </div>
+        <div class="col-12">
+          <form class="row js-form-contact" method="POST">
+            <div
+              class="alert alert-danger alert-dismissible fade hidden js-form-contact-alert"
+              role="alert"
+            >
+              <strong>{{error}}</strong>
+              <span class="js-message">/</span>
+              <button
+                type="button"
+                class="btn-close js-btn-close"
+                data-bs-dismiss="alert"
+                aria-label="{{close}}"
+              ></button>
+            </div>
+            <div
+              class="alert alert-success alert-dismissible fade hidden js-form-contact-success"
+              role="alert"
+            >
+              <span class="js-message">/</span>
+              <button
+                type="button"
+                class="btn-close js-btn-close"
+                data-bs-dismiss="alert"
+                aria-label="{{close}}"
+              ></button>
+            </div>
+            <div class="col-12 col-lg-6 mb-4">
+              <label for="name" class="form-label">{{name}}</label>
+              <input
+                type="text"
+                class="form-control"
+                id="name"
+                name="name"
+                required
+              />
+            </div>
+            <div class="col-12 col-lg-6 mb-4">
+              <label for="surnames" class="form-label">{{surnames}}</label>
+              <input
+                type="text"
+                class="form-control"
+                id="surnames"
+                name="surnames"
+                required
+              />
+            </div>
+            <div class="col-12 mb-4">
+              <label for="company" class="form-label">{{company}}</label>
+              <input
+                type="text"
+                class="form-control"
+                id="company"
+                name="company"
+                required
+              />
+            </div>
+            <div class="col-12 col-lg-6 mb-4">
+              <label for="email" class="form-label">{{email}}</label>
+              <input
+                type="email"
+                class="form-control"
+                id="email"
+                name="email"
+                pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+                required
+              />
+            </div>
+            <div class="col-12 col-lg-6 mb-4">
+              <label for="phone" class="form-label">{{phone}}</label>
+              <input
+                type="tel"
+                class="form-control"
+                id="phone"
+                name="phone"
+                pattern="\+?([0-9]{1,2})?[0-9]{9}"
+                required
+                title="{{phone-legend}}"
+              />
+            </div>
+            <div class="col-12 mb-4">
+              <label for="message" class="form-label">{{message}}</label>
+              <textarea
+                class="form-control"
+                id="message"
+                name="message"
+                rows="6"
+                required
+              ></textarea>
+            </div>
+            <div class="col-12 mb-2">
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="personalData"
+                  required
+                />
+                <label class="form-check-label small" for="personalData">
+                  {{personal-data}}
+                </label>
+              </div>
+            </div>
+            <div class="col-12 mb-4">
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="legalData"
+                  required
+                />
+                <label class="form-check-label small" for="legalData">
+                  {{{legal-data}}}
+                </label>
+              </div>
+            </div>
+            <div class="col-12 mb-4">
+              <p class="small">
+                {{description-1}}
+              </p>
+              <p class="small">
+                {{description-2}}
+              </p>
+              <p class="small">
+                {{description-3}}
+              </p>
+              <p class="small">
+                {{description-4}}
+              </p>
+              <div
+                class="g-recaptcha"
+                data-sitekey="6LdlKwYgAAAAAPkb83OaHJm_5JqhfrQwt2Hf-NGc"
+              ></div>
+              <button
+                type="submit"
+                class="btn btn-lg btn-primary my-3 btn-index-submit js-form-submit"
+                name="submit"
+              >
+                {{button-send}}
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+{{/with}}

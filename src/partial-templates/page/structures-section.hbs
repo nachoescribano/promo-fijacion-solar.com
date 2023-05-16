@@ -1,0 +1,114 @@
+<a id="structures-section"></a>
+{{#with structures-section}}
+  <section class="section section--color">
+    <div class="container">
+      <header class="section__header">
+        <h2 class="section__title">
+          {{title}}
+        </h2>
+      </header>
+      <div class="swiper-container js-swiper-container-1">
+        <div
+          class="index-cards-container js-index-cards-container--interactive"
+        >
+          {{#each types}}
+            <article
+              class="index-card index-card--50-percent "
+            >
+              <div class="index-card__container index-card__container--horizontal">
+                <picture>
+                  <source
+                    class="index-card__image index-card__image--inline"
+                    srcset="{{this.image2x}}"
+                    media="(min-width: 768px)"
+                  />
+                  <img
+                    alt="{{this.image-alt}}"
+                    class="index-card__image index-card__image--inline"
+                    src="{{this.image}}"
+                  />
+                </picture>
+                <div class="index-card__body">
+                  <h2
+                    class="index-card__title index-card__title--xl index-card__title--center mb-0 mt-1"
+                  >
+                    {{this.title}}
+                  </h2>
+                  <p
+                    class="index-card__subtitle index-card__subtitle--center"
+                  >{{description}}</p>
+                  {{#each systems}}
+                    {{#ifMultipleOf @index 5}}<ul>{{/ifMultipleOf}}
+                    <li>{{title}}</li>
+                    {{#ifMultipleOfAndMoreO @index 4}}</ul>{{/ifMultipleOfAndMoreO}}
+                  {{/each}}
+                  {{#ifTotalItemsMultipleOfAndMoreO systems 4}}{{else}}</ul>{{/ifTotalItemsMultipleOfAndMoreO}}
+                </div>
+              </div>
+            </article>
+          {{/each}}
+        </div>
+      </div>
+      <h3 class="index-card__title index-card__title--black">
+        {{related-products-title}}
+      </h3>
+      <div class="row">
+        {{#each related-products}}
+          <article
+            class="index-card index-card--full-width  {{#ifFirst @index}}{{else}}index-card--hidden{{/ifFirst}}"
+            data-id="{{this.id}}"
+          >
+            <div class="index-card__container">
+              <div class="index-card__body">
+                <div class="swiper-container js-swiper-container-{{this.swiper-id}}">
+                  <div class="row">
+                     {{#each ../commons-related-products}}
+                        <a
+                          class="col-12 col-md-6 col-lg-3 section__instalation-item section__instalation-item--center section__instalation-item--link"
+                          href={{this.href}}
+                        >
+                          <img
+                            class="img-fluid image-thumb"
+                            src="{{this.image}}"
+                            alt="{{this.image-alt}}"
+                          />
+                          <h3
+                              class="index-card__title index-card__title--xl index-card__title--center mb-0 mt-1"
+                            >
+                              {{this.title}}
+                            </h3>
+                            <p
+                              class="index-card__subtitle index-card__subtitle--center"
+                            >{{description}}</p>
+                        </a>
+                     {{/each}}
+                     {{#each products}}
+                        <a
+                          class="col-12 col-md-6 col-lg-3 section__instalation-item section__instalation-item--center section__instalation-item--link"
+                           href={{this.href}}
+                        >
+                          <img
+                            class="img-fluid image-thumb"
+                            src="{{this.image}}"
+                            alt="{{this.image-alt}}"
+                          />
+                          <h3
+                              class="index-card__title index-card__title--xl index-card__title--center mb-0 mt-1"
+                            >
+                              {{this.title}}
+                            </h3>
+                            <p
+                              class="index-card__subtitle index-card__subtitle--center"
+                            >{{description}}</p>
+                        </a>
+                     {{/each}}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </article>
+        {{/each}}
+      </div>
+    </div>
+  </section>
+{{/with}}

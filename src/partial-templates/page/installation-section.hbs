@@ -1,0 +1,37 @@
+<a id="installation-section"></a>
+{{#with installation-section}}
+  <section class="section section--color">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 mb-5">
+          <h2 class="section__title">
+            {{title}}
+          </h2>
+          <div class="swiper-container js-swiper-container-6">
+            <div class="row justify-content-center-768">
+              {{#each installation-cards}}
+                <article
+                  class="col-12 col-md-6 col-lg-3 section__instalation-item"
+                >
+                  <picture>
+                    <source
+                      class="img-fluid image-thumb"
+                      srcset="{{this.image2x}}"
+                      media="(min-width: 768px)"
+                    />
+                    <img
+                      class="img-fluid image-thumb"
+                      alt="{{this.description}}"
+                      src="{{this.image}}"
+                    />
+                  </picture>
+                  <p>{{this.description}}</p>
+                </article>
+              {{/each}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{/with}}

@@ -1,0 +1,599 @@
+{
+  "lang": "es",
+  "description": "",
+  "keywords": "",
+  "title": "Sistemas de instalación para PLACAS SOLARES: estructuras, anclajes y accesorios | INDEX",
+  "home": "Inicio",
+  "features": "Características",
+  "range": "Gama",
+  "applications": "Aplicaciones",
+  "materials": "Materiales",
+  "installation": "Instalación",
+  "documentation": "Documentación",
+  "contact": "Contacto",
+  "back-to-top": "Ir al inicio",
+  "show-aside": "mostrar accesos rápidos",
+  "main-section": {
+    "title": "Fijación Sistemas de instalación para PLACAS SOLARES: estructuras, anclajes y accesorios",
+    "image-alt": "",
+    "p": "Las instalaciones solares necesitan la máxima fiabilidad contra los elementos externos. Por ello, en INDEX® contamos con productos de alta calidad para las estructuras para placas de acero y aluminio, así como soluciones unificadas de montaje y fijaciones que simplifican la gestión de componentes y el ensamblado de la estructura en el lugar de instalación."
+  },
+  "header": {
+    "url-home": "https://www.indexfix.com",
+    "menu": "menu"
+  },
+  "assembly-section": {
+    "title": "Un sistema fiable de fácil montaje y mantenimiento",
+    "list": [
+      {
+        "image": "assets/images/icono-futuro.svg",
+        "image-alt": "futuro",
+        "title": "Mirada al futuro",
+        "text": "El desarrollo de esta nueva solución ha sido un reto en forma de proyecto de investigación e innovación que ha dado lugar a la incorporación de las últimas tecnologías en materiales/recubrimientos y a la necesidad de diseñar nuevos perfiles y sistemas de montaje que aportasen novedades al mercado actual."
+      },
+      {
+        "image": "assets/images/icono-soporte-tecnico.svg",
+        "image-alt": "futuro",
+        "title": "Soporte técnico",
+        "text": "Disponemos de un completo asesoramiento sobre los diferentes sistemas y su adecuación al emplazamiento de la instalación, cálculos personalizados y desgloses de componentes."
+      },
+      {
+        "image": "assets/images/icono-produccion-nacional-certificada-sensibilidad-ambiental.svg",
+        "image-alt": "futuro",
+        "title": "Producción nacional, certificada y con sensibilidad ambiental",
+        "text": "Un importante volumen de los productos incluidos en nuestra gama es de procedencia nacional, necesario para garantizar los altos valores de calidad e innovación requeridos."
+      },
+      {
+        "image": "assets/images/icono-pequeno-usuario.svg",
+        "image-alt": "futuro",
+        "title": "Productos adaptados para el pequeño usuario",
+        "text": "Nos gusta entender las necesidades de todos nuestros clientes para poder ofrecer el mejor servicio."
+      },
+      {
+        "image": "assets/images/icono-formacion.svg",
+        "image-alt": "futuro",
+        "title": "Formación Impartimos",
+        "text": "formaciones personalizadas, con el objetivo de enseñar a hacer un uso correcto de todas las posibilidades y prestaciones de nuestros productos."
+      }
+    ]
+  },
+  "structures-section": {
+    "title": "Estructuras para placas solares",
+    "subtitle": "Disponemos de distintas soluciones de estructuras tanto para estructuras coplanares como triangulares, dando solución a las instalaciones más comunes del mercado.",
+    "qualities-advantages": "Cualidades y ventajas",
+    "system-components": "Componentes del Sistema",
+    "more-info": "Más información",
+    "logos": {
+      "a": {
+        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+        "image-alt": "CUBIERTA PANEL 5G"
+      },
+      "a1": {
+        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+        "image-alt": "CUBIERTA PANEL 5G"
+      },
+      "a2": {
+        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+        "image-alt": "CUBIERTA PANEL 5G"
+      }
+    },
+    "types": [
+      {
+        "title": "ESTRUCTURAS COPLANARES PARA PLACAS SOLARES",
+        "description": "Soportes para placas solares indicados para cubiertas inclinadas. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
+        "image": "assets/images/SC-PSA-CUBIERTA-PANEL-5G.jpg",
+        "image2x": "assets/images/SC-PSA-CUBIERTA-PANEL-5G.jpg",
+        "image-alt": "CUBIERTA PANEL 5G",
+        "systems": [
+          {
+            "title": "SC-PSA",
+            "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "video",
+                "src": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "title": ""
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas.",
+              "Orientación de placas tipo paisaje (horizontal).",
+              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir al mínimo los metros de perfil consumido.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              {
+                "title": "DIN-6923 A2",
+                "description": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image-alt": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
+                "url": "",
+                "logos": ["a2"]
+              },
+              {
+                "title": "GMA-A",
+                "description": "Galga de aluminio de marco.",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "",
+                "logos": ["a1"]
+              },
+              {
+                "title": "KFR-SC",
+                "description": "Grapa fijación rápida.",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "",
+                "logos": ["a1", "a"]
+              }
+            ]
+          },
+          {
+            "title": "SC-PSD",
+            "description": "XXXX",
+            "carousel": [],
+            "qualities-list": ["XXXX.", "XXX."],
+            "components": []
+          },
+          {
+            "title": "SC-PSV",
+            "description": "XXXX",
+            "carousel": [],
+            "qualities-list": ["XXXX.", "XXX."],
+            "components": []
+          },
+          {
+            "title": "SC-PSE",
+            "description": "XXXX",
+            "carousel": [],
+            "qualities-list": ["XXXX.", "XXX."],
+            "components": []
+          },
+          {
+            "title": "SC-GPX",
+            "description": "XXXX",
+            "carousel": [],
+            "qualities-list": ["XXXX.", "XXX."],
+            "components": []
+          },
+          {
+            "title": "SC-GPD",
+            "description": "XXXX",
+            "carousel": [],
+            "qualities-list": ["XXXX.", "XXX."],
+            "components": []
+          },
+          {
+            "title": "SC-GPV",
+            "description": "XXXX",
+            "carousel": [],
+            "qualities-list": ["XXXX.", "XXX."],
+            "components": []
+          }
+        ]
+      },
+      {
+        "title": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
+        "description": "Soportes para placas solares indicados para cubiertas planas y de baja pendiente. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
+        "image": "assets/images/SC-PSA-CUBIERTA-PANEL-3G.jpg",
+        "image2x": "assets/images/SC-PSA-CUBIERTA-PANEL-3G.jpg",
+        "image-alt": "CUBIERTA PANEL 5G",
+        "systems": [
+          {
+            "title": "ST-PSE",
+            "description": "XXXX",
+            "carousel": [],
+            "qualities-list": ["XXXX.", "XXX."],
+            "components": []
+          },
+          {
+            "title": "ST-PGX",
+            "description": "XXXX",
+            "carousel": [],
+            "qualities-list": ["XXXX.", "XXX."],
+            "components": []
+          }
+        ]
+      }
+    ]
+  },
+
+  "range-section": {
+    "title": "Pistola de fijación a gas",
+    "range-cards": [
+      {
+        "title": "FG-GUN",
+        "description": "Pistola semiautomática de fijación a gas sin cables para tabiquería seca.",
+        "image": "assets/images/FG-GUNEL-pistola-PIM-2.webp",
+        "image2x": "assets/images/FG-GUNEL-pistola-PIM-2_2x.webp",
+        "image-alt": "CFG-GUN",
+        "related-products-id": "FG-GUN"
+      },
+      {
+        "title": "FG-GUNEL",
+        "description": "Pistola semiautomática de fijación a gas sin cables para electricisticas",
+        "image": "assets/images/FG-GUNEL-1-1_1.webp",
+        "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
+        "image-alt": "FG-GUNEL",
+        "related-products-id": "FG-GUNEL"
+      }
+    ],
+    "card-info-1": "La fijación directa mediante pistolas de gas, es sencilla: después de colocar la carga de gas, se sitúa la punta de la herramienta en la superficie para seguidamente accionar el gatillo.",
+    "card-info-2": "Tras vencer el sistema de seguridad y apretar el gatillo, se activa una chispa que enciende el gas en la cámara de combustión. La batería, incluida en el maletín, activa un ventilador que extrae los gases de combustión.",
+    "button-text": "Ver producto",
+    "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
+    "related-products-title": "Productos relacionados",
+    "commons-related-products": [
+      {
+        "title": "FG-CL",
+        "description": "Clavos estándar con recubrimiento cincado para hormigón",
+        "image": "assets/images/FG-CL.jpg",
+        "image-alt": "FG-CL",
+        "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
+      },
+      {
+        "title": "FG-CLH",
+        "description": "Clavos con recubrimiento cincado para materiales duros",
+        "image": "assets/images/FG-CLH.jpg",
+        "image-alt": "FG-CLH",
+        "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
+      }
+    ],
+    "related-products": [
+      {
+        "id": "FG-GUN",
+        "swiper-id": "2",
+        "products": [
+          {
+            "title": "FG-ARAM EP",
+            "description": "Corona metálica. Formato de venta: bote de plástico",
+            "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
+            "image-alt": "FG-ARAM EP",
+            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
+          },
+          {
+            "title": "FG-ARAM",
+            "description": "Corona metálica para pistola de gas",
+            "image": "assets/images/FG-ARAM.jpg",
+            "image-alt": "FG-ARAM",
+            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
+          },
+          {
+            "title": "OME",
+            "description": "Anclaje universal",
+            "image": "assets/images/OME.jpg",
+            "image-alt": "OME",
+            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
+          },
+          {
+            "title": "AB-GU",
+            "description": "Abrazadera guía simple",
+            "image": "assets/images/AB-GU.jpg",
+            "image-alt": "AB-GU",
+            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
+          },
+          {
+            "title": "AB-MUG",
+            "description": "Abrazadera multidiámetro",
+            "image": "assets/images/AB-MUG.jpg",
+            "image-alt": "AB-MUG",
+            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
+          },
+          {
+            "title": "AB-PR",
+            "description": "Abrazadera a presión",
+            "image": "assets/images/AB-PR.jpg",
+            "image-alt": "AB-PR",
+            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
+          },
+          {
+            "title": "AB-PID",
+            "description": "Grapa un pie",
+            "image": "assets/images/AB-PID.jpg",
+            "image-alt": "AB-PID",
+            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
+          },
+          {
+            "title": "FG-PLET",
+            "description": "Pletina roscada",
+            "image": "assets/images/FG-PLET.jpg",
+            "image-alt": "FG-PLET",
+            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
+          },
+          {
+            "title": "FG-ABRA",
+            "description": "Abrazadera a presión",
+            "image": "assets/images/FG-ABRA.jpg",
+            "image-alt": "FG-ABRA",
+            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
+          },
+          {
+            "title": "FG-BASE",
+            "description": "Base para brida. Color gris disponible",
+            "image": "assets/images/FG-BASE.jpg",
+            "image-alt": "FG-BASE",
+            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
+          },
+          {
+            "title": "CI-PE",
+            "description": "Cinta perforada",
+            "image": "assets/images/CI-PE.jpg",
+            "image-alt": "CI-PE",
+            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
+          }
+        ]
+      },
+      {
+        "id": "FG-GUNEL",
+        "swiper-id": "3",
+        "products": [
+          {
+            "title": "FG-GAS",
+            "description": "Cartucho de gas",
+            "image": "assets/images/FG-GAS.jpg",
+            "image-alt": "FG-GAS",
+            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
+          },
+          {
+            "title": "FG-CAEL",
+            "description": "Cañón de pistola especial para electricista",
+            "image": "assets/images/FG-CAEL.jpg",
+            "image-alt": "FG-CAEL",
+            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
+          },
+          {
+            "title": "FG-CLCAR",
+            "description": "Cargador para 40 clavos",
+            "image": "assets/images/FG-CLCAR.jpg",
+            "image-alt": "FG-CLCAR",
+            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
+          },
+          {
+            "title": "FG-IMAN",
+            "description": "Imán",
+            "image": "assets/images/FG-IMAN.jpg",
+            "image-alt": "FG-IMAN",
+            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
+          },
+          {
+            "title": "FG-BAT",
+            "description": "Batería para pistola",
+            "image": "assets/images/FG-BAT.jpg",
+            "image-alt": "FG-BAT",
+            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
+          },
+          {
+            "title": "FG-CAR",
+            "description": "Cargador para pistola",
+            "image": "assets/images/FG-CAR.jpg",
+            "image-alt": "FG-CAR",
+            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+          }
+        ]
+      }
+    ]
+  },
+  "applications-section": {
+    "title": "Aplicaciones",
+    "aplications-cards": [
+      {
+        "description": "Instalación de canales y angulares para placas de yeso laminado.",
+        "image": "assets/images/instalacion-canales-placas-yeso.webp",
+        "image2x": "assets/images/instalacion-canales-placas-yeso_2x.webp",
+        "image-alt": "Instalación de canales y angulares para placas de yeso laminado con pistola de fijación directa."
+      },
+      {
+        "description": "Fijación de mallas y tejidos técnicos sobre pared de hormigón.",
+        "image": "assets/images/fijacion-mallas-y-tejidos-tecnicos.webp",
+        "image2x": "assets/images/fijacion-mallas-y-tejidos-tecnicos_2x.webp",
+        "image-alt": "tubos eléctricos fijados a techo y paredes."
+      },
+      {
+        "description": "Fijación de instalaciones eléctricas en el techo o en la pared.",
+        "image": "assets/images/fijacion-instalaciones-electricas.webp",
+        "image2x": "assets/images/fijacion-instalaciones-electricas@2x.webp",
+        "image-alt": "Instalación conductos de cableado eléctrico con pistola de fijación directa."
+      },
+      {
+        "description": "Fijación de tubos corrugados con brida al suelo, pared y techo.",
+        "image": "assets/images/fijacion-tubos-corrugados.webp",
+        "image2x": "assets/images/fijacion-tubos-corrugados_2x.webp",
+        "image-alt": "tubos eléctricos fijados a techo."
+      },
+      {
+        "description": "Fijación de tubos rígidos sobre superficies planas (pared, techo…).",
+        "image": "assets/images/fijacion-tubos-rigidos.webp",
+        "image2x": "assets/images/fijacion-tubos-rigidos_2x.webp",
+        "image-alt": "tubos eléctricos fijados a pared."
+      }
+    ]
+  },
+  "materials-section": {
+    "title": "Materiales",
+    "materials-cards": [
+      {
+        "description": "Hormigón",
+        "image": "assets/images/MU_HORMIGON.webp",
+        "image2x": "assets/images/MU_HORMIGON@2x.webp",
+        "image-alt": "hormigón"
+      },
+      {
+        "description": "Madera noble",
+        "image": "assets/images/MU_MADERA_NOBLE.webp",
+        "image2x": "assets/images/MU_MADERA_NOBLE@2x.webp",
+        "image-alt": "Madera noble"
+      },
+      {
+        "description": "Hormigón celular",
+        "image": "assets/images/MU_HORM_CELULAR.webp",
+        "image2x": "assets/images/MU_HORM_CELULAR@2x.webp",
+        "image-alt": "Hormigón celular"
+      },
+      {
+        "description": "Chapa - perfil pesado",
+        "image": "assets/images/MU_CHAPA_PERF_PESADO.webp",
+        "image2x": "assets/images/MU_CHAPA_PERF_PESADO@2x.webp",
+        "image-alt": "Chapa - perfil pesado"
+      }
+    ]
+  },
+  "installation-section": {
+    "title": "Guía de instalación con herramientas de fijación",
+    "installation-cards": [
+      {
+        "description": "1. Colocar cartucho de clavos en la pistola",
+        "image": "assets/images/FG-GUN_0.webp",
+        "image2x": "assets/images/FG-GUN_0@2x.webp",
+        "image-alt": "Colocación de cartucho de clavos en la pistola de fijación directa."
+      },
+      {
+        "description": "2. Introducir el cartucho de gas",
+        "image": "assets/images/FG-GUN_1.webp",
+        "image2x": "assets/images/FG-GUN_1@2x.webp",
+        "image-alt": "Introducción del cartucho de gas en la pistola de fijación directa."
+      },
+      {
+        "description": "3. Enganchar la batería",
+        "image": "assets/images/FG-GUN_2.webp",
+        "image2x": "assets/images/FG-GUN_2@2x.webp",
+        "image-alt": "Colocación de la batería en la pistola de fijación directa."
+      },
+      {
+        "description": "4. Introducir los clavos en el cartucho",
+        "image": "assets/images/FG-GUN_3.webp",
+        "image2x": "assets/images/FG-GUN_3@2x.webp",
+        "image-alt": "Introducción de los clavos en el cartucho de la pistola de fijación directa."
+      },
+      {
+        "description": "5. Colocar la pistola boca abajo",
+        "image": "assets/images/FG-GUN_4.webp",
+        "image2x": "assets/images/FG-GUN_4@2x.webp",
+        "image-alt": "Colocación de la pistola de fijación directa boca abajo."
+      },
+      {
+        "description": "6. Apretar hacia abajo la pistola sobre una superficie plana",
+        "image": "assets/images/FG-GUN_5.webp",
+        "image2x": "assets/images/FG-GUN_5@2x.webp",
+        "image-alt": "Apretar hacia abajo la pistola de fijación directa sobre una superficie plana."
+      },
+      {
+        "description": "7. Apretar el gatillo",
+        "image": "assets/images/FG-GUN_6.webp",
+        "image2x": "assets/images/FG-GUN_6@2x.webp",
+        "image-alt": "Apretar el gatillo de la pistola de fijación directa"
+      },
+      {
+        "description": "8. Resultado final",
+        "image": "assets/images/FG-GUN_7.webp",
+        "image2x": "assets/images/FG-GUN_7@2x.webp",
+        "image-alt": "Clavo introducido en superficie con pistola de fijación directa"
+      }
+    ]
+  },
+  "documentation-section": {
+    "title": "Documentación",
+    "icon": "book",
+    "list-icon": "file-earmark-pdf",
+    "documentations": [
+      {
+        "title": "Fichas técnicas",
+        "icon": "book",
+        "list-icon": "file-earmark-pdf",
+        "items": [
+          {
+            "text": "Pistola, accesorios y clavos FG",
+            "url": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf"
+          },
+          {
+            "text": "Anclaje Universal OME",
+            "url": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf"
+          },
+          {
+            "text": "Abrazaderas AB",
+            "url": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf"
+          },
+          {
+            "text": "Abrazaderas AB-PID",
+            "url": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf"
+          },
+          {
+            "text": "Cinta Perforada CI-PE",
+            "url": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Fichas de seguridad",
+        "icon": "cone-striped",
+        "list-icon": "file-earmark-pdf",
+        "items": [
+          {
+            "text": "FG-CL",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CLH",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CAR",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Declaración de prestaciones",
+        "icon": "table",
+        "list-icon": "file-earmark-pdf",
+        "items": [
+          {
+            "text": "OME",
+            "url": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "contact-section": {
+    "title": "Solicita más información",
+    "error": "Error",
+    "close": "Cerrar",
+    "name": "Nombre",
+    "surnames": "Apellidos",
+    "company": "Empresa",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "phone-legend": "Formato acceptado 613445599 o +34613445599",
+    "message": "Mensaje / Consulta",
+    "personal-data": "Acepto el uso de mis datos personales por el personal técnico de Técnicas Expansivas SL (CIF B-26220491) para que me contacte exclusivamente para mi formación y asesoramiento técnico de sus productos.",
+    "legal-data": "He leído y acepto el <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Aviso Legal</a> y la <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Política de Privacidad</a>.",
+    "description-1": "TÉCNICAS EXPANSIVAS S.L. informa que los datos de carácter personal facilitados de forma voluntaria, cuya finalidad, cesiones previstas y demás circunstancias, se informa en el momento de la recogida de los datos de carácter personal, si bien, según el caso concreto, su finalidad, puede ser alguna de las siguientes, la atención a su solicitud, queja o duda planteada, mantenimiento de la relación establecida, la gestión integral y comercial de clientes, contabilidad y facturación o envío de comunicaciones, incluso por medios electrónicos, de noticias y actividades relacionadas con TÉCNICAS EXPANSIVAS S.L.",
+    "description-2": "Los datos incorporados a nuestros ficheros son absolutamente confidenciales y serán tratados con la máxima confidencialidad y cumpliendo todos los requisitos que obliga el Reglamento General de Protección de Datos (RGPD) de 27 de abril de 2016. Los datos quedarán registrados en nuestros ficheros por el tiempo necesario que dure la motivación para la que fueron recabados. El plazo durante el cual se conservarán los datos personales será aquel que marque la legislación vigente y siempre durante el tiempo que medie en la prestación del servicio para el que fueron comunicados.",
+    "description-3": "Se recomienda no enviar datos personales de nivel alto, según la legislación de protección de datos, como pueden ser los relativos a salud, pues los mismos no viajan cifrados o encriptados. De modo que si VD, los envía será de su exclusiva responsabilidad.",
+    "description-4": "El usuario podrá ejercer en cualquier momento sus derechos para acceder, rectificar, oponerse, cancelarlos, limitar su tratamiento o solicitar su portabilidad con arreglo a lo previsto en el Reglamento General de Protección de Datos (RGPD) de 27 de abril de 2016 enviando una carta a su responsable de tratamiento: Valentín Gómez, Gerente, junto con la fotocopia de su DNI, a TÉCNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logroño (La Rioja) o a través de la dirección de correo electrónico info@indexfix.com.",
+    "button-send": "Enviar"
+  },
+  "menu-aside": {
+    "button-features": "Características",
+    "button-range": "Ver gama",
+    "button-resources": "Descargar recursos",
+    "button-info": "Información"
+  }
+}

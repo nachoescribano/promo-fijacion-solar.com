@@ -1,0 +1,29 @@
+{
+  "lang": "de",
+
+  "contact-section": {
+    "title": "Fordern Sie weitere Informationen an",
+    "error": "Fehler",
+    "close": "Schließen",
+    "name": "Name",
+    "surnames": "Nachname",
+    "company": "Unternehmen",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "phone-legend": "Zulässiges Format 613445599 oder +34613445599",
+    "message": "Nachricht/Anfrage",
+    "personal-data": "Ich akzeptiere die Verwendung meiner persönlichen Daten durch das technische Personal von Técnicas Expansivas SL (CIF B-26220491), um mich ausschließlich für meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.",
+    "legal-data": "Ich habe die <a href='https://www.indexfix.com/rechtliche' target='_blank' class='index-link'>Rechtshinweise</a> und die <a href='https://www.indexfix.com/datenschutz' target='_blank' class='index-link'>Datenschutzbestimmungen</a> gelesen und akzeptiere sie.",
+    "description-1": "TÉCNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umstände, zum Zeitpunkt der Erfassung der persönlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Geschäftsbeziehung, umfassende und kommerzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivitäten im Zusammenhang mit TÉCNICAS EXPANSIVAS S.L.",
+    "description-2": "Die Daten in unseren Dateien sind streng vertraulich und werden mit der größtmöglichen Vertraulichkeit behandelt und erfüllen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016. Die Daten bleiben so lange in unseren Dateien gespeichert, wie es für den Zweck, für den sie erhoben wurden, erforderlich ist. Der Zeitraum, in dem die personenbezogenen Daten aufbewahrt werden, richtet sich nach der geltenden Gesetzgebung und gilt immer für den Zeitraum, der für die Erbringung der Dienstleistung, für die sie übermittelt wurden, erforderlich ist.",
+    "description-3": "Gemäß der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu übermitteln, da diese nicht verschlüsselt sind. Sollten Sie solche Daten übermitteln, so geschieht dies auf Ihre alleinige Verantwortung.",
+    "description-4": "Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, Löschung und Widerspruch gemäß den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 ausüben, indem er ein Schreiben an den für die Verarbeitung verantwortlichen Mitarbeiter sendet: Valentín Gómez, Geschäftsführer, zusammen mit einer Fotokopie seines Personalausweises an TÉCNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logroño (La Rioja) oder über die E-Mail Adresse info@indexfix.com.",
+    "button-send": "Senden"
+  },
+  "menu-aside": {
+    "button-features": "Eigenschaften",
+    "button-range": "Zum Sortiment",
+    "button-resources": "Ressourcen herunterladen",
+    "button-info": "Informationen"
+  }
+}

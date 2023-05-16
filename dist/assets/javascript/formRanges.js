@@ -1,0 +1,1 @@
+!function(){const e=document.querySelectorAll(".js-form-range");e&&e.forEach((e=>{const t=document.querySelector(`#${e.id}Output`),n=n=>{const u=t.dataset.unitMeasure;t.value=u?`${e.value} ${u}`:e.value;const a=100*(e.value-e.min)/e.max;let c;c=a<=50?.75*(50-a)/50:-.75*(a-50)/50,t.style.marginLeft=`calc(${a}% - ${t.clientWidth/2}px + ${c}rem)`};e.oninput=n,e.value=0,n()}))}();

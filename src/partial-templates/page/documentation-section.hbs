@@ -1,0 +1,30 @@
+<a id="documentation-section"></a>
+{{#with documentation-section}}
+  <section class="section">
+    <div class="container">
+      <h2 class="section__title">{{title}}</h2>
+      <ul class="row documentation__list">
+      {{#each documentations}}
+        <li class="col-12 col-md-6 col-xl-3 documentation__list-item">
+          <div class="documentation__item">
+            <div class="documentation__item-title">
+              <i class="bi bi-{{this.icon}} documentation__icon"></i>
+              <span class="documentation__text">{{this.title}}</span>
+            </div>
+            <ul class="documentation__item-content">
+              {{#each this.items}}
+                <li class="documentation__item-link-container">
+                  <a href="{{this.url}}" class="documentation__item-link">
+                    <i
+                      class="bi bi-{{../this.list-icon}} documentation__item-link-icon"
+                    ></i>{{this.text}}</a>
+                </li>
+              {{/each}}
+            </ul>
+          </div>
+        </li>
+      {{/each}}
+    </ul>
+    </div>
+  </section>
+{{/with}}

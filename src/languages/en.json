@@ -1,0 +1,29 @@
+{
+  "lang": "en",
+
+  "contact-section": {
+    "title": "Request more information",
+    "error": "Error",
+    "close": "Close",
+    "name": "Name",
+    "surnames": "Surname",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Telephone",
+    "phone-legend": "Accepted format 613445599 or +34613445599",
+    "message": "Message/Query",
+    "personal-data": "I authorise the use of my personal data by the technical staff of Técnicas Expansivas SL (Tax ID (CIF) B-26220491) to contact me exclusively for the purpose of training me and providing me with technical advice regarding their products.",
+    "legal-data": "I have read and accept the <a href='https://www.indexfix.com/notice' target='_blank' class='index-link'>Legal Notice</a> and <a href='https://www.indexfix.com/privacy' target='_blank' class='index-link'>Privacy Policy</a>.",
+    "description-1": "TÉCNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on the specific case, have any of the following purposes: responding to your request, complaint or question, maintaining the established relationship, the comprehensive and commercial management of customers, accounting and invoicing or sending of communications of news and activities related with TÉCNICAS EXPANSIVAS S.L., including by electronic means.",
+    "description-2": "The data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27<sup>th</sup> of April 2016. The data is registered in our files for the time necessary for the purpose for which it was collected. The period during which the personal data will be kept will be that established by current legislation and always during the period of the provision of the service for which it was provided.",
+    "description-3": "We do not recommend sending personal data that is classified as highly confidential by data protection legislation, such as that related to health, as it is not sent coded or encrypted. Therefore, if you send this type of data, it will be at your own risk.",
+    "description-4": "The user may at any time exercise their rights of access, rectification, opposition, erasure, restricted processing or requesting of its portability in accordance with the content of the General Data Protection Regulation (GDPR) of the 27<sup>th</sup> of April 2016 by sending a letter to the data controller: Valentín Gómez, Manager, along with a photocopy of their National Identity Document (DNI), to TÉCNICAS EXPANSIVAS SL | P.I. La Portalada II | C/ Segador 13, 26006 | Logroño (La Rioja) or by email to info@indexfix.com",
+    "button-send": "Send"
+  },
+  "menu-aside": {
+    "button-features": "Characteristics",
+    "button-range": "See range",
+    "button-resources": "Download resources",
+    "button-info": "Information"
+  }
+}

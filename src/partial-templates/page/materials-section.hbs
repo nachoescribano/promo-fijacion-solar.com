@@ -1,0 +1,39 @@
+<a id="materials-section"></a>
+{{#with materials-section}}
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 mb-5">
+          <h2 class="section__title">
+            {{title}}
+          </h2>
+          <div class="swiper-container js-swiper-container-5">
+            <div class="row justify-content-center-768">
+              {{#each materials-cards}}
+                <div class="col-12 col-md-6 col-lg-3 section__instalation-item">
+                  <div class="card2">
+                    <picture>
+                      <source
+                        class="card2__image"
+                        srcset="{{this.image2x}}"
+                        media="(min-width: 768px)"
+                      />
+                      <img
+                        alt="{{this.description}}"
+                        class="card2__image"
+                        src="{{this.image}}"
+                      />
+                    </picture>
+                    <div class="card2__copy">
+                      {{this.description}}
+                    </div>
+                  </div>
+                </div>
+              {{/each}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{/with}}
