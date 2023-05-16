@@ -5,24 +5,24 @@
   "title": "Sistemas de instalación para PLACAS SOLARES: estructuras, anclajes y accesorios | INDEX",
   "home": "Inicio",
   "features": "Características",
-  "range": "Gama",
-  "applications": "Aplicaciones",
+  "structures": "Tipo de estructuras",
+  "range": "Gama de productos",
+  "kits": "Tipos de Kits Solares",
   "materials": "Materiales",
-  "installation": "Instalación",
-  "documentation": "Documentación",
+  "others": "Otros anclajes",
   "contact": "Contacto",
   "back-to-top": "Ir al inicio",
   "show-aside": "mostrar accesos rápidos",
   "main-section": {
     "title": "Fijación Sistemas de instalación para PLACAS SOLARES: estructuras, anclajes y accesorios",
-    "image-alt": "",
+    "image-alt": "Técnico caminando entre instalación solar sobre cubierta",
     "p": "Las instalaciones solares necesitan la máxima fiabilidad contra los elementos externos. Por ello, en INDEX® contamos con productos de alta calidad para las estructuras para placas de acero y aluminio, así como soluciones unificadas de montaje y fijaciones que simplifican la gestión de componentes y el ensamblado de la estructura en el lugar de instalación."
   },
   "header": {
     "url-home": "https://www.indexfix.com",
     "menu": "menu"
   },
-  "assembly-section": {
+  "features-section": {
     "title": "Un sistema fiable de fácil montaje y mantenimiento",
     "list": [
       {
@@ -33,27 +33,27 @@
       },
       {
         "image": "assets/images/icono-soporte-tecnico.svg",
-        "image-alt": "futuro",
+        "image-alt": "soporte técnico",
         "title": "Soporte técnico",
         "text": "Disponemos de un completo asesoramiento sobre los diferentes sistemas y su adecuación al emplazamiento de la instalación, cálculos personalizados y desgloses de componentes."
       },
       {
         "image": "assets/images/icono-produccion-nacional-certificada-sensibilidad-ambiental.svg",
-        "image-alt": "futuro",
+        "image-alt": "certificado",
         "title": "Producción nacional, certificada y con sensibilidad ambiental",
         "text": "Un importante volumen de los productos incluidos en nuestra gama es de procedencia nacional, necesario para garantizar los altos valores de calidad e innovación requeridos."
       },
       {
         "image": "assets/images/icono-pequeno-usuario.svg",
-        "image-alt": "futuro",
+        "image-alt": "pequeno usuario",
         "title": "Productos adaptados para el pequeño usuario",
         "text": "Nos gusta entender las necesidades de todos nuestros clientes para poder ofrecer el mejor servicio."
       },
       {
         "image": "assets/images/icono-formacion.svg",
-        "image-alt": "futuro",
-        "title": "Formación Impartimos",
-        "text": "formaciones personalizadas, con el objetivo de enseñar a hacer un uso correcto de todas las posibilidades y prestaciones de nuestros productos."
+        "image-alt": "formación",
+        "title": "Formación",
+        "text": "Impartimos formaciones personalizadas, con el objetivo de enseñar a hacer un uso correcto de todas las posibilidades y prestaciones de nuestros productos."
       }
     ]
   },
@@ -81,9 +81,9 @@
       {
         "title": "ESTRUCTURAS COPLANARES PARA PLACAS SOLARES",
         "description": "Soportes para placas solares indicados para cubiertas inclinadas. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
-        "image": "assets/images/SC-PSA-CUBIERTA-PANEL-5G.jpg",
-        "image2x": "assets/images/SC-PSA-CUBIERTA-PANEL-5G.jpg",
-        "image-alt": "CUBIERTA PANEL 5G",
+        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000.jpg",
+        "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000@2x.jpg",
+        "image-alt": "Estructura coplanar para placas solares",
         "systems": [
           {
             "title": "SC-PSA",
@@ -91,35 +91,37 @@
             "carousel": [
               {
                 "type": "image",
-                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-                "image-alt": ""
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Estructura coplanar para placas solares"
               },
               {
                 "type": "image",
-                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-                "image-alt": ""
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Estructura coplanar para placas solares"
               },
               {
-                "type": "video",
-                "src": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
-                "title": ""
+                "type": "image",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Estructura coplanar para placas solares"
               }
             ],
             "qualities-list": [
               "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
-              "Instalación en cubiertas metálicas, sobre zona elevada de grecas.",
-              "Orientación de placas tipo paisaje (horizontal).",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para cualquier paso de greca.",
+              "Orientación de placas tipo retrato (vertical).",
               "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
-              "Perfil dispuesto en formato discontinuo para reducir al mínimo los metros de perfil consumido.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
             "components": [
               {
-                "title": "DIN-6923 A2",
-                "description": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
-                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
+                "title": "DIN-7504-K A2",
+                "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
+                "image": "assets/images/icono-formacion.svg",
                 "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000_16-6.jpg",
                 "image-alt": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
                 "url": "",
