@@ -5,10 +5,10 @@
   "title": "Sistemas de instalación para PLACAS SOLARES: estructuras, anclajes y accesorios | INDEX",
   "home": "Inicio",
   "features": "Características",
-  "structures": "Tipo de estructuras",
+  "structures": "Tipos de estructuras",
   "range": "Gama de productos",
-  "kits": "Tipos de Kits Solares",
-  "materials": "Materiales",
+  "calculator": "Kits Solares",
+  "solar-kits": "Tipos de Kits Solares",
   "others": "Otros anclajes",
   "contact": "Contacto",
   "back-to-top": "Ir al inicio",
@@ -72,17 +72,19 @@
         "image": "assets/images/MAT_ALU",
         "image-alt": "Aluminio"
       },
-      "a": {
+      "ac": {
         "image": "assets/images/MAT_ACERO.jpg",
         "image-alt": "Acero"
-      }
+      },
+      "atl": "assets/images/RP_ATLANTIS C4-H.jpg",
+      "image-alt": "Atlantis C4-M"
     },
     "types": [
       {
         "title": "ESTRUCTURAS COPLANARES PARA PLACAS SOLARES",
         "description": "Soportes para placas solares indicados para cubiertas inclinadas. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
-        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000.jpg",
-        "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000@2x.jpg",
+        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1.jpg",
+        "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1@2x.jpg",
         "image-alt": "Estructura coplanar para placas solares",
         "systems": [
           {
@@ -134,7 +136,7 @@
                 "image2x": "assets/images/GM-A@2x.jpg",
                 "image-alt": "Galga de aluminio de marco.",
                 "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["a1"]
+                "logos": ["al"]
               },
               {
                 "title": "KFR-SC",
@@ -143,7 +145,7 @@
                 "image2x": "assets/images/KFR-SC@2x.jpg",
                 "image-alt": "Grapa fijación rápida.",
                 "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "a"]
+                "logos": ["al", "ac"]
               },
               {
                 "title": "PSA-A",
@@ -195,7 +197,7 @@
                 "image2x": "assets/images/GM-A@2x.jpg",
                 "image-alt": "Galga de aluminio de marco.",
                 "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["a1"]
+                "logos": ["al"]
               },
               {
                 "title": "KFR-SC",
@@ -204,7 +206,7 @@
                 "image2x": "assets/images/KFR-SC@2x.jpg",
                 "image-alt": "Grapa fijación rápida.",
                 "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "a"]
+                "logos": ["al", "ac"]
               },
               {
                 "title": "PSA-A",
@@ -262,7 +264,7 @@
                 "image2x": "assets/images/GM-A@2x.jpg",
                 "image-alt": "Galga de aluminio de marco.",
                 "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["a1"]
+                "logos": ["al"]
               },
               {
                 "title": "KFR-SC",
@@ -271,7 +273,7 @@
                 "image2x": "assets/images/KFR-SC@2x.jpg",
                 "image-alt": "Grapa fijación rápida.",
                 "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "a"]
+                "logos": ["al", "ac"]
               },
               {
                 "title": "PSA-AV",
@@ -373,7 +375,15 @@
                 "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
               }
             ],
-            "qualities-list": ["XXXX.", "XXX."],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, montado sobre accesorios de fijación regulables.",
+              "Orientación de placas tipo retrato (vertical) y tipo paisaje (horizontal).",
+              "Fijación del sistema ensamblada sobre accesorios de fijación regulables, anclados a cubierta o a subestructura, con amplia gama disponible de accesorios de fijación regulables.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje"
+            ],
             "components": [
               {
                 "title": "DIN-7504-K A2",
@@ -391,7 +401,7 @@
                 "image2x": "assets/images/GM-A@2x.jpg",
                 "image-alt": "Galga de aluminio de marco.",
                 "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["a1"]
+                "logos": ["al"]
               },
               {
                 "title": "KFR-SC",
@@ -400,7 +410,7 @@
                 "image2x": "assets/images/KFR-SC@2x.jpg",
                 "image-alt": "Grapa fijación rápida.",
                 "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "a"]
+                "logos": ["al", "ac"]
               },
               {
                 "title": "KFS-FI",
@@ -432,228 +442,702 @@
             ]
           },
           {
+            "title": "SC-PSC",
+            "description": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, montado sobre accesorios de fijación regulables y directamente a chapa metálica.",
+              "Orientación de placas tipo retrato (vertical) y tipo paisaje (horizontal).",
+              "Fijación del sistema ensamblada sobre accesorios de fijación regulables, anclados a cubierta o a subestructura, con amplia gama disponible de accesorios de fijación regulables.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
+              "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de las placas.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              {
+                "title": "GMA-A",
+                "description": "Galga de aluminio de marco.",
+                "image": "assets/images/GM-A.jpg",
+                "image2x": "assets/images/GM-A@2x.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+                "logos": ["al"]
+              },
+              {
+                "title": "KFR-SC",
+                "description": "Grapa fijación rápida.",
+                "image": "assets/images/KFR-SC.jpg",
+                "image2x": "assets/images/KFR-SC@2x.jpg",
+                "image-alt": "Grapa fijación rápida.",
+                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+                "logos": ["al", "ac"]
+              },
+              {
+                "title": "DIN-7504-K A2",
+                "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2.",
+                "image": "assets/images/DIN-7504-K-A2.jpg",
+                "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
+                "image-alt": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
+                "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "PSE-CUN",
+                "description": "Unión de aluminio para perfil PSE-C.",
+                "image": "assets/images/PSE-CUN.jpg",
+                "image2x": "assets/images/PSE-CUN@2x.jpg",
+                "image-alt": "Unión de aluminio para perfil PSE-C.",
+                "url": "https://www.indexfix.com/producto/pse-cun-union-de-aluminio-para-perfil-pse-c",
+                "logos": ["al"]
+              },
+              {
+                "title": "PSE-C",
+                "description": "Perfil de aluminio para fijación ensamblada lateral..",
+                "image": "assets/images/PSE-C.jpg",
+                "image2x": "assets/images/PSE-C@2x.jpg",
+                "image-alt": "Perfil de aluminio para fijación ensamblada lateral..",
+                "url": "https://www.indexfix.com/producto/pse-c-perfil-de-aluminio-para-fijacion-ensamblada-lateral",
+                "logos": ["al"]
+              }              
+            ]
+          },
+          {
             "title": "SC-GPX",
-            "description": "XXXX",
-            "carousel": [],
-            "qualities-list": ["XXXX.", "XXX."],
-            "components": []
+            "description": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS.",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para cualquier paso de greca.",
+              "Orientación de placas tipo retrato (vertical).",
+              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              {
+                "title": "DIN-6923 A2",
+                "description": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
+                "image": "assets/images/DIN-6923-A2.jpg",
+                "image2x": "assets/images/DIN-6923-A2@2x.jpg",
+                "image-alt": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
+                "url": "https://www.indexfix.com/producto/11606-DIN-6923-A2-tuerca-brida-grafilada-din-6923-inoxidable-a2",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "DIN-603 A2",
+                "description": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
+                "image": "assets/images/DIN-603-A2.jpg",
+                "image2x": "assets/images/DIN-603-A2@2x.jpg",
+                "image-alt": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
+                "url": "https://www.indexfix.com/producto/11608-DIN-603-A2-tornillo-din-603-cabeza-redonda-y-cuello-cuadrado-inoxidable-a2",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "GM-A",
+                "description": "Galga de aluminio de marco.",
+                "image": "assets/images/GM-A.jpg",
+                "image2x": "assets/images/GM-A@2x.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+                "logos": ["al"]
+              },
+              {
+                "title": "KFR-SC",
+                "description": "Grapa fijación rápida.",
+                "image": "assets/images/KFR-SC.jpg",
+                "image2x": "assets/images/KFR-SC@2x.jpg",
+                "image-alt": "Grapa fijación rápida.",
+                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+                "logos": ["al", "ac"]
+              },
+              {
+                "title": "EMP-XS",
+                "description": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
+                "image": "assets/images/EMP-XS.jpg",
+                "image2x": "assets/images/EMP-XS@2x.jpg",
+                "image-alt": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
+                "url": "https://www.indexfix.com/producto/11612-EMP-XS-empalme-indextrut-solar-atlantis-c4-m",
+                "logos": ["a2inox", "atl"]
+              },
+              {
+                "title": "GP-XS",
+                "description": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
+                "image": "assets/images/GP-XS.jpg",
+                "image2x": "assets/images/GP-XS@2x.jpg",
+                "image-alt": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
+                "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
+                "logos": ["a2inox", "atl"]
+              }
+            ]
           },
           {
             "title": "SC-GPD",
-            "description": "XXXX",
-            "carousel": [],
-            "qualities-list": ["XXXX.", "XXX."],
-            "components": []
+            "description": "Sistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "SSistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "SSistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "SSistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas.",
+              "Orientación de placas tipo paisaje (horizontal).",
+              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir al mínimo los metros de perfil consumido.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              {
+                "title": "GM-A",
+                "description": "Galga de aluminio de marco.",
+                "image": "assets/images/GM-A.jpg",
+                "image2x": "assets/images/GM-A@2x.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+                "logos": ["al"]
+              },
+              {
+                "title": "KFR-SC",
+                "description": "Grapa fijación rápida.",
+                "image": "assets/images/KFR-SC.jpg",
+                "image2x": "assets/images/KFR-SC@2x.jpg",
+                "image-alt": "Grapa fijación rápida.",
+                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+                "logos": ["al", "ac"]
+              },
+              {
+                "title": "GP-XS",
+                "description": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
+                "image": "assets/images/GP-XS.jpg",
+                "image2x": "assets/images/GP-XS@2x.jpg",
+                "image-alt": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
+                "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
+                "logos": ["a2inox", "atl"]
+              }
+            ]
           },
           {
             "title": "SC-GPV",
-            "description": "XXXX",
-            "carousel": [],
-            "qualities-list": ["XXXX.", "XXX."],
-            "components": []
+            "description": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona baja de la cubierta.",
+              "Orientación de placas tipo paisaje (horizontal).",
+              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+              ],
+            "components": [
+              {
+                "title": "GM-A",
+                "description": "Galga de aluminio de marco.",
+                "image": "assets/images/GM-A.jpg",
+                "image2x": "assets/images/GM-A@2x.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+                "logos": ["al"]
+              },
+              {
+                "title": "KFR-SC",
+                "description": "Grapa fijación rápida.",
+                "image": "assets/images/KFR-SC.jpg",
+                "image2x": "assets/images/KFR-SC@2x.jpg",
+                "image-alt": "Grapa fijación rápida.",
+                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+                "logos": ["al", "ac"]
+              },
+              {
+                "title": "GP-VD",
+                "description": "Guía perforada INDEXTRUT solar para fijación en valle discontinua. Acero Atlantis C4-M.",
+                "image": "assets/images/GP-VD.jpg",
+                "image2x": "assets/images/GP-VD@2x.jpg",
+                "image-alt": "Guía perforada INDEXTRUT solar para fijación en valle discontinua. Acero Atlantis C4-M.",
+                "url": "https://www.indexfix.com/producto/gp-vd-guia-perforada-indextrut-solar-para-fijacion-en-valle-discontinua-acero-atlantis-c4-m",
+                "logos": ["ac", "atl"]
+              }
+            ]
           }
         ]
       },
       {
         "title": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
         "description": "Soportes para placas solares indicados para cubiertas planas y de baja pendiente. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
-        "image": "assets/images/SC-PSA-CUBIERTA-PANEL-3G.jpg",
-        "image2x": "assets/images/SC-PSA-CUBIERTA-PANEL-3G.jpg",
-        "image-alt": "CUBIERTA PANEL 5G",
+        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+        "image-alt": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
         "systems": [
           {
             "title": "ST-PSE",
-            "description": "XXXX",
-            "carousel": [],
-            "qualities-list": ["XXXX.", "XXX."],
-            "components": []
+            "description": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas y de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación regulable a 25°, 30° y 35°.",
+              "Orientación de placas tipo retrato (vertical).",
+              "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
+              "Opción de fijación del sistema ensamblada sobre estructura auxiliar de perfiles solares anclada a subestructura, mediante tuercas de fijación rápida montadas en los pies de apoyo de los triángulos.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión longitudinal entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
+              "Montaje entre perfiles y triángulos mediante soluciones preensambladas de fijación rápida.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              {
+                "title": "DIN-7504-K A2",
+                "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2.",
+                "image": "assets/images/DIN-7504-K-A2.jpg",
+                "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
+                "image-alt": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
+                "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "GMA-A",
+                "description": "Galga de aluminio de marco.",
+                "image": "assets/images/GM-A.jpg",
+                "image2x": "assets/images/GM-A@2x.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+                "logos": ["al"]
+              },
+              {
+                "title": "KFR-SC",
+                "description": "Grapa fijación rápida.",
+                "image": "assets/images/KFR-SC.jpg",
+                "image2x": "assets/images/KFR-SC@2x.jpg",
+                "image-alt": "Grapa fijación rápida.",
+                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+                "logos": ["al", "ac"]
+              },
+              {
+                "title": "TPA-R",
+                "description": "Triángulo regulable de aluminio premontado.",
+                "image": "assets/images/TPA-R.jpg",
+                "image2x": "assets/images/TPA-R@2x.jpg",
+                "image-alt": "Triángulo regulable de aluminio premontado.",
+                "url": "https://www.indexfix.com/producto/11604-TPA-R-triangulo-regulable-de-aluminio-premontado",
+                "logos": ["al"]
+              },
+              {
+                "title": "KFS-FL",
+                "description": "Conector cruzado para fijación lateral. Inoxidable A2.",
+                "image": "assets/images/KFS-FL.jpg",
+                "image2x": "assets/images/KFS-FL@2x.jpg",
+                "image-alt": "Conector cruzado para fijación lateral. Inoxidable A2.",
+                "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "PSE-UN",
+                "description": "Unión de aluminio para perfil PSE-A.",
+                "image": "assets/images/PSE-UN.jpg",
+                "image2x": "assets/images/PSE-UN@2x.jpg",
+                "image-alt": "Unión de aluminio para perfil PSE-A.",
+                "url": "https://www.indexfix.com/producto/11614-PSE-UN-union-de-perfil-de-aluminio-para-fijacion-ensamblada",
+                "logos": ["al"]
+              },
+              {
+                "title": "PSE-A",
+                "description": "Perfil de aluminio para fijación ensamblada.",
+                "image": "assets/images/PSE-A.jpg",
+                "image2x": "assets/images/PSE-A@2x.jpg",
+                "image-alt": "Perfil de aluminio para fijación ensamblada.",
+                "url": "https://www.indexfix.com/producto/11615-PSE-A-perfil-de-aluminio-para-fijacion-ensamblada",
+                "logos": ["al"]
+              }
+            ]
           },
           {
-            "title": "ST-PGX",
-            "description": "XXXX",
-            "carousel": [],
-            "qualities-list": ["XXXX.", "XXX."],
-            "components": []
+            "title": "ST-GPX",
+            "description": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas y de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación regulable entre 25° y 35°.",
+              "Orientación de placas tipo retrato (vertical) y tipo paisaje (horizontal).",
+              "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
+              "Opción de fijación del sistema ensamblada sobre estructura auxiliar de guías perforadas solares anclada a subestructura, mediante tuercas de fijación rápida montadas en los pies de apoyo de los triángulos.",
+              "Guía dispuesta en formato continuo para simplificar la planificación de la instalación.",
+              "Unión longitudinal entre guías mediante empalme interior y tornillos DIN603 de montaje rápido, sin interferencia en la fijación de placas.",
+              "Montaje entre perfiles y triángulos mediante tuercas de fijación rápida.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              {
+                "title": "DIN-6923 A2",
+                "description": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
+                "image": "assets/images/DIN-6923-A2.jpg",
+                "image2x": "assets/images/DIN-6923-A2@2x.jpg",
+                "image-alt": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
+                "url": "https://www.indexfix.com/producto/11606-DIN-6923-A2-tuerca-brida-grafilada-din-6923-inoxidable-a2",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "DIN-603 A2",
+                "description": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
+                "image": "assets/images/DIN-603-A2.jpg",
+                "image2x": "assets/images/DIN-603-A2@2x.jpg",
+                "image-alt": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
+                "url": "https://www.indexfix.com/producto/11608-DIN-603-A2-tornillo-din-603-cabeza-redonda-y-cuello-cuadrado-inoxidable-a2",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "GM-A",
+                "description": "Galga de aluminio de marco.",
+                "image": "assets/images/GM-A.jpg",
+                "image2x": "assets/images/GM-A@2x.jpg",
+                "image-alt": "Galga de aluminio de marco.",
+                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+                "logos": ["al"]
+              },
+              {
+                "title": "KFR-SC",
+                "description": "Grapa fijación rápida.",
+                "image": "assets/images/KFR-SC.jpg",
+                "image2x": "assets/images/KFR-SC@2x.jpg",
+                "image-alt": "Grapa fijación rápida.",
+                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+                "logos": ["al", "ac"]
+              },
+              {
+                "title": "DIN-6921 A2",
+                "description": "Tornillo DIN-6921. Tornillo hexagonal con arandela estampada y grafilada. Inoxidable A2.",
+                "image": "assets/images/DIN-6921-A2.jpg",
+                "image2x": "assets/images/DIN-6921-A2@2x.jpg",
+                "image-alt": "Tornillo DIN-6921. Tornillo hexagonal con arandela estampada y grafilada. Inoxidable A2.",
+                "url": "https://www.indexfix.com/producto/11607-DIN-6921-A2-tornillo-din-6921-tornillo-hexagonal-con-arandela-estampada-y-grafilada-inoxidable-a2",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "TU-RX A2",
+                "description": "Tuerca guía de fijación Rápida Indextrut. Inoxidable A2.",
+                "image": "assets/images/TU-RX-A2.jpg",
+                "image2x": "assets/images/TU-RX-A2@2x.jpg",
+                "image-alt": "Tuerca guía de fijación Rápida Indextrut. Inoxidable A2.",
+                "url": "https://www.indexfix.com/producto/11609-TU-RX-A2-tuerca-rapida-indextrut-inoxidable-a2",
+                "logos": ["a2inox"]
+              },
+              {
+                "title": "TRP-XS",
+                "description": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
+                "image": "assets/images/TRP-XS.jpg",
+                "image2x": "assets/images/TRP-XS@2x.jpg",
+                "image-alt": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
+                "url": "https://www.indexfix.com/producto/11602-TRP-XS-triangulo-regulable-premontado-indextrut-acero-con-recubrimiento-atlantis-c4-m",
+                "logos": ["ac", "atl"]
+              },
+              {
+                "title": "EMP-XS",
+                "description": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
+                "image": "assets/images/EMP-XS.jpg",
+                "image2x": "assets/images/EMP-XS@2x.jpg",
+                "image-alt": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
+                "url": "https://www.indexfix.com/producto/11612-EMP-XS-empalme-indextrut-solar-atlantis-c4-m",
+                "logos": ["a2inox", "atl"]
+              },
+              {
+                "title": "GP-XS",
+                "description": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
+                "image": "assets/images/GP-XS.jpg",
+                "image2x": "assets/images/GP-XS@2x.jpg",
+                "image-alt": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
+                "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
+                "logos": ["a2inox", "atl"]
+              }
+            ]
           }
         ]
       }
     ]
   },
-
   "range-section": {
-    "title": "Pistola de fijación a gas",
+    "title": "Gamas de productos para instalaciones solares",
+    "subtitle": "Aquí explicar que los productos se pueden adquirir en conjunto cuando adquieres un Sistema o Kit, o por separado. Aquí se muestran las gamas.",
     "range-cards": [
       {
-        "title": "FG-GUN",
-        "description": "Pistola semiautomática de fijación a gas sin cables para tabiquería seca.",
-        "image": "assets/images/FG-GUNEL-pistola-PIM-2.webp",
-        "image2x": "assets/images/FG-GUNEL-pistola-PIM-2_2x.webp",
-        "image-alt": "CFG-GUN",
-        "related-products-id": "FG-GUN"
+        "title": "GRAPAS Y GALGAS",
+        "description": "Para montaje de placas",
+        "image": "assets/images/KFR-SC.jpg",
+        "image2x": "assets/images/KFR-SC@2x.jpg",
+        "image-alt": "Grapas y galgas"
       },
       {
-        "title": "FG-GUNEL",
-        "description": "Pistola semiautomática de fijación a gas sin cables para electricisticas",
-        "image": "assets/images/FG-GUNEL-1-1_1.webp",
-        "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
-        "image-alt": "FG-GUNEL",
-        "related-products-id": "FG-GUNEL"
-      }
-    ],
-    "card-info-1": "La fijación directa mediante pistolas de gas, es sencilla: después de colocar la carga de gas, se sitúa la punta de la herramienta en la superficie para seguidamente accionar el gatillo.",
-    "card-info-2": "Tras vencer el sistema de seguridad y apretar el gatillo, se activa una chispa que enciende el gas en la cámara de combustión. La batería, incluida en el maletín, activa un ventilador que extrae los gases de combustión.",
-    "button-text": "Ver producto",
-    "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
-    "related-products-title": "Productos relacionados",
-    "commons-related-products": [
-      {
-        "title": "FG-CL",
-        "description": "Clavos estándar con recubrimiento cincado para hormigón",
-        "image": "assets/images/FG-CL.jpg",
-        "image-alt": "FG-CL",
-        "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
+        "title": "PERFILES, UNIONES, GUÍAS Y EMPALMES",
+        "description": "Para estructura de apoyo",
+        "image": "assets/images/GP-XS.jpg",
+        "image2x": "assets/images/GP-XS@2x.jpg",
+        "image-alt": "PERFILES, UNIONES, GUÍAS Y EMPALMES"
       },
       {
-        "title": "FG-CLH",
-        "description": "Clavos con recubrimiento cincado para materiales duros",
-        "image": "assets/images/FG-CLH.jpg",
-        "image-alt": "FG-CLH",
-        "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
-      }
-    ],
-    "related-products": [
-      {
-        "id": "FG-GUN",
-        "swiper-id": "2",
-        "products": [
-          {
-            "title": "FG-ARAM EP",
-            "description": "Corona metálica. Formato de venta: bote de plástico",
-            "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
-            "image-alt": "FG-ARAM EP",
-            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
-          },
-          {
-            "title": "FG-ARAM",
-            "description": "Corona metálica para pistola de gas",
-            "image": "assets/images/FG-ARAM.jpg",
-            "image-alt": "FG-ARAM",
-            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
-          },
-          {
-            "title": "OME",
-            "description": "Anclaje universal",
-            "image": "assets/images/OME.jpg",
-            "image-alt": "OME",
-            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
-          },
-          {
-            "title": "AB-GU",
-            "description": "Abrazadera guía simple",
-            "image": "assets/images/AB-GU.jpg",
-            "image-alt": "AB-GU",
-            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
-          },
-          {
-            "title": "AB-MUG",
-            "description": "Abrazadera multidiámetro",
-            "image": "assets/images/AB-MUG.jpg",
-            "image-alt": "AB-MUG",
-            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
-          },
-          {
-            "title": "AB-PR",
-            "description": "Abrazadera a presión",
-            "image": "assets/images/AB-PR.jpg",
-            "image-alt": "AB-PR",
-            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
-          },
-          {
-            "title": "AB-PID",
-            "description": "Grapa un pie",
-            "image": "assets/images/AB-PID.jpg",
-            "image-alt": "AB-PID",
-            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
-          },
-          {
-            "title": "FG-PLET",
-            "description": "Pletina roscada",
-            "image": "assets/images/FG-PLET.jpg",
-            "image-alt": "FG-PLET",
-            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
-          },
-          {
-            "title": "FG-ABRA",
-            "description": "Abrazadera a presión",
-            "image": "assets/images/FG-ABRA.jpg",
-            "image-alt": "FG-ABRA",
-            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
-          },
-          {
-            "title": "FG-BASE",
-            "description": "Base para brida. Color gris disponible",
-            "image": "assets/images/FG-BASE.jpg",
-            "image-alt": "FG-BASE",
-            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
-          },
-          {
-            "title": "CI-PE",
-            "description": "Cinta perforada",
-            "image": "assets/images/CI-PE.jpg",
-            "image-alt": "CI-PE",
-            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
-          }
-        ]
+        "title": "CONECTORES + COMPLEMENTOS",
+        "description": "Para montaje de estructuras solares",
+        "image": "assets/images/TU-RX.jpg",
+        "image2x": "assets/images/TU-RX@2x.jpg",
+        "image-alt": "Conectores + complementos"
       },
       {
-        "id": "FG-GUNEL",
-        "swiper-id": "3",
-        "products": [
-          {
-            "title": "FG-GAS",
-            "description": "Cartucho de gas",
-            "image": "assets/images/FG-GAS.jpg",
-            "image-alt": "FG-GAS",
-            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
-          },
-          {
-            "title": "FG-CAEL",
-            "description": "Cañón de pistola especial para electricista",
-            "image": "assets/images/FG-CAEL.jpg",
-            "image-alt": "FG-CAEL",
-            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
-          },
-          {
-            "title": "FG-CLCAR",
-            "description": "Cargador para 40 clavos",
-            "image": "assets/images/FG-CLCAR.jpg",
-            "image-alt": "FG-CLCAR",
-            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
-          },
-          {
-            "title": "FG-IMAN",
-            "description": "Imán",
-            "image": "assets/images/FG-IMAN.jpg",
-            "image-alt": "FG-IMAN",
-            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
-          },
-          {
-            "title": "FG-BAT",
-            "description": "Batería para pistola",
-            "image": "assets/images/FG-BAT.jpg",
-            "image-alt": "FG-BAT",
-            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
-          },
-          {
-            "title": "FG-CAR",
-            "description": "Cargador para pistola",
-            "image": "assets/images/FG-CAR.jpg",
-            "image-alt": "FG-CAR",
-            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
-          }
-        ]
+        "title": "TRIÁNGULOS",
+        "description": "Para instalación de placas solares",
+        "image": "assets/images/TPA-R.jpg",
+        "image2x": "assets/images/TPA-R@2x.jpg",
+        "image-alt": "Triángulos"
+      },
+      {
+        "title": "ACCESORIOS REGULABLES",
+        "description": "Para la instalación de placas solares",
+        "image": "assets/images/GS-TU.jpg",
+        "image2x": "assets/images/GS-TU@2x.jpg",
+        "image-alt": "Accesorios regulables"
+      },
+      {
+        "title": "ACCESORIOS DE FIJACIÓN DIRECTA",
+        "description": "Para la instalación de placas solares",
+        "image": "assets/images/TAC.jpg",
+        "image2x": "assets/images/TAC@2x.jpg",
+        "image-alt": "Accesorios de fijación directa"
+      },
+      {
+        "title": "ACCESORIOS DE ESTANQUEIDAD",
+        "description": "Accesorios de estanqueidad",
+        "image": "assets/images/ARS-P.jpg",
+        "image2x": "assets/images/ARS-P@2x.jpg",
+        "image-alt": "Accesorios de estanqueidad"
       }
     ]
+  },
+  "calculator-section": {
+    "title": "Kits Solares. Más económicos, menos desperdicio",
+    "subtitle": "Los Kits están adaptados para instalaciones coplanares o triangulares y reúnen los elementos necesarios para completar todo el proceso de montaje",
+    "image-alt": "Caja kit solar delante de instalación solar",
+    "p-1": "Disponemos de <strong>kits para 2 o 3 placas (kits de origen)</strong> para los distintos tipos de soportes para placas solares (coplanar y triangular). <strong>kits para 2 o 3 placas (kits de origen)</strong>, que permiten incrementar el numero de placas a instalar, pero sin incurrir en costes innecesarios.",
+    "p-2": "Los kits de ampliación contienen todo lo necesario para realizar la ampliación pero <strong>eliminando los productos no necesarios</strong> (grapas y galgas duplicadas), y por lo tanto ahorrando costes y evitando el desperdicio.",
+    "question-number-solar-panels": "¿Cuántas placas solares quieres unir? Selecciona el número de placas",
+    "answer-number-kits": [
+      {}
+    ]
+
   },
   "applications-section": {
     "title": "Aplicaciones",
