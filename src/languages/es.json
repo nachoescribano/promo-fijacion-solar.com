@@ -79,8 +79,234 @@
       "atl": "assets/images/RP_ATLANTIS C4-H.jpg",
       "image-alt": "Atlantis C4-M"
     },
-    "types": [
-      {
+    "components": {
+      "DIN-603 A2": {
+        "title": "DIN-603 A2",
+        "description": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
+        "image": "assets/images/DIN-603-A2.jpg",
+        "image2x": "assets/images/DIN-603-A2@2x.jpg",
+        "image-alt": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
+        "url": "https://www.indexfix.com/producto/11608-DIN-603-A2-tornillo-din-603-cabeza-redonda-y-cuello-cuadrado-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "DIN-6923 A2": {
+        "title": "DIN-6923 A2",
+        "description": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
+        "image": "assets/images/DIN-6923-A2.jpg",
+        "image2x": "assets/images/DIN-6923-A2@2x.jpg",
+        "image-alt": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
+        "url": "https://www.indexfix.com/producto/11606-DIN-6923-A2-tuerca-brida-grafilada-din-6923-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "DIN-6921 A2": {
+        "title": "DIN-6921 A2",
+        "description": "Tornillo DIN-6921. Tornillo hexagonal con arandela estampada y grafilada. Inoxidable A2.",
+        "image": "assets/images/DIN-6921-A2.jpg",
+        "image2x": "assets/images/DIN-6921-A2@2x.jpg",
+        "image-alt": "Tornillo DIN-6921. Tornillo hexagonal con arandela estampada y grafilada. Inoxidable A2.",
+        "url": "https://www.indexfix.com/producto/11607-DIN-6921-A2-tornillo-din-6921-tornillo-hexagonal-con-arandela-estampada-y-grafilada-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "DIN-7504-K-A2": {
+        "title": "DIN-7504-K A2",
+        "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2.",
+        "image": "assets/images/DIN-7504-K-A2.jpg",
+        "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
+        "image-alt": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
+        "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "EMP-XS": {
+        "title": "EMP-XS",
+        "description": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
+        "image": "assets/images/EMP-XS.jpg",
+        "image2x": "assets/images/EMP-XS@2x.jpg",
+        "image-alt": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
+        "url": "https://www.indexfix.com/producto/11612-EMP-XS-empalme-indextrut-solar-atlantis-c4-m",
+        "logos": [
+          "a2inox",
+          "atl"
+        ]
+      },
+      "GM-A": {
+        "title": "GM-A",
+        "description": "Galga de aluminio de marco.",
+        "image": "assets/images/GM-A.jpg",
+        "image2x": "assets/images/GM-A@2x.jpg",
+        "image-alt": "Galga de aluminio de marco.",
+        "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+        "logos": [
+          "al"
+        ]
+      },
+      "GP-VD": {
+        "title": "GP-VD",
+        "description": "Guía perforada INDEXTRUT solar para fijación en valle discontinua. Acero Atlantis C4-M.",
+        "image": "assets/images/GP-VD.jpg",
+        "image2x": "assets/images/GP-VD@2x.jpg",
+        "image-alt": "Guía perforada INDEXTRUT solar para fijación en valle discontinua. Acero Atlantis C4-M.",
+        "url": "https://www.indexfix.com/producto/gp-vd-guia-perforada-indextrut-solar-para-fijacion-en-valle-discontinua-acero-atlantis-c4-m",
+        "logos": [
+          "ac",
+          "atl"
+        ]
+      },
+      "GP-XS": {
+        "title": "GP-XS",
+        "description": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
+        "image": "assets/images/GP-XS.jpg",
+        "image2x": "assets/images/GP-XS@2x.jpg",
+        "image-alt": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
+        "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
+        "logos": [
+          "a2inox",
+          "atl"
+        ]
+      },
+      "KFS-FI": {
+        "title": "KFS-FI",
+        "description": "Conector cruzado para fijación inferior. Inoxidable A2.",
+        "image": "assets/images/KFS-FI.jpg",
+        "image2x": "assets/images/KFS-FI@2x.jpg",
+        "image-alt": "Conector cruzado para fijación inferior. Inoxidable A2.",
+        "url": "https://www.indexfix.com/producto/11611-KFS-FI-conector-cruzado-para-fijacion-inferior-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "KFS-FL": {
+        "title": "KFS-FL",
+        "description": "Conector cruzado para fijación lateral. Inoxidable A2.",
+        "image": "assets/images/KFS-FL.jpg",
+        "image2x": "assets/images/KFS-FL@2x.jpg",
+        "image-alt": "Conector cruzado para fijación lateral. Inoxidable A2.",
+        "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "KFR-SC": {
+        "title": "KFR-SC",
+        "description": "Grapa fijación rápida.",
+        "image": "assets/images/KFR-SC.jpg",
+        "image2x": "assets/images/KFR-SC@2x.jpg",
+        "image-alt": "Grapa fijación rápida.",
+        "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+        "logos": [
+          "al",
+          "ac"
+        ]
+      },
+      "PSA-A": {
+        "title": "PSA-A",
+        "description": "Perfil de aluminio con alas.",
+        "image": "assets/images/PSA-A.jpg",
+        "image2x": "assets/images/PSA-A@2x.jpg",
+        "image-alt": "Perfil de aluminio con alas.",
+        "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
+        "logos": [
+          "al"
+        ]
+      },
+      "PSA-AV": {
+        "title": "PSA-AV",
+        "description": "Perfil de aluminio con alas.",
+        "image": "assets/images/PSA-AV.jpg",
+        "image2x": "assets/images/PSA-AV@2x.jpg",
+        "image-alt": "Perfil de aluminio con alas.",
+        "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
+        "logos": [
+          "al"
+        ]
+      },
+      "PSE-A": {
+        "title": "PSE-A",
+        "description": "Perfil de aluminio para fijación ensamblada.",
+        "image": "assets/images/PSE-A.jpg",
+        "image2x": "assets/images/PSE-A@2x.jpg",
+        "image-alt": "Perfil de aluminio para fijación ensamblada.",
+        "url": "https://www.indexfix.com/producto/11615-PSE-A-perfil-de-aluminio-para-fijacion-ensamblada",
+        "logos": [
+          "al"
+        ]
+      },
+      "PSE-C": {
+        "title": "PSE-C",
+        "description": "Perfil de aluminio para fijación ensamblada lateral..",
+        "image": "assets/images/PSE-C.jpg",
+        "image2x": "assets/images/PSE-C@2x.jpg",
+        "image-alt": "Perfil de aluminio para fijación ensamblada lateral..",
+        "url": "https://www.indexfix.com/producto/pse-c-perfil-de-aluminio-para-fijacion-ensamblada-lateral",
+        "logos": [
+          "al"
+        ]
+      },
+      "PSE-CUN": {
+        "title": "PSE-CUN",
+        "description": "Unión de aluminio para perfil PSE-C.",
+        "image": "assets/images/PSE-CUN.jpg",
+        "image2x": "assets/images/PSE-CUN@2x.jpg",
+        "image-alt": "Unión de aluminio para perfil PSE-C.",
+        "url": "https://www.indexfix.com/producto/pse-cun-union-de-aluminio-para-perfil-pse-c",
+        "logos": [
+          "al"
+        ]
+      },
+      "PSE-UN": {
+        "title": "PSE-UN",
+        "description": "Unión de aluminio para perfil PSE-A.",
+        "image": "assets/images/PSE-UN.jpg",
+        "image2x": "assets/images/PSE-UN@2x.jpg",
+        "image-alt": "Unión de aluminio para perfil PSE-A.",
+        "url": "https://www.indexfix.com/producto/11614-PSE-UN-union-de-perfil-de-aluminio-para-fijacion-ensamblada",
+        "logos": [
+          "al"
+        ]
+      },
+      "TPA-R": {
+        "title": "TPA-R",
+        "description": "Triángulo regulable de aluminio premontado.",
+        "image": "assets/images/TPA-R.jpg",
+        "image2x": "assets/images/TPA-R@2x.jpg",
+        "image-alt": "Triángulo regulable de aluminio premontado.",
+        "url": "https://www.indexfix.com/producto/11604-TPA-R-triangulo-regulable-de-aluminio-premontado",
+        "logos": [
+          "al"
+        ]
+      },
+      "TRP-XS": {
+        "title": "TRP-XS",
+        "description": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
+        "image": "assets/images/TRP-XS.jpg",
+        "image2x": "assets/images/TRP-XS@2x.jpg",
+        "image-alt": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
+        "url": "https://www.indexfix.com/producto/11602-TRP-XS-triangulo-regulable-premontado-indextrut-acero-con-recubrimiento-atlantis-c4-m",
+        "logos": [
+          "ac",
+          "atl"
+        ]
+      },
+      "TU-RX A2": {
+        "title": "TU-RX A2",
+        "description": "Tuerca guía de fijación Rápida Indextrut. Inoxidable A2.",
+        "image": "assets/images/TU-RX-A2.jpg",
+        "image2x": "assets/images/TU-RX-A2@2x.jpg",
+        "image-alt": "Tuerca guía de fijación Rápida Indextrut. Inoxidable A2.",
+        "url": "https://www.indexfix.com/producto/11609-TU-RX-A2-tuerca-rapida-indextrut-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      }
+    },
+    "types": {
         "title": "ESTRUCTURAS COPLANARES PARA PLACAS SOLARES",
         "description": "Soportes para placas solares indicados para cubiertas inclinadas. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
         "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1.jpg",
@@ -119,44 +345,7 @@
               "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              {
-                "title": "DIN-7504-K A2",
-                "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2.",
-                "image": "assets/images/DIN-7504-K-A2.jpg",
-                "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
-                "image-alt": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
-                "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "GMA-A",
-                "description": "Galga de aluminio de marco.",
-                "image": "assets/images/GM-A.jpg",
-                "image2x": "assets/images/GM-A@2x.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFR-SC",
-                "description": "Grapa fijación rápida.",
-                "image": "assets/images/KFR-SC.jpg",
-                "image2x": "assets/images/KFR-SC@2x.jpg",
-                "image-alt": "Grapa fijación rápida.",
-                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "ac"]
-              },
-              {
-                "title": "PSA-A",
-                "description": "Perfil de aluminio con alas.",
-                "image": "assets/images/PSA-A.jpg",
-                "image2x": "assets/images/PSA-A@2x.jpg",
-                "image-alt": "Perfil de aluminio con alas.",
-                "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
-                "logos": ["al"]
-              }
-            ]
+            "components": ["DIN-7504-K-A2", "GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSD",
@@ -189,35 +378,7 @@
               "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              {
-                "title": "GMA-A",
-                "description": "Galga de aluminio de marco.",
-                "image": "assets/images/GM-A.jpg",
-                "image2x": "assets/images/GM-A@2x.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFR-SC",
-                "description": "Grapa fijación rápida.",
-                "image": "assets/images/KFR-SC.jpg",
-                "image2x": "assets/images/KFR-SC@2x.jpg",
-                "image-alt": "Grapa fijación rápida.",
-                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "ac"]
-              },
-              {
-                "title": "PSA-A",
-                "description": "Perfil de aluminio con alas.",
-                "image": "assets/images/PSA-A.jpg",
-                "image2x": "assets/images/PSA-A@2x.jpg",
-                "image-alt": "Perfil de aluminio con alas.",
-                "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
-                "logos": ["al"]
-              }
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSV",
@@ -256,35 +417,7 @@
               "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              {
-                "title": "GMA-A",
-                "description": "Galga de aluminio de marco.",
-                "image": "assets/images/GM-A.jpg",
-                "image2x": "assets/images/GM-A@2x.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFR-SC",
-                "description": "Grapa fijación rápida.",
-                "image": "assets/images/KFR-SC.jpg",
-                "image2x": "assets/images/KFR-SC@2x.jpg",
-                "image-alt": "Grapa fijación rápida.",
-                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "ac"]
-              },
-              {
-                "title": "PSA-AV",
-                "description": "Perfil de aluminio con alas.",
-                "image": "assets/images/PSA-AV.jpg",
-                "image2x": "assets/images/PSA-AV@2x.jpg",
-                "image-alt": "Perfil de aluminio con alas.",
-                "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
-                "logos": ["al"]
-              }
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-AV"]
           },
           {
             "title": "SC-PSE",
@@ -384,62 +517,7 @@
               "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje"
             ],
-            "components": [
-              {
-                "title": "DIN-7504-K A2",
-                "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2.",
-                "image": "assets/images/DIN-7504-K-A2.jpg",
-                "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
-                "image-alt": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
-                "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "GMA-A",
-                "description": "Galga de aluminio de marco.",
-                "image": "assets/images/GM-A.jpg",
-                "image2x": "assets/images/GM-A@2x.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFR-SC",
-                "description": "Grapa fijación rápida.",
-                "image": "assets/images/KFR-SC.jpg",
-                "image2x": "assets/images/KFR-SC@2x.jpg",
-                "image-alt": "Grapa fijación rápida.",
-                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "ac"]
-              },
-              {
-                "title": "KFS-FI",
-                "description": "Conector cruzado para fijación inferior. Inoxidable A2.",
-                "image": "assets/images/KFS-FI.jpg",
-                "image2x": "assets/images/KFS-FI@2x.jpg",
-                "image-alt": "Conector cruzado para fijación inferior. Inoxidable A2.",
-                "url": "https://www.indexfix.com/producto/11611-KFS-FI-conector-cruzado-para-fijacion-inferior-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "PSE-UN",
-                "description": "Unión de aluminio para perfil PSE-A.",
-                "image": "assets/images/PSE-UN.jpg",
-                "image2x": "assets/images/PSE-UN@2x.jpg",
-                "image-alt": "Unión de aluminio para perfil PSE-A.",
-                "url": "https://www.indexfix.com/producto/11614-PSE-UN-union-de-perfil-de-aluminio-para-fijacion-ensamblada",
-                "logos": ["al"]
-              },
-              {
-                "title": "PSE-A",
-                "description": "Perfil de aluminio para fijación ensamblada.",
-                "image": "assets/images/PSE-A.jpg",
-                "image2x": "assets/images/PSE-A@2x.jpg",
-                "image-alt": "Perfil de aluminio para fijación ensamblada.",
-                "url": "https://www.indexfix.com/producto/11615-PSE-A-perfil-de-aluminio-para-fijacion-ensamblada",
-                "logos": ["al"]
-              }
-            ]
+            "components": ["DIN-7504-K A2", "GMA-A", "KFR-SC", "KFS-FI", "PSE-UN", "PSE-A"]
           },
           {
             "title": "SC-PSC",
@@ -522,53 +600,7 @@
               "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de las placas.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              {
-                "title": "GMA-A",
-                "description": "Galga de aluminio de marco.",
-                "image": "assets/images/GM-A.jpg",
-                "image2x": "assets/images/GM-A@2x.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFR-SC",
-                "description": "Grapa fijación rápida.",
-                "image": "assets/images/KFR-SC.jpg",
-                "image2x": "assets/images/KFR-SC@2x.jpg",
-                "image-alt": "Grapa fijación rápida.",
-                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "ac"]
-              },
-              {
-                "title": "DIN-7504-K A2",
-                "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2.",
-                "image": "assets/images/DIN-7504-K-A2.jpg",
-                "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
-                "image-alt": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
-                "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "PSE-CUN",
-                "description": "Unión de aluminio para perfil PSE-C.",
-                "image": "assets/images/PSE-CUN.jpg",
-                "image2x": "assets/images/PSE-CUN@2x.jpg",
-                "image-alt": "Unión de aluminio para perfil PSE-C.",
-                "url": "https://www.indexfix.com/producto/pse-cun-union-de-aluminio-para-perfil-pse-c",
-                "logos": ["al"]
-              },
-              {
-                "title": "PSE-C",
-                "description": "Perfil de aluminio para fijación ensamblada lateral..",
-                "image": "assets/images/PSE-C.jpg",
-                "image2x": "assets/images/PSE-C@2x.jpg",
-                "image-alt": "Perfil de aluminio para fijación ensamblada lateral..",
-                "url": "https://www.indexfix.com/producto/pse-c-perfil-de-aluminio-para-fijacion-ensamblada-lateral",
-                "logos": ["al"]
-              }              
-            ]
+            "components": ["GMA-A", "KFR-SC", "DIN-7504-K A2", "PSE-CUN", "PSE-C"]
           },
           {
             "title": "SC-GPX",
@@ -650,62 +682,7 @@
               "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              {
-                "title": "DIN-6923 A2",
-                "description": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
-                "image": "assets/images/DIN-6923-A2.jpg",
-                "image2x": "assets/images/DIN-6923-A2@2x.jpg",
-                "image-alt": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
-                "url": "https://www.indexfix.com/producto/11606-DIN-6923-A2-tuerca-brida-grafilada-din-6923-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "DIN-603 A2",
-                "description": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
-                "image": "assets/images/DIN-603-A2.jpg",
-                "image2x": "assets/images/DIN-603-A2@2x.jpg",
-                "image-alt": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
-                "url": "https://www.indexfix.com/producto/11608-DIN-603-A2-tornillo-din-603-cabeza-redonda-y-cuello-cuadrado-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "GM-A",
-                "description": "Galga de aluminio de marco.",
-                "image": "assets/images/GM-A.jpg",
-                "image2x": "assets/images/GM-A@2x.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFR-SC",
-                "description": "Grapa fijación rápida.",
-                "image": "assets/images/KFR-SC.jpg",
-                "image2x": "assets/images/KFR-SC@2x.jpg",
-                "image-alt": "Grapa fijación rápida.",
-                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "ac"]
-              },
-              {
-                "title": "EMP-XS",
-                "description": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
-                "image": "assets/images/EMP-XS.jpg",
-                "image2x": "assets/images/EMP-XS@2x.jpg",
-                "image-alt": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
-                "url": "https://www.indexfix.com/producto/11612-EMP-XS-empalme-indextrut-solar-atlantis-c4-m",
-                "logos": ["a2inox", "atl"]
-              },
-              {
-                "title": "GP-XS",
-                "description": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
-                "image": "assets/images/GP-XS.jpg",
-                "image2x": "assets/images/GP-XS@2x.jpg",
-                "image-alt": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
-                "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
-                "logos": ["a2inox", "atl"]
-              }
-            ]
+            "components": [ "DIN-6923 A2", "DIN-603 A2", "GM-A", "KFR-SC", "EMP-XS", "GP-XS"]
           },
           {
             "title": "SC-GPD",
@@ -738,35 +715,7 @@
               "Perfil dispuesto en formato discontinuo para reducir al mínimo los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              {
-                "title": "GM-A",
-                "description": "Galga de aluminio de marco.",
-                "image": "assets/images/GM-A.jpg",
-                "image2x": "assets/images/GM-A@2x.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFR-SC",
-                "description": "Grapa fijación rápida.",
-                "image": "assets/images/KFR-SC.jpg",
-                "image2x": "assets/images/KFR-SC@2x.jpg",
-                "image-alt": "Grapa fijación rápida.",
-                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "ac"]
-              },
-              {
-                "title": "GP-XS",
-                "description": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
-                "image": "assets/images/GP-XS.jpg",
-                "image2x": "assets/images/GP-XS@2x.jpg",
-                "image-alt": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
-                "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
-                "logos": ["a2inox", "atl"]
-              }
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-XS"]
           },
           {
             "title": "SC-GPV",
@@ -799,37 +748,7 @@
               "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
               ],
-            "components": [
-              {
-                "title": "GM-A",
-                "description": "Galga de aluminio de marco.",
-                "image": "assets/images/GM-A.jpg",
-                "image2x": "assets/images/GM-A@2x.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFR-SC",
-                "description": "Grapa fijación rápida.",
-                "image": "assets/images/KFR-SC.jpg",
-                "image2x": "assets/images/KFR-SC@2x.jpg",
-                "image-alt": "Grapa fijación rápida.",
-                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "ac"]
-              },
-              {
-                "title": "GP-VD",
-                "description": "Guía perforada INDEXTRUT solar para fijación en valle discontinua. Acero Atlantis C4-M.",
-                "image": "assets/images/GP-VD.jpg",
-                "image2x": "assets/images/GP-VD@2x.jpg",
-                "image-alt": "Guía perforada INDEXTRUT solar para fijación en valle discontinua. Acero Atlantis C4-M.",
-                "url": "https://www.indexfix.com/producto/gp-vd-guia-perforada-indextrut-solar-para-fijacion-en-valle-discontinua-acero-atlantis-c4-m",
-                "logos": ["ac", "atl"]
-              }
-            ]
-          }
-        ]
+            "components": ["GM-A", "KFR-SC", "GP-VD"]
       },
       {
         "title": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
@@ -878,71 +797,7 @@
               "Montaje entre perfiles y triángulos mediante soluciones preensambladas de fijación rápida.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              {
-                "title": "DIN-7504-K A2",
-                "description": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2.",
-                "image": "assets/images/DIN-7504-K-A2.jpg",
-                "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
-                "image-alt": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
-                "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "GMA-A",
-                "description": "Galga de aluminio de marco.",
-                "image": "assets/images/GM-A.jpg",
-                "image2x": "assets/images/GM-A@2x.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFR-SC",
-                "description": "Grapa fijación rápida.",
-                "image": "assets/images/KFR-SC.jpg",
-                "image2x": "assets/images/KFR-SC@2x.jpg",
-                "image-alt": "Grapa fijación rápida.",
-                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "ac"]
-              },
-              {
-                "title": "TPA-R",
-                "description": "Triángulo regulable de aluminio premontado.",
-                "image": "assets/images/TPA-R.jpg",
-                "image2x": "assets/images/TPA-R@2x.jpg",
-                "image-alt": "Triángulo regulable de aluminio premontado.",
-                "url": "https://www.indexfix.com/producto/11604-TPA-R-triangulo-regulable-de-aluminio-premontado",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFS-FL",
-                "description": "Conector cruzado para fijación lateral. Inoxidable A2.",
-                "image": "assets/images/KFS-FL.jpg",
-                "image2x": "assets/images/KFS-FL@2x.jpg",
-                "image-alt": "Conector cruzado para fijación lateral. Inoxidable A2.",
-                "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "PSE-UN",
-                "description": "Unión de aluminio para perfil PSE-A.",
-                "image": "assets/images/PSE-UN.jpg",
-                "image2x": "assets/images/PSE-UN@2x.jpg",
-                "image-alt": "Unión de aluminio para perfil PSE-A.",
-                "url": "https://www.indexfix.com/producto/11614-PSE-UN-union-de-perfil-de-aluminio-para-fijacion-ensamblada",
-                "logos": ["al"]
-              },
-              {
-                "title": "PSE-A",
-                "description": "Perfil de aluminio para fijación ensamblada.",
-                "image": "assets/images/PSE-A.jpg",
-                "image2x": "assets/images/PSE-A@2x.jpg",
-                "image-alt": "Perfil de aluminio para fijación ensamblada.",
-                "url": "https://www.indexfix.com/producto/11615-PSE-A-perfil-de-aluminio-para-fijacion-ensamblada",
-                "logos": ["al"]
-              }
-            ]
+            "components": ["DIN-7504-K A2", "GMA-A", "KFR-SC", "TPA-R", "KFS-FL", "PSE-UN", "PSE-A"]
           },
           {
             "title": "ST-GPX",
@@ -984,89 +839,7 @@
               "Montaje entre perfiles y triángulos mediante tuercas de fijación rápida.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              {
-                "title": "DIN-6923 A2",
-                "description": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
-                "image": "assets/images/DIN-6923-A2.jpg",
-                "image2x": "assets/images/DIN-6923-A2@2x.jpg",
-                "image-alt": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
-                "url": "https://www.indexfix.com/producto/11606-DIN-6923-A2-tuerca-brida-grafilada-din-6923-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "DIN-603 A2",
-                "description": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
-                "image": "assets/images/DIN-603-A2.jpg",
-                "image2x": "assets/images/DIN-603-A2@2x.jpg",
-                "image-alt": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
-                "url": "https://www.indexfix.com/producto/11608-DIN-603-A2-tornillo-din-603-cabeza-redonda-y-cuello-cuadrado-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "GM-A",
-                "description": "Galga de aluminio de marco.",
-                "image": "assets/images/GM-A.jpg",
-                "image2x": "assets/images/GM-A@2x.jpg",
-                "image-alt": "Galga de aluminio de marco.",
-                "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-                "logos": ["al"]
-              },
-              {
-                "title": "KFR-SC",
-                "description": "Grapa fijación rápida.",
-                "image": "assets/images/KFR-SC.jpg",
-                "image2x": "assets/images/KFR-SC@2x.jpg",
-                "image-alt": "Grapa fijación rápida.",
-                "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-                "logos": ["al", "ac"]
-              },
-              {
-                "title": "DIN-6921 A2",
-                "description": "Tornillo DIN-6921. Tornillo hexagonal con arandela estampada y grafilada. Inoxidable A2.",
-                "image": "assets/images/DIN-6921-A2.jpg",
-                "image2x": "assets/images/DIN-6921-A2@2x.jpg",
-                "image-alt": "Tornillo DIN-6921. Tornillo hexagonal con arandela estampada y grafilada. Inoxidable A2.",
-                "url": "https://www.indexfix.com/producto/11607-DIN-6921-A2-tornillo-din-6921-tornillo-hexagonal-con-arandela-estampada-y-grafilada-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "TU-RX A2",
-                "description": "Tuerca guía de fijación Rápida Indextrut. Inoxidable A2.",
-                "image": "assets/images/TU-RX-A2.jpg",
-                "image2x": "assets/images/TU-RX-A2@2x.jpg",
-                "image-alt": "Tuerca guía de fijación Rápida Indextrut. Inoxidable A2.",
-                "url": "https://www.indexfix.com/producto/11609-TU-RX-A2-tuerca-rapida-indextrut-inoxidable-a2",
-                "logos": ["a2inox"]
-              },
-              {
-                "title": "TRP-XS",
-                "description": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
-                "image": "assets/images/TRP-XS.jpg",
-                "image2x": "assets/images/TRP-XS@2x.jpg",
-                "image-alt": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
-                "url": "https://www.indexfix.com/producto/11602-TRP-XS-triangulo-regulable-premontado-indextrut-acero-con-recubrimiento-atlantis-c4-m",
-                "logos": ["ac", "atl"]
-              },
-              {
-                "title": "EMP-XS",
-                "description": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
-                "image": "assets/images/EMP-XS.jpg",
-                "image2x": "assets/images/EMP-XS@2x.jpg",
-                "image-alt": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
-                "url": "https://www.indexfix.com/producto/11612-EMP-XS-empalme-indextrut-solar-atlantis-c4-m",
-                "logos": ["a2inox", "atl"]
-              },
-              {
-                "title": "GP-XS",
-                "description": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
-                "image": "assets/images/GP-XS.jpg",
-                "image2x": "assets/images/GP-XS@2x.jpg",
-                "image-alt": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
-                "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
-                "logos": ["a2inox", "atl"]
-              }
-            ]
+            "components": ["DIN-6923 A2", "DIN-603 A2", "GM-A", "KFR-SC", "DIN-6921 A2", "TU-RX A2", "TRP-XS", "EMP-XS", "GP-XS"]
           }
         ]
       }
