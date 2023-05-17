@@ -1081,49 +1081,56 @@
         "description": "Para montaje de placas",
         "image": "assets/images/KFR-SC.jpg",
         "image2x": "assets/images/KFR-SC@2x.jpg",
-        "image-alt": "Grapas y galgas"
+        "image-alt": "Grapas y galgas",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-gg"
       },
       {
         "title": "PERFILES, UNIONES, GUÍAS Y EMPALMES",
         "description": "Para estructura de apoyo",
         "image": "assets/images/GP-XS.jpg",
         "image2x": "assets/images/GP-XS@2x.jpg",
-        "image-alt": "PERFILES, UNIONES, GUÍAS Y EMPALMES"
+        "image-alt": "PERFILES, UNIONES, GUÍAS Y EMPALMES",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-pu"
       },
       {
         "title": "CONECTORES + COMPLEMENTOS",
         "description": "Para montaje de estructuras solares",
         "image": "assets/images/TU-RX.jpg",
         "image2x": "assets/images/TU-RX@2x.jpg",
-        "image-alt": "Conectores + complementos"
+        "image-alt": "Conectores + complementos",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-cc"
       },
       {
         "title": "TRIÁNGULOS",
         "description": "Para instalación de placas solares",
         "image": "assets/images/TPA-R.jpg",
         "image2x": "assets/images/TPA-R@2x.jpg",
-        "image-alt": "Triángulos"
+        "image-alt": "Triángulos",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-tr"
       },
       {
         "title": "ACCESORIOS REGULABLES",
         "description": "Para la instalación de placas solares",
         "image": "assets/images/GS-TU.jpg",
         "image2x": "assets/images/GS-TU@2x.jpg",
-        "image-alt": "Accesorios regulables"
+        "image-alt": "Accesorios regulables",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-kfs"
       },
       {
         "title": "ACCESORIOS DE FIJACIÓN DIRECTA",
         "description": "Para la instalación de placas solares",
         "image": "assets/images/TAC.jpg",
         "image2x": "assets/images/TAC@2x.jpg",
-        "image-alt": "Accesorios de fijación directa"
+        "image-alt": "Accesorios de fijación directa",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-fd"
       },
       {
         "title": "ACCESORIOS DE ESTANQUEIDAD",
         "description": "Accesorios de estanqueidad",
         "image": "assets/images/ARS-P.jpg",
         "image2x": "assets/images/ARS-P@2x.jpg",
-        "image-alt": "Accesorios de estanqueidad"
+        "image-alt": "Accesorios de estanqueidad",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-es"
       }
     ]
   },
@@ -1134,189 +1141,125 @@
     "p-1": "Disponemos de <strong>kits para 2 o 3 placas (kits de origen)</strong> para los distintos tipos de soportes para placas solares (coplanar y triangular). <strong>kits para 2 o 3 placas (kits de origen)</strong>, que permiten incrementar el numero de placas a instalar, pero sin incurrir en costes innecesarios.",
     "p-2": "Los kits de ampliación contienen todo lo necesario para realizar la ampliación pero <strong>eliminando los productos no necesarios</strong> (grapas y galgas duplicadas), y por lo tanto ahorrando costes y evitando el desperdicio.",
     "question-number-solar-panels": "¿Cuántas placas solares quieres unir? Selecciona el número de placas",
-    "answer-number-kits": [
-      {}
-    ]
-
-  },
-  "applications-section": {
-    "title": "Aplicaciones",
-    "aplications-cards": [
+    "answer-number-kits-list": [
       {
-        "description": "Instalación de canales y angulares para placas de yeso laminado.",
-        "image": "assets/images/instalacion-canales-placas-yeso.webp",
-        "image2x": "assets/images/instalacion-canales-placas-yeso_2x.webp",
-        "image-alt": "Instalación de canales y angulares para placas de yeso laminado con pistola de fijación directa."
-      },
-      {
-        "description": "Fijación de mallas y tejidos técnicos sobre pared de hormigón.",
-        "image": "assets/images/fijacion-mallas-y-tejidos-tecnicos.webp",
-        "image2x": "assets/images/fijacion-mallas-y-tejidos-tecnicos_2x.webp",
-        "image-alt": "tubos eléctricos fijados a techo y paredes."
-      },
-      {
-        "description": "Fijación de instalaciones eléctricas en el techo o en la pared.",
-        "image": "assets/images/fijacion-instalaciones-electricas.webp",
-        "image2x": "assets/images/fijacion-instalaciones-electricas@2x.webp",
-        "image-alt": "Instalación conductos de cableado eléctrico con pistola de fijación directa."
-      },
-      {
-        "description": "Fijación de tubos corrugados con brida al suelo, pared y techo.",
-        "image": "assets/images/fijacion-tubos-corrugados.webp",
-        "image2x": "assets/images/fijacion-tubos-corrugados_2x.webp",
-        "image-alt": "tubos eléctricos fijados a techo."
-      },
-      {
-        "description": "Fijación de tubos rígidos sobre superficies planas (pared, techo…).",
-        "image": "assets/images/fijacion-tubos-rigidos.webp",
-        "image2x": "assets/images/fijacion-tubos-rigidos_2x.webp",
-        "image-alt": "tubos eléctricos fijados a pared."
+        "panel-1": "Para fijar 1 placa solar necesitas <span class='index-card--accent'>1 kit de origen</span>",
+        "panel-2": "Para fijar 2 placas solares necesitas <span class='index-card--accent'>1 kit de origen</span>",
+        "panel-3": "Para fijar 3 placas solares necesitas <span class='index-card--accent'>1 kit de origen</span>",
+        "panel-4": "Para fijar 4 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 1 kit de ampliación</span>",
+        "panel-5": "Para fijar 5 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 1 kit de ampliación</span>",
+        "panel-6": "Para fijar 6 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 1 kit de ampliación</span>",
+        "panel-7": "Para fijar 7 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 2 kits de ampliación</span>",
+        "panel-8": "Para fijar 8 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 2 kits de ampliación</span>",
+        "panel-9": "Para fijar 9 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 2 kits de ampliación</span>",
+        "panel-10": "Para fijar 10 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 4 kits de ampliación</span>"
       }
     ]
   },
-  "materials-section": {
-    "title": "Materiales",
+  "solar-kits-section": {
+    "title": "Tipos de Kits Solares",
+    "solar-kits-cards": [
+      {
+        "title": "KC-PSA",
+        "description": "Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa.",
+        "image": "assets/images/KC-PSA.jpg",
+        "image2x": "assets/images/KC-PSA@2x.jpg",
+        "image-alt": "KC-PSA. Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa.",
+        "url": "https://www.indexfix.com/producto/11587-KC-PSA-coplanar-con-perfil-con-alas-de-aluminio-psa-a-fijacion-directa"
+      },
+      {
+        "title": "KC-PSD",
+        "description": "CCoplanar con perfil con alas de aluminio (PSA-A). Fijación directa formato de perfil discontinuo.",
+        "image": "assets/images/KC-PSD.jpg",
+        "image2x": "assets/images/KC-PSD@2x.jpg",
+        "image-alt": "IKC-PSD. Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa formato de perfil discontinuo.",
+        "url": "https://www.indexfix.com/producto/11586-KC-PSD-coplanar-con-perfil-con-alas-de-aluminio-psa-a-fijacion-directa-formato-de-perfil-discontinuo"
+      },
+      {
+        "title": "KC-PSC",
+        "description": "Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral.",
+        "image": "assets/images/KC-PSC.jpg",
+        "image2x": "assets/images/KC-PSC@2x.jpg",
+        "image-alt": "KC-PSC. Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral.",
+        "url": "https://www.indexfix.com/producto/kc-psc-coplanar-con-perfil-de-aluminio-pse-c-fijacion-ensamblada-lateral"
+      },
+      {
+        "title": "KC-GPX",
+        "description": "Coplanar con guía perforada acero Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
+        "image": "assets/images/KC-GPX.jpg",
+        "image2x": "assets/images/KC-GPX@2x.jpg",
+        "image-alt": "KC-GPX. Coplanar con guía perforada acero Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
+        "url": "https://www.indexfix.com/producto/11584-KC-GPX-coplanar-con-guia-perforada-acero-atlantis-c4-m-indextrut-solar-gp-xs"
+      },
+      {
+        "title": "KC-GPD",
+        "description": "Coplanar con guía perforada Atlantis C4-M INDEXTRUT SOLAR GP-XS. Formato guía discontinua.",
+        "image": "assets/images/KC-GPD.jpg",
+        "image2x": "assets/images/KC-GPD@2x.jpg",
+        "image-alt": "KC-GPD. Coplanar con guía perforada Atlantis C4-M INDEXTRUT SOLAR GP-XS. Formato guía discontinua.",
+        "url": "https://www.indexfix.com/producto/11583-KC-GPD-coplanar-con-guia-perforada-atlantis-c4-m-indextrut-solar-gp-xs-formato-guia-discontinua"
+      },
+      {
+        "title": "KT-PSE",
+        "description": "Triangular con perfil de aluminio PSE-A. Fijación ensamblada.",
+        "image": "assets/images/KT-PSE.jpg",
+        "image2x": "assets/images/KT-PSE@2x.jpg",
+        "image-alt": "KT-PSE. Triangular con perfil de aluminio PSE-A. Fijación ensamblada.",
+        "url": "https://www.indexfix.com/producto/11582-KT-PSE-triangular-con-perfil-de-aluminio-pse-a-fijacion-ensamblada"
+      },
+      {
+        "title": "KT-GPX",
+        "description": "Triangular con guía perforada Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
+        "image": "assets/images/KT-GPX.jpg",
+        "image2x": "assets/images/KT-GPX@2x.jpg",
+        "image-alt": "KT-GPX. Triangular con guía perforada Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
+        "url": "https://www.indexfix.com/producto/11581-KT-GPX-triangular-con-guia-perforada-atlantis-c4-m-indextrut-solar-gp-xs"
+      }
+    ]
+  },
+  "others-section": {
+    "title": "Otros anclajes para instalaciones solares",
+    "subtitle": "En INDEX ponemos a disposición de nuestros clientes una amplia gama de anclajes para conseguir una adecuada fijación en la instalación de placas solares.",
     "materials-cards": [
       {
-        "description": "Hormigón",
-        "image": "assets/images/MU_HORMIGON.webp",
-        "image2x": "assets/images/MU_HORMIGON@2x.webp",
-        "image-alt": "hormigón"
+        "title": "ANCLAJES METÁLICOS",
+        "description": "Fijaciones metálicas, fijaciones para materiales huecos, fijación directa, puntas, remaches, etc.",
+        "image": "assets/images/anclajes-metalicos.jpg",
+        "image2x": "assets/images/anclajes-metalicos@2x.jpg",
+        "image-alt": "ANCLAJES METÁLICOS",
+        "url": ""
       },
       {
-        "description": "Madera noble",
-        "image": "assets/images/MU_MADERA_NOBLE.webp",
-        "image2x": "assets/images/MU_MADERA_NOBLE@2x.webp",
-        "image-alt": "Madera noble"
+        "title": "ANCLAJES PLÁSTICOS",
+        "description": "Abrazaderas y fijaciones plásticas.",
+        "image": "assets/images/anclajes-plasticos.jpg",
+        "image2x": "assets/images/anclajes-plasticos@2x.jpg",
+        "image-alt": "ANCLAJES PLÁSTICOS",
+        "url": ""
       },
       {
-        "description": "Hormigón celular",
-        "image": "assets/images/MU_HORM_CELULAR.webp",
-        "image2x": "assets/images/MU_HORM_CELULAR@2x.webp",
-        "image-alt": "Hormigón celular"
+        "title": "ANCLAJES QUÍMICOS",
+        "description": "Fijaciones químicas, adhesivos híbridos, siliconas y espumas de poliuretano.",
+        "image": "assets/images/anclajes-quimicos.jpg",
+        "image2x": "assets/images/anclajes-quimicos@2x.jpg",
+        "image-alt": "ANCLAJES QUÍMICOS",
+        "url": ""
       },
       {
-        "description": "Chapa - perfil pesado",
-        "image": "assets/images/MU_CHAPA_PERF_PESADO.webp",
-        "image2x": "assets/images/MU_CHAPA_PERF_PESADO@2x.webp",
-        "image-alt": "Chapa - perfil pesado"
-      }
-    ]
-  },
-  "installation-section": {
-    "title": "Guía de instalación con herramientas de fijación",
-    "installation-cards": [
-      {
-        "description": "1. Colocar cartucho de clavos en la pistola",
-        "image": "assets/images/FG-GUN_0.webp",
-        "image2x": "assets/images/FG-GUN_0@2x.webp",
-        "image-alt": "Colocación de cartucho de clavos en la pistola de fijación directa."
+        "title": "TORNILLERÍA",
+        "description": "Tornillos para cubiertas y fachadas, tornillos broca, rosca chapa y pvc, tornillería normalizada, tornillos para madera, etc.",
+        "image": "assets/images/tornilleria.jpg",
+        "image2x": "assets/images/tornilleria@2x.jpg",
+        "image-alt": "TORNILLERÍA",
+        "url": ""
       },
       {
-        "description": "2. Introducir el cartucho de gas",
-        "image": "assets/images/FG-GUN_1.webp",
-        "image2x": "assets/images/FG-GUN_1@2x.webp",
-        "image-alt": "Introducción del cartucho de gas en la pistola de fijación directa."
-      },
-      {
-        "description": "3. Enganchar la batería",
-        "image": "assets/images/FG-GUN_2.webp",
-        "image2x": "assets/images/FG-GUN_2@2x.webp",
-        "image-alt": "Colocación de la batería en la pistola de fijación directa."
-      },
-      {
-        "description": "4. Introducir los clavos en el cartucho",
-        "image": "assets/images/FG-GUN_3.webp",
-        "image2x": "assets/images/FG-GUN_3@2x.webp",
-        "image-alt": "Introducción de los clavos en el cartucho de la pistola de fijación directa."
-      },
-      {
-        "description": "5. Colocar la pistola boca abajo",
-        "image": "assets/images/FG-GUN_4.webp",
-        "image2x": "assets/images/FG-GUN_4@2x.webp",
-        "image-alt": "Colocación de la pistola de fijación directa boca abajo."
-      },
-      {
-        "description": "6. Apretar hacia abajo la pistola sobre una superficie plana",
-        "image": "assets/images/FG-GUN_5.webp",
-        "image2x": "assets/images/FG-GUN_5@2x.webp",
-        "image-alt": "Apretar hacia abajo la pistola de fijación directa sobre una superficie plana."
-      },
-      {
-        "description": "7. Apretar el gatillo",
-        "image": "assets/images/FG-GUN_6.webp",
-        "image2x": "assets/images/FG-GUN_6@2x.webp",
-        "image-alt": "Apretar el gatillo de la pistola de fijación directa"
-      },
-      {
-        "description": "8. Resultado final",
-        "image": "assets/images/FG-GUN_7.webp",
-        "image2x": "assets/images/FG-GUN_7@2x.webp",
-        "image-alt": "Clavo introducido en superficie con pistola de fijación directa"
-      }
-    ]
-  },
-  "documentation-section": {
-    "title": "Documentación",
-    "icon": "book",
-    "list-icon": "file-earmark-pdf",
-    "documentations": [
-      {
-        "title": "Fichas técnicas",
-        "icon": "book",
-        "list-icon": "file-earmark-pdf",
-        "items": [
-          {
-            "text": "Pistola, accesorios y clavos FG",
-            "url": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf"
-          },
-          {
-            "text": "Anclaje Universal OME",
-            "url": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf"
-          },
-          {
-            "text": "Abrazaderas AB",
-            "url": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf"
-          },
-          {
-            "text": "Abrazaderas AB-PID",
-            "url": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf"
-          },
-          {
-            "text": "Cinta Perforada CI-PE",
-            "url": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf"
-          }
-        ]
-      },
-      {
-        "title": "Fichas de seguridad",
-        "icon": "cone-striped",
-        "list-icon": "file-earmark-pdf",
-        "items": [
-          {
-            "text": "FG-CL",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
-          },
-          {
-            "text": "FG-CLH",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
-          },
-          {
-            "text": "FG-CAR",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
-          }
-        ]
-      },
-      {
-        "title": "Declaración de prestaciones",
-        "icon": "table",
-        "list-icon": "file-earmark-pdf",
-        "items": [
-          {
-            "text": "OME",
-            "url": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
-          }
-        ]
+        "title": "ABRAZADERAS",
+        "description": "Abrazaderas metálicas pesadas y ligeras, accesorios para cable, cadena y cercados, soportes para canalones, etc.",
+        "image": "assets/images/anclajes-abrazaderas.jpg",
+        "image2x": "assets/images/anclajes-abrazaderas@2x.jpg",
+        "image-alt": "ABRAZADERAS",
+        "url": ""
       }
     ]
   },
@@ -1341,8 +1284,8 @@
   },
   "menu-aside": {
     "button-features": "Características",
-    "button-range": "Ver gama",
-    "button-resources": "Descargar recursos",
+    "button-structures": "Tipos de estructuras",
+    "button-calculator": "Calculadora Kits solares",
     "button-info": "Información"
   }
 }
