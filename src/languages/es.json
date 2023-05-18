@@ -62,6 +62,7 @@
     "subtitle": "Disponemos de distintas soluciones de estructuras tanto para estructuras coplanares como triangulares, dando solución a las instalaciones más comunes del mercado.",
     "qualities-advantages": "Cualidades y ventajas",
     "system-components": "Componentes del Sistema",
+    "systems": "Sistemas",
     "more-info": "Más información",
     "material-cover": {
       "a2inox": {
@@ -241,12 +242,12 @@
                 "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
               },
-                {
-                  "type": "image",
-                  "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
-                  "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
-                  "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
-                }
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
+              }
             ],
             "qualities-list": [
               "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
@@ -567,7 +568,7 @@
                 "image-alt": "Perfil de aluminio para fijación ensamblada lateral..",
                 "url": "https://www.indexfix.com/producto/pse-c-perfil-de-aluminio-para-fijacion-ensamblada-lateral",
                 "logos": ["al"]
-              }              
+              }
             ]
           },
           {
@@ -798,7 +799,7 @@
               "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
               "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-              ],
+            ],
             "components": [
               {
                 "title": "GM-A",

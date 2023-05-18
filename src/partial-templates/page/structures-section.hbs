@@ -11,38 +11,41 @@
         <div
           class="index-cards-container js-index-cards-container--interactive"
         >
-          {{#each types}}
+          {{#each types as |type indexType|}}
             <article
-              class="index-card index-card--50-percent "
+              class="index-card index-card--50-percent"
             >
               <div class="index-card__container index-card__container--horizontal">
                 <picture>
                   <source
-                    class="index-card__image index-card__image--inline"
+                    class="index-card__image index-card__image--cover"
                     srcset="{{this.image2x}}"
                     media="(min-width: 768px)"
                   />
                   <img
                     alt="{{this.image-alt}}"
-                    class="index-card__image index-card__image--inline"
+                    class="index-card__image index-card__image--cover"
                     src="{{this.image}}"
                   />
                 </picture>
                 <div class="index-card__body">
                   <h2
-                    class="index-card__title index-card__title--xl index-card__title--center mb-0 mt-1"
+                    class="index-card__title index-card__title--black mb-0 mt-1"
                   >
-                    {{this.title}}
+                    {{type.title}}
                   </h2>
                   <p
-                    class="index-card__subtitle index-card__subtitle--center"
-                  >{{description}}</p>
+                    class="index-card__subtitle"
+                  >{{type.description}}</p>
+                  <div class="index-card__footer">
+                    <p class="index-card__subtitle-footer">{{../systems}}</p>
                   {{#each systems}}
-                    {{#ifMultipleOf @index 5}}<ul>{{/ifMultipleOf}}
-                    <li>{{title}}</li>
+                    {{#ifMultipleOf @index 5}}<ul class="badges-list">{{/ifMultipleOf}}
+                    <li class="badges-list__item  {{#ifFirstFirst indexType @index}}badges-list__item--active{{/ifFirstFirst}}">{{title}}</li>
                     {{#ifMultipleOfAndMoreO @index 4}}</ul>{{/ifMultipleOfAndMoreO}}
                   {{/each}}
                   {{#ifTotalItemsMultipleOfAndMoreO systems 4}}{{else}}</ul>{{/ifTotalItemsMultipleOfAndMoreO}}
+                  </div>
                 </div>
               </div>
             </article>

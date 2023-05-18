@@ -71,6 +71,12 @@ function generateHandlerbarsPlugin(language) {
         }
         return options.inverse(this);
       },
+      ifFirstFirst: function (v1, v2, options) {
+        if (v1 === 0 && v2 === 0) {
+          return options.fn(this);
+        }
+        return options.inverse(this);
+      },
       ifMultipleOf: function (v1, v2, options) {
         if (v1 % v2 === 0) {
           return options.fn(this);
