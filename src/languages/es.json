@@ -7,10 +7,11 @@
   "features": "Características",
   "structures": "Tipos de estructuras",
   "range": "Gama de productos",
-  "calculator": "Kits Solares",
-  "solar-kits": "Tipos de Kits Solares",
+  "calculator": "Calculadora Kits Solares",
+  "solar-kits": "Kits Solares",
   "others": "Otros anclajes",
   "contact": "Contacto",
+  "information": "Información",
   "back-to-top": "Ir al inicio",
   "show-aside": "mostrar accesos rápidos",
   "main-section": {
@@ -62,6 +63,7 @@
     "subtitle": "Disponemos de distintas soluciones de estructuras tanto para estructuras coplanares como triangulares, dando solución a las instalaciones más comunes del mercado.",
     "qualities-advantages": "Cualidades y ventajas",
     "system-components": "Componentes del Sistema",
+    "systems": "Sistemas",
     "more-info": "Más información",
     "material-cover": {
       "a2inox": {
@@ -908,6 +910,7 @@
   "range-section": {
     "title": "Gamas de productos para instalaciones solares",
     "subtitle": "Aquí explicar que los productos se pueden adquirir en conjunto cuando adquieres un Sistema o Kit, o por separado. Aquí se muestran las gamas.",
+    "more-info": "Más información",
     "range-cards": [
       {
         "title": "GRAPAS Y GALGAS",
@@ -974,18 +977,59 @@
     "p-1": "Disponemos de <strong>kits para 2 o 3 placas (kits de origen)</strong> para los distintos tipos de soportes para placas solares (coplanar y triangular). <strong>kits para 2 o 3 placas (kits de origen)</strong>, que permiten incrementar el numero de placas a instalar, pero sin incurrir en costes innecesarios.",
     "p-2": "Los kits de ampliación contienen todo lo necesario para realizar la ampliación pero <strong>eliminando los productos no necesarios</strong> (grapas y galgas duplicadas), y por lo tanto ahorrando costes y evitando el desperdicio.",
     "question-number-solar-panels": "¿Cuántas placas solares quieres unir? Selecciona el número de placas",
+    "origin-kit-text": "Kit de origen",
+    "fix-a-solar-panel": "Para fijar {num} placa solar necesitas",
+    "fix-multiple-solar-panels": "Para fijar {num} placas solares necesitas",
+    "origin-kit": "{num} kit de origen",
+    "origin-kit-extension-kit": "{num} kit de origen y {num2} kit de ampliación",
+    "origin-kit-extension-kits": "{num} kit de origen y {num2} kits de ampliación",
     "answer-number-kits-list": [
       {
-        "panel-1": "Para fijar 1 placa solar necesitas <span class='index-card--accent'>1 kit de origen</span>",
-        "panel-2": "Para fijar 2 placas solares necesitas <span class='index-card--accent'>1 kit de origen</span>",
-        "panel-3": "Para fijar 3 placas solares necesitas <span class='index-card--accent'>1 kit de origen</span>",
-        "panel-4": "Para fijar 4 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 1 kit de ampliación</span>",
-        "panel-5": "Para fijar 5 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 1 kit de ampliación</span>",
-        "panel-6": "Para fijar 6 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 1 kit de ampliación</span>",
-        "panel-7": "Para fijar 7 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 2 kits de ampliación</span>",
-        "panel-8": "Para fijar 8 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 2 kits de ampliación</span>",
-        "panel-9": "Para fijar 9 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 2 kits de ampliación</span>",
-        "panel-10": "Para fijar 10 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 4 kits de ampliación</span>"
+        "solar-panel": 1,
+        "origin-kit": 1
+      },
+      {
+        "solar-panel": 2,
+        "origin-kit": 1
+      },
+      {
+        "solar-panel": 3,
+        "origin-kit": 1
+      },
+      {
+        "solar-panel": 4,
+        "origin-kit": 1,
+        "extension-kit": 1
+      },
+      {
+        "solar-panel": 5,
+        "origin-kit": 1,
+        "extension-kit": 1
+      },
+      {
+        "solar-panel": 6,
+        "origin-kit": 1,
+        "extension-kit": 1
+      },
+      {
+        "solar-panel": 7,
+        "origin-kit": 1,
+        "extension-kit": 2
+      },
+      {
+        "solar-panel": 8,
+        "origin-kit": 1,
+        "extension-kit": 2
+      },
+      {
+        "solar-panel": 9,
+        "origin-kit": 1,
+        "extension-kit": 2
+      },
+      {
+        "solar-panel": 10,
+        "origin-kit": 1,
+        "extension-kit": 4
       }
     ]
   },
