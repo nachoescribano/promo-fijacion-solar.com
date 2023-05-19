@@ -1144,18 +1144,60 @@
     "p-1": "Disponemos de <strong>kits para 2 o 3 placas (kits de origen)</strong> para los distintos tipos de soportes para placas solares (coplanar y triangular). <strong>kits para 2 o 3 placas (kits de origen)</strong>, que permiten incrementar el numero de placas a instalar, pero sin incurrir en costes innecesarios.",
     "p-2": "Los kits de ampliación contienen todo lo necesario para realizar la ampliación pero <strong>eliminando los productos no necesarios</strong> (grapas y galgas duplicadas), y por lo tanto ahorrando costes y evitando el desperdicio.",
     "question-number-solar-panels": "¿Cuántas placas solares quieres unir? Selecciona el número de placas",
-    "origin-kit": "Kit de origen",
+    "origin-kit-text": "Kit de origen",
+    "fix-a-solar-panel": "Para fijar {num} placa solar necesitas",
+    "fix-multiple-solar-panels": "Para fijar {num} placas solares necesitas",
+    "origin-kit": "{num} kit de origen",
+    "origin-kit-extension-kit": "{num} kit de origen y {num2} kit de ampliación",
+    "origin-kit-extension-kits": "{num} kit de origen y {num2} kits de ampliación",
     "answer-number-kits-list": [
-      "Para fijar 1 placa solar necesitas <span class='index-card--accent'>1 kit de origen</span>",
-      "Para fijar 2 placas solares necesitas <span class='index-card--accent'>1 kit de origen</span>",
-      "Para fijar 3 placas solares necesitas <span class='index-card--accent'>1 kit de origen</span>",
-      "Para fijar 4 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 1 kit de ampliación</span>",
-      "Para fijar 5 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 1 kit de ampliación</span>",
-      "Para fijar 6 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 1 kit de ampliación</span>",
-      "Para fijar 7 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 2 kits de ampliación</span>",
-      "Para fijar 8 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 2 kits de ampliación</span>",
-      "Para fijar 9 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 2 kits de ampliación</span>",
-      "Para fijar 10 placas solares necesitas <span class='index-card--accent'>1 kit de origen y 4 kits de ampliación</span>"
+      {
+        "solar-panel": 1,
+        "origin-kit": 1
+      },
+      {
+        "solar-panel": 2,
+        "origin-kit": 1
+      },
+      {
+        "solar-panel": 3,
+        "origin-kit": 1
+      },
+      {
+        "solar-panel": 4,
+        "origin-kit": 1,
+        "extension-kit": 1
+      },
+      {
+        "solar-panel": 5,
+        "origin-kit": 1,
+        "extension-kit": 1
+      },
+      {
+        "solar-panel": 6,
+        "origin-kit": 1,
+        "extension-kit": 1
+      },
+      {
+        "solar-panel": 7,
+        "origin-kit": 1,
+        "extension-kit": 2
+      },
+      {
+        "solar-panel": 8,
+        "origin-kit": 1,
+        "extension-kit": 2
+      },
+      {
+        "solar-panel": 9,
+        "origin-kit": 1,
+        "extension-kit": 2
+      },
+      {
+        "solar-panel": 10,
+        "origin-kit": 1,
+        "extension-kit": 4
+      }
     ]
   },
   "solar-kits-section": {
