@@ -1099,44 +1099,44 @@
     "subtitle": "En INDEX ponemos a disposición de nuestros clientes una amplia gama de anclajes para conseguir una adecuada fijación en la instalación de placas solares.",
     "materials-cards": [
       {
-        "title": "ANCLAJES METÁLICOS",
-        "description": "Fijaciones metálicas, fijaciones para materiales huecos, fijación directa, puntas, remaches, etc.",
+        "title": "Fijaciones metálicas",
+        "description": "Anclajes metálicos de expansión o anclajes acuñados en acero al carbono y acero inoxidable, homologados para la instalación de elementos en hormigón fisurado, hormigón no fisurado, cargas sísmicas o resistencia a fuego R30-R120 en hormigón.",
         "image": "assets/images/anclajes-metalicos.jpg",
         "image2x": "assets/images/anclajes-metalicos@2x.jpg",
-        "image-alt": "ANCLAJES METÁLICOS",
-        "url": ""
+        "image-alt": "Fijaciones metálicas",
+        "url": "https://www.indexfix.com/canales-venta/anclajes/fijaciones-metalicas"
       },
       {
-        "title": "ANCLAJES PLÁSTICOS",
-        "description": "Abrazaderas y fijaciones plásticas.",
+        "title": "Fijaciones plásticas",
+        "description": "Fabricadas en Nylon® de gran calidad, las fijaciones plásticas son la solución perfecta y económica para la fijación de cargas ligeras y medias.",
         "image": "assets/images/anclajes-plasticos.jpg",
         "image2x": "assets/images/anclajes-plasticos@2x.jpg",
-        "image-alt": "ANCLAJES PLÁSTICOS",
-        "url": ""
+        "image-alt": "Fijaciones plásticas",
+        "url": "https://www.indexfix.com/canales-venta/anclajes/fijaciones-plasticas"
       },
       {
-        "title": "ANCLAJES QUÍMICOS",
-        "description": "Fijaciones químicas, adhesivos híbridos, siliconas y espumas de poliuretano.",
+        "title": "Anclajes químicos",
+        "description": "Anclajes químicos de inyección son la solución óptima para la fijación de cargas pesadas en hormigón y mampostería, o donde se requiera un producto homologado.",
         "image": "assets/images/anclajes-quimicos.jpg",
         "image2x": "assets/images/anclajes-quimicos@2x.jpg",
-        "image-alt": "ANCLAJES QUÍMICOS",
-        "url": ""
+        "image-alt": "Anclajes químicos",
+        "url": "https://www.indexfix.com/canales-venta/anclajes/fijaciones-quimicas"
       },
       {
-        "title": "TORNILLERÍA",
-        "description": "Tornillos para cubiertas y fachadas, tornillos broca, rosca chapa y pvc, tornillería normalizada, tornillos para madera, etc.",
+        "title": "Tornillería",
+        "description": "Disponible una amplia variedad de tornillos autoperforantes y autorroscantes, así como de tipos de cabezas, diámetros y longitudes.",
         "image": "assets/images/tornilleria.jpg",
         "image2x": "assets/images/tornilleria@2x.jpg",
-        "image-alt": "TORNILLERÍA",
-        "url": ""
+        "image-alt": "Tornillería",
+        "url": "https://www.indexfix.com/canales-venta/tornillos"
       },
       {
-        "title": "ABRAZADERAS",
-        "description": "Abrazaderas metálicas pesadas y ligeras, accesorios para cable, cadena y cercados, soportes para canalones, etc.",
+        "title": "Abrazaderas plásticas",
+        "description": "ALas bridas de Nylon® y las abrazaderas plásticas son uno de los productos de mayor demanda en el mundo de la instalación profesional.",
         "image": "assets/images/anclajes-abrazaderas.jpg",
         "image2x": "assets/images/anclajes-abrazaderas@2x.jpg",
-        "image-alt": "ABRAZADERAS",
-        "url": ""
+        "image-alt": "Abrazaderas plásticas",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/abrazaderas-plasticas"
       }
     ]
   },
