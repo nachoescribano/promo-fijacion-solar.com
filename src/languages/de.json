@@ -1,6 +1,1145 @@
 {
   "lang": "de",
-
+  "description": "Hochwertige Lösungen für die zuverlässige und einfache Montage von Solarpaneelen: Strukturen für Sonnenkollektoren, Verankerungen und Zubehör",
+  "keywords": "Strukturen für Sonnenkollektoren, Halterungen für Sonnenkollektoren, koplanare Struktur, Verankerungen für Sonnenkollektoren",
+  "title": "Installationssysteme für SOLARKOLLEKTOREN: Strukturen, Verankerungen und Zubehör | INDEX",
+  "home": "Start",
+  "features": "Eigenschaften",
+  "structures": "Strukturarten",
+  "range": "Produktfamilie",
+  "calculator": "Rechner für Solarsets",
+  "solar-kits": "Solarsets",
+  "others": "Anderer Verankerungen",
+  "contact": "Kontakt",
+  "information": "Informationen",
+  "back-to-top": "Zur Startseite gehen",
+  "show-aside": "Schnellzugriffe zeigen",
+  "main-section": {
+    "title": "Befestigung von Installationssystemen für SOLARKOLLEKTOREN: Strukturen, Verankerungen und Zubehör",
+    "image-alt": "Techniker geht zwischen Solaranlage auf dem Dach",
+    "p": "Solaranlagen benötigen maximale Zuverlässigkeit gegenüber äußeren Einflüssen. Aus diesem Grund bieten wir bei INDEX® hochwertige Produkte für Strukturen für Stahl- und Aluminiumplatten sowie einheitliche Montage- und Befestigungslösungen an, die die Verwaltung der Komponenten und den Zusammenbau der Struktur am Aufstellungsort vereinfachen."
+  },
+  "header": {
+    "url-home": "https://www.indexfix.com",
+    "menu": "Menü"
+  },
+  "features-section": {
+    "title": "Ein zuverlässiges System, das einfach zu installieren und zu warten ist",
+    "list": [
+      {
+        "image": "assets/images/icono-futuro.svg",
+        "image-alt": "Zukunft",
+        "title": "Mit Blick in die Zukunft",
+        "text": "Die Entwicklung dieser neuen Lösung war eine Herausforderung als Forschungs- und Innovationsprojekt, das zur Einbeziehung der neuesten Technologien in Materialien/Beschichtungen geführt hat und die Notwendigkeit aufgezeigt hat, neue Profile und Montagesysteme zu entwickeln, die Neuheiten für den aktuellen Markt bieten."
+      },
+      {
+        "image": "assets/images/icono-soporte-tecnico.svg",
+        "image-alt": "Technischer Support",
+        "title": "Technischer Support",
+        "text": "Wir beraten Sie umfassend zu den verschiedenen Systemen und deren Anpassung an den Einbauort, persönlich gestaltete Berechnungen und Aufschlüsselungen von Komponenten."
+      },
+      {
+        "image": "assets/images/icono-produccion-nacional-certificada-sensibilidad-ambiental.svg",
+        "image-alt": "Zertifikat",
+        "title": "Inländische, zertifizierte und umweltbewusste Produktion",
+        "text": "Ein großer Teil der in unserem Sortiment enthaltenen Produkte ist inländischer Herkunft, unabdinglich für die Gewährleistung der benötigten hohen Qualitäts- und Innovationswerte."
+      },
+      {
+        "image": "assets/images/icono-pequeno-usuario.svg",
+        "image-alt": "Kleinverbraucher",
+        "title": "Auf den Kleinverbraucher angepasste Produkte",
+        "text": "Wir möchten die Bedürfnisse aller unserer Kunden verstehen, um den besten Service bieten zu können."
+      },
+      {
+        "image": "assets/images/icono-formacion.svg",
+        "image-alt": "Schulung",
+        "title": "Schulung",
+        "text": "Wir erteilen individuell gestaltete Schulungen, mit dem Ziel, alle Möglichkeiten und Leistungen unserer Produkte richtig nutzen zu können."
+      }
+    ]
+  },
+  "structures-section": {
+    "title": "Strukturen für Sonnenkollektoren",
+    "subtitle": "Wir verfügen über verschiedene Strukturlösungen für koplanare und dreieckige Strukturen, die Lösungen für die gängigsten Installationen auf dem Markt bieten.",
+    "qualities-advantages": "Qualitäten und Vorteile",
+    "system-components": "Systemkomponenten",
+    "systems": "Systeme",
+    "more-info": "Mehr Information",
+    "material-cover": {
+      "a2inox": {
+        "image": "assets/images/MAT_INOX_A2.jpg",
+        "image-alt": "Rostfrei A2"
+      },
+      "al": {
+        "image": "assets/images/MAT_ALU",
+        "image-alt": "Aluminium"
+      },
+      "ac": {
+        "image": "assets/images/MAT_ACERO.jpg",
+        "image-alt": "Stahl"
+      },
+      "atl": "assets/images/RP_ATLANTIS C4-H.jpg",
+      "image-alt": "Atlantis C4-M"
+    },
+    "components": {
+      "DIN-603 A2": {
+        "title": "DIN-603 A2",
+        "description": "Flachrundschraube mit Vierkantansatz. Rostfrei A2.",
+        "image": "assets/images/DIN-603-A2.jpg",
+        "image2x": "assets/images/DIN-603-A2@2x.jpg",
+        "image-alt": "Flachrundschraube mit Vierkantansatz. Rostfrei A2.",
+        "url": "https://www.indexfix.com/producto/11608-DIN-603-A2-tornillo-din-603-cabeza-redonda-y-cuello-cuadrado-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "DIN-6923 A2": {
+        "title": "DIN-6923 A2",
+        "description": "Sechskantmuttern mit Flansch DIN-6923. Rostfrei A2.",
+        "image": "assets/images/DIN-6923-A2.jpg",
+        "image2x": "assets/images/DIN-6923-A2@2x.jpg",
+        "image-alt": "Sechskantmuttern mit Flansch DIN-6923. Rostfrei A2.",
+        "url": "https://www.indexfix.com/producto/11606-DIN-6923-A2-tuerca-brida-grafilada-din-6923-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "DIN-6921 A2": {
+        "title": "DIN-6921 A2",
+        "description": "Schraube DIN-6921. Sechkantschraube mit Flansch. Rostfrei A2.",
+        "image": "assets/images/DIN-6921-A2.jpg",
+        "image2x": "assets/images/DIN-6921-A2@2x.jpg",
+        "image-alt": "Schraube DIN-6921. Sechkantschraube mit Flansch. Rostfrei A2.",
+        "url": "https://www.indexfix.com/producto/11607-DIN-6921-A2-tornillo-din-6921-tornillo-hexagonal-con-arandela-estampada-y-grafilada-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "DIN-7504-K-A2": {
+        "title": "DIN-7504-K A2",
+        "description": "Selbstbohrende Sechskantschraube. Rostfrei A2.",
+        "image": "assets/images/DIN-7504-K-A2.jpg",
+        "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
+        "image-alt": "Selbstbohrende Sechskantschraube. Rostfrei A2",
+        "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "EMP-XS": {
+        "title": "EMP-XS",
+        "description": "INDEXTRUT Solar-Verbindung. Stahl Atlantis C4-M.",
+        "image": "assets/images/EMP-XS.jpg",
+        "image2x": "assets/images/EMP-XS@2x.jpg",
+        "image-alt": "INDEXTRUT Solar-Verbindung. Stahl Atlantis C4-M.",
+        "url": "https://www.indexfix.com/producto/11612-EMP-XS-empalme-indextrut-solar-atlantis-c4-m",
+        "logos": [
+          "a2inox",
+          "atl"
+        ]
+      },
+      "GM-A": {
+        "title": "GM-A",
+        "description": "Aluminium-Rahmenlehre.",
+        "image": "assets/images/GM-A.jpg",
+        "image2x": "assets/images/GM-A@2x.jpg",
+        "image-alt": "Aluminium-Rahmenlehre.",
+        "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+        "logos": [
+          "al"
+        ]
+      },
+      "GP-VD": {
+        "title": "GP-VD",
+        "description": "INDEXTRUT Solar-Lochführung für diskontinuierliche Befestigung an Unterseite. Stahl Atlantis C4-M.",
+        "image": "assets/images/GP-VD.jpg",
+        "image2x": "assets/images/GP-VD@2x.jpg",
+        "image-alt": "INDEXTRUT Solar-Lochführung für diskontinuierliche Befestigung an Unterseite. Stahl Atlantis C4-M.",
+        "url": "https://www.indexfix.com/producto/gp-vd-guia-perforada-indextrut-solar-para-fijacion-en-valle-discontinua-acero-atlantis-c4-m",
+        "logos": [
+          "ac",
+          "atl"
+        ]
+      },
+      "GP-XS": {
+        "title": "GP-XS",
+        "description": "INDEXTRUT Solar-Lochführung. Stahl Atlantis C4-M.",
+        "image": "assets/images/GP-XS.jpg",
+        "image2x": "assets/images/GP-XS@2x.jpg",
+        "image-alt": "INDEXTRUT Solar-Lochführung. Stahl Atlantis C4-M.",
+        "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
+        "logos": [
+          "a2inox",
+          "atl"
+        ]
+      },
+      "KFS-FI": {
+        "title": "KFS-FI",
+        "description": "Kreuzverbinder für untere Befestigung. Rostfrei A2.",
+        "image": "assets/images/KFS-FI.jpg",
+        "image2x": "assets/images/KFS-FI@2x.jpg",
+        "image-alt": "Kreuzverbinder für untere Befestigung. Rostfrei A2.",
+        "url": "https://www.indexfix.com/producto/11611-KFS-FI-conector-cruzado-para-fijacion-inferior-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "KFS-FL": {
+        "title": "KFS-FL",
+        "description": "Kreuzverbinder für seitliche Befestigung. Rostfrei A2.",
+        "image": "assets/images/KFS-FL.jpg",
+        "image2x": "assets/images/KFS-FL@2x.jpg",
+        "image-alt": "Kreuzverbinder für seitliche Befestigung. Rostfrei A2.",
+        "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
+        "logos": [
+          "a2inox"
+        ]
+      },
+      "KFR-SC": {
+        "title": "KFR-SC",
+        "description": "Schnellbefestigungsklammer.",
+        "image": "assets/images/KFR-SC.jpg",
+        "image2x": "assets/images/KFR-SC@2x.jpg",
+        "image-alt": "Schnellbefestigungsklammer.",
+        "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+        "logos": [
+          "al",
+          "ac"
+        ]
+      },
+      "PSA-A": {
+        "title": "PSA-A",
+        "description": "Aluminium-Flügelprofil.",
+        "image": "assets/images/PSA-A.jpg",
+        "image2x": "assets/images/PSA-A@2x.jpg",
+        "image-alt": "Aluminium-Flügelprofil.",
+        "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
+        "logos": [
+          "al"
+        ]
+      },
+      "PSA-AV": {
+        "title": "PSA-AV",
+        "description": "Aluminium-Flügelprofil.",
+        "image": "assets/images/PSA-AV.jpg",
+        "image2x": "assets/images/PSA-AV@2x.jpg",
+        "image-alt": "Aluminium-Flügelprofil.",
+        "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
+        "logos": [
+          "al"
+        ]
+      },
+      "PSE-A": {
+        "title": "PSE-A",
+        "description": "Aluminiumprofil für montierte Befestigung.",
+        "image": "assets/images/PSE-A.jpg",
+        "image2x": "assets/images/PSE-A@2x.jpg",
+        "image-alt": "Aluminiumprofil für montierte Befestigung.",
+        "url": "https://www.indexfix.com/producto/11615-PSE-A-perfil-de-aluminio-para-fijacion-ensamblada",
+        "logos": [
+          "al"
+        ]
+      },
+      "PSE-C": {
+        "title": "PSE-C",
+        "description": "Aluminiumprofil für seitlich montierte Befestigung.",
+        "image": "assets/images/PSE-C.jpg",
+        "image2x": "assets/images/PSE-C@2x.jpg",
+        "image-alt": "Aluminiumprofil für seitlich montierte Befestigung.",
+        "url": "https://www.indexfix.com/producto/pse-c-perfil-de-aluminio-para-fijacion-ensamblada-lateral",
+        "logos": [
+          "al"
+        ]
+      },
+      "PSE-CUN": {
+        "title": "PSE-CUN",
+        "description": "Aluminium-Verbindung für Profil PSE-C.",
+        "image": "assets/images/PSE-CUN.jpg",
+        "image2x": "assets/images/PSE-CUN@2x.jpg",
+        "image-alt": "Aluminium-Verbindung für Profil PSE-C.",
+        "url": "https://www.indexfix.com/producto/pse-cun-union-de-aluminio-para-perfil-pse-c",
+        "logos": [
+          "al"
+        ]
+      },
+      "PSE-UN": {
+        "title": "PSE-UN",
+        "description": "Aluminium-Verbindung für Profil PSE-A.",
+        "image": "assets/images/PSE-UN.jpg",
+        "image2x": "assets/images/PSE-UN@2x.jpg",
+        "image-alt": "Aluminium-Verbindung für Profil PSE-A.",
+        "url": "https://www.indexfix.com/producto/11614-PSE-UN-union-de-perfil-de-aluminio-para-fijacion-ensamblada",
+        "logos": [
+          "al"
+        ]
+      },
+      "TPA-R": {
+        "title": "TPA-R",
+        "description": "Vormontiertes verstellbares Aluminium-Dreieck.",
+        "image": "assets/images/TPA-R.jpg",
+        "image2x": "assets/images/TPA-R@2x.jpg",
+        "image-alt": "Vormontiertes verstellbares Aluminium-Dreieck.",
+        "url": "https://www.indexfix.com/producto/11604-TPA-R-triangulo-regulable-de-aluminio-premontado",
+        "logos": [
+          "al"
+        ]
+      },
+      "TRP-XS": {
+        "title": "TRP-XS",
+        "description": "INDEXTRUT vormontiertes verstellbares Dreieck. Stahl mit Atlantis C4-M-Beschichtung.",
+        "image": "assets/images/TRP-XS.jpg",
+        "image2x": "assets/images/TRP-XS@2x.jpg",
+        "image-alt": "INDEXTRUT vormontiertes verstellbares Dreieck. Stahl mit Atlantis C4-M-Beschichtung.",
+        "url": "https://www.indexfix.com/producto/11602-TRP-XS-triangulo-regulable-premontado-indextrut-acero-con-recubrimiento-atlantis-c4-m",
+        "logos": [
+          "ac",
+          "atl"
+        ]
+      },
+      "TU-RX A2": {
+        "title": "TU-RX A2",
+        "description": "Führungsmutter Schnellbefestigung Indextrut. Rostfrei A2.",
+        "image": "assets/images/TU-RX-A2.jpg",
+        "image2x": "assets/images/TU-RX-A2@2x.jpg",
+        "image-alt": "Führungsmutter Schnellbefestigung Indextrut. Rostfrei A2.",
+        "url": "https://www.indexfix.com/producto/11609-TU-RX-A2-tuerca-rapida-indextrut-inoxidable-a2",
+        "logos": [
+          "a2inox"
+        ]
+      }
+    },
+    "types": {
+      "title": "KOPLANARE STRUKTUREN FÜR SONNENKOLLEKTOREN",
+      "description": "Halterungen für Sonnenkollektoren, geeignet für Steildächer. Sie ermöglichen eine einfache und effiziente Installation der Paneele auf verschiedenen Oberflächen, sowohl vertikal als auch horizontal.",
+      "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1.jpg",
+      "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1@2x.jpg",
+      "image-alt": "Koplanare Struktur für Sonnenkollektoren",
+      "systems": [
+        {
+          "title": "SC-PSA",
+          "description": "Koplanares System mit Aluminium-Flügelprofil (PSA-A). Direktbefestigung",
+          "carousel": [
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
+              "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminium-Flügelprofil (PSA-A). Direktbefestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
+              "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminium-Flügelprofil (PSA-A). Direktbefestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002.jpg",
+              "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminium-Flügelprofil (PSA-A). Direktbefestigung"
+            }
+          ],
+          "qualities-list": [
+            "Steildachsystem mit Montage parallel zur Dachfläche.",
+            "Installation auf Metalldächern, auf erhöhten Stegstellen, für jede Stegbreite.",
+            "Orientierung von Solarmodulen in Portrait (im Hochformat, vertikal).",
+            "Befestigung des Systems auf dem Dach selbst, hocheffizient und schnell zu installieren.",
+            "Durchgehend angeordnetes Profil, um die Anlagenplanung zu vereinfachen.",
+            "Verbindung zwischen Profilen durch Innenprofil und Selbstbohrschrauben, ohne Beeinträchtigung der Paneelenbefestigung.",
+            "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+          ],
+          "components": [
+            "DIN-7504-K-A2",
+            "GM-A",
+            "KFR-SC",
+            "PSA-A"
+          ]
+        },
+        {
+          "title": "SC-PSD",
+          "description": "Koplanares System mit Aluminium-Flügelprofil (PSA-A). Direkte Befestigung mit diskontinuierlichen Profilformat",
+          "carousel": [
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000.jpg",
+              "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminium-Flügelprofil (PSA-A). Direkte Befestigung mit diskontinuierlichen Profilformat"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001.jpg",
+              "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminium-Flügelprofil (PSA-A). Direkte Befestigung mit diskontinuierlichen Profilformat"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002.jpg",
+              "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminium-Flügelprofil (PSA-A). Direkte Befestigung mit diskontinuierlichen Profilformat"
+            }
+          ],
+          "qualities-list": [
+            "Steildachsystem mit Montage parallel zur Dachfläche.",
+            "Installation auf Metalldächern, auf erhöhten Stegstellen, für jede Stegbreite ≤ 360 mm.",
+            "Installation auf Metalldächern, auf erhöhten Stegstellen, für jede Stegbreite ≤ 360 mm.",
+            "Direkte Befestigung des Systems auf dem Dach selbst, hocheffizient und schnell zu installieren.",
+            "Diskontinuierlich angeordnetes Profil, um den Verbrauch von Profilmetern zu reduzieren.",
+            "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+          ],
+          "components": [
+            "GM-A",
+            "KFR-SC",
+            "PSA-A"
+          ]
+        },
+        {
+          "title": "SC-PSV",
+          "description": "Koplanares System mit Aluminium-Flügelprofil (PSA-AV). Direkte Befestigung an der Unterseite mit diskontinuierlichem Profilformat",
+          "carousel": [
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000.jpg",
+              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminium-Flügelprofil (PSA-AV). Direkte Befestigung an der Unterseite mit diskontinuierlichem Profilformat"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001.jpg",
+              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminium-Flügelprofil (PSA-AV). Direkte Befestigung an der Unterseite mit diskontinuierlichem Profilformat"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002.jpg",
+              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminium-Flügelprofil (PSA-AV). Direkte Befestigung an der Unterseite mit diskontinuierlichem Profilformat"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
+              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminium-Flügelprofil (PSA-AV). Direkte Befestigung an der Unterseite mit diskontinuierlichem Profilformat"
+            }
+          ],
+          "qualities-list": [
+            "Steildachsystem mit Montage parallel zur Dachfläche.",
+            "Installation auf Metalldächern, auf unterem Dachbereich.",
+            "Orientierung von Solarmodulen in „Landscape“ (im Querformat, horizontal).",
+            "Befestigung des Systems auf dem Dach selbst, hocheffizient und schnell zu installieren.",
+            "Diskontinuierlich angeordnetes Profil, um den Verbrauch von Profilmetern zu reduzieren.",
+            "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+          ],
+          "components": [
+            "GM-A",
+            "KFR-SC",
+            "PSA-AV"
+          ]
+        },
+        {
+          "title": "SC-PSE",
+          "description": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung",
+          "carousel": [
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
+              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
+              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002.jpg",
+              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003.jpg",
+              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004.jpg",
+              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000.jpg",
+              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001.jpg",
+              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
+              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001.jpg",
+              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
+              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
+              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
+              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
+              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
+              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+            }
+          ],
+          "qualities-list": [
+            "Steildachsystem mit Montage parallel zur Dachfläche.",
+            "Installation auf allen Arten von Dächern, montiert auf einstellbarem Befestigungszubehör.",
+            "Orientierung von Solarmodulen in „Portrait“ (im Hochformat, vertikal) und „Landscape“ (im Querformat, horizontal).",
+            "Befestigung des Systems montiert auf einstellbarem Befestigungszubehör, verankert am Dach oder an der Unterkonstruktion, mit einer großen Auswahl an einstellbarem Befestigungszubehör.",
+            "Durchgehend angeordnetes Profil, um die Anlagenplanung zu vereinfachen.",
+            "Verbindung zwischen Profilen durch Innenprofil und Selbstbohrschrauben, ohne Beeinträchtigung der Paneelenbefestigung.",
+            "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen"
+          ],
+          "components": [
+            "DIN-7504-K A2",
+            "GMA-A",
+            "KFR-SC",
+            "KFS-FI",
+            "PSE-UN",
+            "PSE-A"
+          ]
+        },
+        {
+          "title": "SC-PSC",
+          "description": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung",
+          "carousel": [
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
+              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001.jpg",
+              "image2x": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
+              "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
+              "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
+              "image2x": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
+              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
+              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
+              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
+              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005.jpg",
+              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006.jpg",
+              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006@2x.jpg",
+              "image-alt": "Koplanares System mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung"
+            }
+          ],
+          "qualities-list": [
+            "Steildachsystem mit Montage parallel zur Dachfläche.",
+            "Installation auf allen Arten von Dächern montiert auf einstellbarem Befestigungszubehör und direkt am Metallblech befestigt.",
+            "Orientierung von Solarmodulen in „Portrait“ (im Hochformat, vertikal) und „Landscape“ (im Querformat, horizontal).",
+            "Befestigung des Systems montiert auf einstellbarem Befestigungszubehör, verankert am Dach oder an der Unterkonstruktion, mit einer großen Auswahl an einstellbarem Befestigungszubehör.",
+            "Durchgehend angeordnetes Profil, um die Anlagenplanung zu vereinfachen.",
+            "Diskontinuierlich angeordnetes Profil, um den Verbrauch von Profilmetern zu reduzieren.",
+            "Verbindung zwischen Profilen durch Innenprofil und Selbstbohrschrauben, ohne Beeinträchtigung der Paneelenbefestigung.",
+            "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+          ],
+          "components": [
+            "GMA-A",
+            "KFR-SC",
+            "DIN-7504-K A2",
+            "PSE-CUN",
+            "PSE-C"
+          ]
+        },
+        {
+          "title": "SC-GPX",
+          "description": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS.",
+          "carousel": [
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001.jpg",
+              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS."
+            }
+          ],
+          "qualities-list": [
+            "Steildachsystem mit Montage parallel zur Dachfläche.",
+            "Installation auf Metalldächern, auf erhöhten Stegstellen, für jede Stegbreite.",
+            "Orientierung von Solarmodulen in Portrait (im Hochformat, vertikal).",
+            "Direkte Befestigung des Systems auf dem Dach selbst, hocheffizient und schnell zu installieren.",
+            "Durchgehend angeordnetes Profil, um die Anlagenplanung zu vereinfachen.",
+            "Verbindung zwischen Profilen durch Innenprofil und Selbstbohrschrauben, ohne Beeinträchtigung der Paneelenbefestigung.",
+            "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+          ],
+          "components": [
+            "DIN-6923 A2",
+            "DIN-603 A2",
+            "GM-A",
+            "KFR-SC",
+            "EMP-XS",
+            "GP-XS"
+          ]
+        },
+        {
+          "title": "SC-GPD",
+          "description": "Koplanares System mit perforierter Führung Atlantis C4-M Indextrut Solar GP-XS. Diskontinuierliches Führungsformat",
+          "carousel": [
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+              "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+              "image-alt": "Koplanares System mit perforierter Führung Atlantis C4-M Indextrut Solar GP-XS. Diskontinuierliches Führungsformat"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+              "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+              "image-alt": "Koplanares System mit perforierter Führung Atlantis C4-M Indextrut Solar GP-XS. Diskontinuierliches Führungsformat"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+              "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+              "image-alt": "Koplanares System mit perforierter Führung Atlantis C4-M Indextrut Solar GP-XS. Diskontinuierliches Führungsformat"
+            }
+          ],
+          "qualities-list": [
+            "Steildachsystem mit Montage parallel zur Dachfläche.",
+            "Installation auf Metalldächern, auf erhöhten Stegstellen.",
+            "Orientierung von Solarmodulen in „Landscape“ (im Querformat, horizontal).",
+            "Direkte Befestigung des Systems auf dem Dach selbst, hocheffizient und schnell zu installieren.",
+            "Diskontinuierlich angeordnetes Profil, um den Verbrauch von Profilmetern auf ein Minimum zu reduzieren.",
+            "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+          ],
+          "components": [
+            "GM-A",
+            "KFR-SC",
+            "GP-XS"
+          ]
+        },
+        {
+          "title": "SC-GPV",
+          "description": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS. Direkte Befestigung an der Unterseite des diskontinuierlichen Profils",
+          "carousel": [
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+              "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS. Direkte Befestigung an der Unterseite des diskontinuierlichen Profils"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+              "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS. Direkte Befestigung an der Unterseite des diskontinuierlichen Profils"
+            },
+            {
+              "type": "image",
+              "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+              "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+              "image-alt": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS. Direkte Befestigung an der Unterseite des diskontinuierlichen Profils"
+            }
+          ],
+          "qualities-list": [
+            "Steildachsystem mit Montage parallel zur Dachfläche.",
+            "Installation auf Metalldächern, auf unterem Dachbereich.",
+            "Orientierung von Solarmodulen in „Landscape“ (im Querformat, horizontal).",
+            "Direkte Befestigung des Systems auf dem Dach selbst, hocheffizient und schnell zu installieren.",
+            "Diskontinuierlich angeordnetes Profil, um den Verbrauch von Profilmetern zu reduzieren.",
+            "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+          ],
+          "components": [
+            "GM-A",
+            "KFR-SC",
+            "GP-VD"
+          ]
+        },
+        {
+          "title": "DREIECKIGE STRUKTUREN FÜR SONNENKOLLEKTOREN",
+          "description": "Halterungen für Sonnenkollektoren, geeignet für Flachdächer und Dächer mit geringer Neigung. Sie ermöglichen eine einfache und effiziente Installation der Paneele auf verschiedenen Oberflächen, sowohl vertikal als auch horizontal.",
+          "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+          "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+          "image-alt": "DREIECKIGE STRUKTUREN FÜR SONNENKOLLEKTOREN",
+          "systems": [
+            {
+              "title": "ST-PSE",
+              "description": "Dreieckiges System mit Aluminiumprofil PSE- A. Montierte Befestigung",
+              "carousel": [
+                {
+                  "type": "image",
+                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                  "image-alt": "Dreieckiges System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+                },
+                {
+                  "type": "image",
+                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                  "image-alt": "Dreieckiges System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+                },
+                {
+                  "type": "image",
+                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                  "image-alt": "Dreieckiges System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+                },
+                {
+                  "type": "image",
+                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                  "image-alt": "Dreieckiges System mit Aluminiumprofil PSE- A. Montierte Befestigung"
+                }
+              ],
+              "qualities-list": [
+                "System für Flachdächer mit geringer Neigung, mit geneigter Montage zur Dachfläche.",
+                "Installation auf allen Arten von Dächern, auf vormontierten Dreiecken mit einstellbarer Neigung von 25°, 30° und 35°.",
+                "Orientierung von Solarmodulen in Portrait (im Hochformat, vertikal).",
+                "Befestigungsmöglichkeit des Systems direkt an der Unterkonstruktion durch direkte Verankerung der Stützfüße der Dreiecke.",
+                "Befestigungsmöglichkeit des Systems montiert auf einer Hilfskonstruktion aus Solarprofilen, verankert an der Unterkonstruktion, mittels Schnellbefestigungsmuttern an den Stützfüßen der Dreiecke montiert.",
+                "Durchgehend angeordnetes Profil, um die Anlagenplanung zu vereinfachen.",
+                "Längsverbindung zwischen Profilen durch Innenprofil und Selbstbohrschrauben, ohne Beeinträchtigung der Paneelenbefestigung.",
+                "Montage zwischen Profilen und Dreiecken durch vormontierte Schnellbefestigungslösungen.",
+                "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+              ],
+              "components": [
+                "DIN-7504-K A2",
+                "GMA-A",
+                "KFR-SC",
+                "TPA-R",
+                "KFS-FL",
+                "PSE-UN",
+                "PSE-A"
+              ]
+            },
+            {
+              "title": "ST-GPX",
+              "description": "Dreieckiges System mit gelochter Führung Atlantis C4-M Indextrut Solar GP-XS",
+              "carousel": [
+                {
+                  "type": "image",
+                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                  "image-alt": "Dreieckiges System mit gelochter Führung Atlantis C4-M Indextrut Solar GP-XS"
+                },
+                {
+                  "type": "image",
+                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                  "image-alt": "Dreieckiges System mit gelochter Führung Atlantis C4-M Indextrut Solar GP-XS"
+                },
+                {
+                  "type": "image",
+                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                  "image-alt": "Dreieckiges System mit gelochter Führung Atlantis C4-M Indextrut Solar GP-XS"
+                },
+                {
+                  "type": "image",
+                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
+                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
+                  "image-alt": "Dreieckiges System mit gelochter Führung Atlantis C4-M Indextrut Solar GP-XS"
+                }
+              ],
+              "qualities-list": [
+                "System für Flachdächer mit geringer Neigung, mit geneigter Montage zur Dachfläche.",
+                "Installation auf allen Arten von Dächern, auf vormontierten Dreiecken mit einstellbarer Neigung zwischen 25° und 35°.",
+                "Orientierung von Solarmodulen in „Portrait“ (im Hochformat, vertikal) und „Landscape“ (im Querformat, horizontal).",
+                "Befestigungsmöglichkeit des Systems direkt an der Unterkonstruktion durch direkte Verankerung der Stützfüße der Dreiecke.",
+                "Befestigungsmöglichkeit des Systems montiert auf einer Hilfskonstruktion aus Solar-Lochführungen, verankert an der Unterkonstruktion, mittels Schnellbefestigungsmuttern an den Stützfüßen der Dreiecke montiert.",
+                "Führung durchgehend angeordnet, um die Anlagenplanung zu vereinfachen.",
+                "Längsverbindung zwischen Führungen mittels Innenverbindung und DIN603 Schnellmontageschrauben, ohne Beeinträchtigung der Paneelenbefestigung.",
+                "Montage zwischen Profilen und Dreiecken mit Schnellbefestigungsmuttern.",
+                "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+              ],
+              "components": [
+                "DIN-6923 A2",
+                "DIN-603 A2",
+                "GM-A",
+                "KFR-SC",
+                "DIN-6921 A2",
+                "TU-RX A2",
+                "TRP-XS",
+                "EMP-XS",
+                "GP-XS"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "range-section": {
+    "title": "Produktsortiment für Solaranlagen",
+    "subtitle": "Hier wird erklärt, dass die Produkte zusammen gekauft werden können, wenn Sie ein System oder einen Bausatz kaufen, oder einzeln. Hier werden die Produktreihen gezeigt.",
+    "more-info": "Mehr Information",
+    "range-cards": [
+      {
+        "title": "KLEMMEN UND LEHREN",
+        "description": "Für die Plattenmontage",
+        "image": "assets/images/KFR-SC.jpg",
+        "image2x": "assets/images/KFR-SC@2x.jpg",
+        "image-alt": "Klemmen und Lehren",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-gg"
+      },
+      {
+        "title": "PROFILE, VERBINDUNGEN, FÜHRUNGEN UND ANSCHLÜSSE",
+        "description": "Für Tragkonstruktionen",
+        "image": "assets/images/GP-XS.jpg",
+        "image2x": "assets/images/GP-XS@2x.jpg",
+        "image-alt": "PROFILE, VERBINDUNGEN, FÜHRUNGEN UND ANSCHLÜSSE",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-pu"
+      },
+      {
+        "title": "STECKVERBINDER + ZUBEHÖR",
+        "description": "Für die Montage von Solarstrukturen",
+        "image": "assets/images/TU-RX.jpg",
+        "image2x": "assets/images/TU-RX@2x.jpg",
+        "image-alt": "Steckverbinder + Zubehör",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-cc"
+      },
+      {
+        "title": "DREIECKE",
+        "description": "Für die Installation von Sonnenkollektoren",
+        "image": "assets/images/TPA-R.jpg",
+        "image2x": "assets/images/TPA-R@2x.jpg",
+        "image-alt": "Dreiecke",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-tr"
+      },
+      {
+        "title": "EINSTELLBARES ZUBEHÖR",
+        "description": "Für die Installation von Sonnenkollektoren",
+        "image": "assets/images/GS-TU.jpg",
+        "image2x": "assets/images/GS-TU@2x.jpg",
+        "image-alt": "Einstellbares Zubehör",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-kfs"
+      },
+      {
+        "title": "ZUBEHÖR FÜR DIE DIREKTBEFESTIGUNG",
+        "description": "Für die Installation von Sonnenkollektoren",
+        "image": "assets/images/TAC.jpg",
+        "image2x": "assets/images/TAC@2x.jpg",
+        "image-alt": "Zubehör für die Direktbefestigung",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-fd"
+      },
+      {
+        "title": "DICHTUNGSZUBEHÖR",
+        "description": "Dichtungszubehör",
+        "image": "assets/images/ARS-P.jpg",
+        "image2x": "assets/images/ARS-P@2x.jpg",
+        "image-alt": "Dichtungszubehör",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-es"
+      }
+    ]
+  },
+  "calculator-section": {
+    "title": "Solarsets. Ökonomischer, weniger Abfall",
+    "subtitle": "Die Bausätze sind für koplanare oder dreieckige Installationen geeignet und enthalten die notwendigen Elemente, um den gesamten Montageprozess abzuschließen",
+    "image-alt": "Box mit Solarset vor der Solaranlage",
+    "p-1": "Wir verfügen über <strong>Sets für 2 oder 3 Paneele (Originalsets)</strong> für verschiedene Arten von Halterungen für Sonnenkollektoren (koplanar und dreieckig). <strong>Sets für 2 oder 3 Paneele (Originalsets)</strong>, mit denen die Anzahl der zu installierenden Paneele erhöht werden kann, ohne dass dabei unnötige Kosten entstehen.",
+    "p-2": "Diese Erweiterungssätze enthalten alles, was für die Erweiterung erforderlich ist, jedoch <strong>ohne unnötige Produkte</strong> (Klemmen und doppelte Messlehren), wodurch Kosten reduziert und Materialabfälle vermieden werden.",
+    "question-number-solar-panels": "Wie viele Sonnenkollektoren möchten Sie verbinden? Wählen Sie die Anzahl der Paneele",
+    "origin-kit-text": "Originalset",
+    "fix-a-solar-panel": "Zur Befestigung von {num} Solarkollektor brauchen Sie",
+    "fix-multiple-solar-panels": "Zur Befestigung von {num} Solarkollektoren brauchen Sie",
+    "origin-kit": "{num} Originalset",
+    "origin-kit-extension-kit": "{num} Originalset und {num2} Erweiterungsset",
+    "origin-kit-extension-kits": "{num} Originalset und {num2} Erweiterungssets",
+    "answer-number-kits-list": [
+      {
+        "solar-panel": 1,
+        "origin-kit": 1
+      },
+      {
+        "solar-panel": 2,
+        "origin-kit": 1
+      },
+      {
+        "solar-panel": 3,
+        "origin-kit": 1
+      },
+      {
+        "solar-panel": 4,
+        "origin-kit": 1,
+        "extension-kit": 1
+      },
+      {
+        "solar-panel": 5,
+        "origin-kit": 1,
+        "extension-kit": 1
+      },
+      {
+        "solar-panel": 6,
+        "origin-kit": 1,
+        "extension-kit": 1
+      },
+      {
+        "solar-panel": 7,
+        "origin-kit": 1,
+        "extension-kit": 2
+      },
+      {
+        "solar-panel": 8,
+        "origin-kit": 1,
+        "extension-kit": 2
+      },
+      {
+        "solar-panel": 9,
+        "origin-kit": 1,
+        "extension-kit": 2
+      },
+      {
+        "solar-panel": 10,
+        "origin-kit": 1,
+        "extension-kit": 4
+      }
+    ]
+  },
+  "solar-kits-section": {
+    "title": "Typen von Solarsets",
+    "solar-kits-cards": [
+      {
+        "title": "KC-PSA",
+        "description": "Koplanar mit Aluminium-Flügelprofil (PSA-A). Direktbefestigung.",
+        "image": "assets/images/KC-PSA.jpg",
+        "image2x": "assets/images/KC-PSA@2x.jpg",
+        "image-alt": "KC-PSA. Koplanar mit Aluminium-Flügelprofil (PSA-A). Direktbefestigung.",
+        "url": "https://www.indexfix.com/producto/11587-KC-PSA-coplanar-con-perfil-con-alas-de-aluminio-psa-a-fijacion-directa"
+      },
+      {
+        "title": "KC-PSD",
+        "description": "Koplanar mit Aluminium-Flügelprofil (PSA-A). Direkte Befestigung des diskontinuierlichen Profilformats.",
+        "image": "assets/images/KC-PSD.jpg",
+        "image2x": "assets/images/KC-PSD@2x.jpg",
+        "image-alt": "IKC-PSD. Koplanar mit Aluminium-Flügelprofil (PSA-A). Direkte Befestigung des diskontinuierlichen Profilformats.",
+        "url": "https://www.indexfix.com/producto/11586-KC-PSD-coplanar-con-perfil-con-alas-de-aluminio-psa-a-fijacion-directa-formato-de-perfil-discontinuo"
+      },
+      {
+        "title": "KC-PSC",
+        "description": "Koplanar mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung.",
+        "image": "assets/images/KC-PSC.jpg",
+        "image2x": "assets/images/KC-PSC@2x.jpg",
+        "image-alt": "KC-PSC. Koplanar mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung.",
+        "url": "https://www.indexfix.com/producto/kc-psc-coplanar-con-perfil-de-aluminio-pse-c-fijacion-ensamblada-lateral"
+      },
+      {
+        "title": "KC-GPX",
+        "description": "Koplanar mit gelochter Führung aus Stahl Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
+        "image": "assets/images/KC-GPX.jpg",
+        "image2x": "assets/images/KC-GPX@2x.jpg",
+        "image-alt": "KC-GPX. Koplanar mit gelochter Führung aus Stahl Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
+        "url": "https://www.indexfix.com/producto/11584-KC-GPX-coplanar-con-guia-perforada-acero-atlantis-c4-m-indextrut-solar-gp-xs"
+      },
+      {
+        "title": "KC-GPD",
+        "description": "Koplanar mit gelochter Führung Atlantis C4-M INDEXTRUT SOLAR GP-XS. Diskontinuierliches Führungsformat.",
+        "image": "assets/images/KC-GPD.jpg",
+        "image2x": "assets/images/KC-GPD@2x.jpg",
+        "image-alt": "KC-GPD. Koplanar mit gelochter Führung Atlantis C4-M INDEXTRUT SOLAR GP-XS. Diskontinuierliches Führungsformat.",
+        "url": "https://www.indexfix.com/producto/11583-KC-GPD-coplanar-con-guia-perforada-atlantis-c4-m-indextrut-solar-gp-xs-formato-guia-discontinua"
+      },
+      {
+        "title": "KT-PSE",
+        "description": "Dreieckig mit Aluminiumprofil PSE-A. Montierte Befestigung.",
+        "image": "assets/images/KT-PSE.jpg",
+        "image2x": "assets/images/KT-PSE@2x.jpg",
+        "image-alt": "KT-PSE. Dreieckig mit Aluminiumprofil PSE-A. Montierte Befestigung.",
+        "url": "https://www.indexfix.com/producto/11582-KT-PSE-triangular-con-perfil-de-aluminio-pse-a-fijacion-ensamblada"
+      },
+      {
+        "title": "KT-GPX",
+        "description": "Dreieckig mit gelochter Führung Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
+        "image": "assets/images/KT-GPX.jpg",
+        "image2x": "assets/images/KT-GPX@2x.jpg",
+        "image-alt": "KT-GPX. Dreieckig mit gelochter Führung Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
+        "url": "https://www.indexfix.com/producto/11581-KT-GPX-triangular-con-guia-perforada-atlantis-c4-m-indextrut-solar-gp-xs"
+      }
+    ]
+  },
+  "others-section": {
+    "title": "Mehr Verankerungen für Sonnenkollektoren",
+    "subtitle": "Um unseren Kunden bei der Installation von Sonnenkollektoren eine adäquate Befestigung zu bieten, haben wir bei INDEX ein breites Sortiment an Verankerungen zur Verfügung gestellt.",
+    "materials-cards": [
+      {
+        "title": "Metallbefestigungen",
+        "description": "Metallspreizdübel oder Keildübel aus Kohlenstoffstahl und Edelstahl, zugelassen für den Einbau von Elementen in gerissenem Beton, ungerissenem Beton, seismischen Lasten oder R30-R120 Feuerwiderstand in Beton.",
+        "image": "assets/images/anclajes-metalicos.jpg",
+        "image2x": "assets/images/anclajes-metalicos@2x.jpg",
+        "image-alt": "Metallbefestigungen",
+        "url": "https://www.indexfix.com/canales-venta/anclajes/fijaciones-metalicas"
+      },
+      {
+        "title": "Kunststoffbefestigungen",
+        "description": "Die aus hochwertigem Nylon® gefertigten Kunststoffbefestigungen sind die perfekte und wirtschaftliche Lösung für die Befestigung leichter und mittlerer Lasten.",
+        "image": "assets/images/anclajes-plasticos.jpg",
+        "image2x": "assets/images/anclajes-plasticos@2x.jpg",
+        "image-alt": "Kunststoffbefestigungen",
+        "url": "https://www.indexfix.com/canales-venta/anclajes/fijaciones-plasticas"
+      },
+      {
+        "title": "Chemische Verankerungen",
+        "description": "Chemische Injektionsdübel sind die optimale Lösung für die Befestigung schwerer Lasten in Beton und Mauerwerk oder überall dort, wo ein zugelassenes Produkt erforderlich ist.",
+        "image": "assets/images/anclajes-quimicos.jpg",
+        "image2x": "assets/images/anclajes-quimicos@2x.jpg",
+        "image-alt": "Chemische Verankerungen",
+        "url": "https://www.indexfix.com/canales-venta/anclajes/fijaciones-quimicas"
+      },
+      {
+        "title": "Verschraubungen",
+        "description": "Es gibt eine große Auswahl an selbstbohrenden Schrauben und selbstschneidenden Schrauben sowie verschiedene Kopfarten, Durchmesser und Längen.",
+        "image": "assets/images/tornilleria.jpg",
+        "image2x": "assets/images/tornilleria@2x.jpg",
+        "image-alt": "Verschraubungen",
+        "url": "https://www.indexfix.com/canales-venta/tornillos"
+      },
+      {
+        "title": "Kunststoffschellen",
+        "description": "Nylon®-Kabelbinder und Kunststoffschellen sind eines der beliebtesten Produkte in der Welt der professionellen Installation.",
+        "image": "assets/images/anclajes-abrazaderas.jpg",
+        "image2x": "assets/images/anclajes-abrazaderas@2x.jpg",
+        "image-alt": "Kunststoffschellen",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/abrazaderas-plasticas"
+      }
+    ]
+  },
   "contact-section": {
     "title": "Fordern Sie weitere Informationen an",
     "error": "Fehler",
@@ -13,17 +1152,17 @@
     "phone-legend": "Zulässiges Format 613445599 oder +34613445599",
     "message": "Nachricht/Anfrage",
     "personal-data": "Ich akzeptiere die Verwendung meiner persönlichen Daten durch das technische Personal von Técnicas Expansivas SL (CIF B-26220491), um mich ausschließlich für meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.",
-    "legal-data": "Ich habe die <a href='https://www.indexfix.com/rechtliche' target='_blank' class='index-link'>Rechtshinweise</a> und die <a href='https://www.indexfix.com/datenschutz' target='_blank' class='index-link'>Datenschutzbestimmungen</a> gelesen und akzeptiere sie.",
+    "legal-data": "Ich habe die <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Rechtshinweise</a> und die <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Datenschutzbestimmungen</a> gelesen und akzeptiere sie.",
     "description-1": "TÉCNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umstände, zum Zeitpunkt der Erfassung der persönlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Geschäftsbeziehung, umfassende und kommerzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivitäten im Zusammenhang mit TÉCNICAS EXPANSIVAS S.L.",
     "description-2": "Die Daten in unseren Dateien sind streng vertraulich und werden mit der größtmöglichen Vertraulichkeit behandelt und erfüllen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016. Die Daten bleiben so lange in unseren Dateien gespeichert, wie es für den Zweck, für den sie erhoben wurden, erforderlich ist. Der Zeitraum, in dem die personenbezogenen Daten aufbewahrt werden, richtet sich nach der geltenden Gesetzgebung und gilt immer für den Zeitraum, der für die Erbringung der Dienstleistung, für die sie übermittelt wurden, erforderlich ist.",
     "description-3": "Gemäß der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu übermitteln, da diese nicht verschlüsselt sind. Sollten Sie solche Daten übermitteln, so geschieht dies auf Ihre alleinige Verantwortung.",
-    "description-4": "Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, Löschung und Widerspruch gemäß den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 ausüben, indem er ein Schreiben an den für die Verarbeitung verantwortlichen Mitarbeiter sendet: Valentín Gómez, Geschäftsführer, zusammen mit einer Fotokopie seines Personalausweises an TÉCNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logroño (La Rioja) oder über die E-Mail Adresse info@indexfix.com.",
+    "description-4": "Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, Löschung und Widerspruch gemäß den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 ausüben, indem er ein Schreiben an den für die Verarbeitung verantwortlichen Mitarbeiter sendet: Valentín Gómez, Geschäftsführer, zusammen mit einer Fotokopie seines Personalausweises an TÉCNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logroño (La Rioja) oder über die E-Mail Adresse info@indexfix.com.",
     "button-send": "Senden"
   },
   "menu-aside": {
     "button-features": "Eigenschaften",
-    "button-range": "Zum Sortiment",
-    "button-resources": "Ressourcen herunterladen",
+    "button-structures": "Strukturarten",
+    "button-calculator": "Rechner für Solarsets",
     "button-info": "Informationen"
   }
 }
