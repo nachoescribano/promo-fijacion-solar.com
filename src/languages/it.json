@@ -67,19 +67,25 @@
     "more-info": "Ulteriori informazioni",
     "material-cover": {
       "a2inox": {
-        "image": "assets/images/MAT_INOX_A2.jpg",
+        "image": "assets/images/MAT_INOX_A2.png",
+        "image2x": "assets/images/MAT_INOX_A2@2x.png",
         "image-alt": "Inossidabile A2"
       },
       "al": {
-        "image": "assets/images/MAT_ALU",
+        "image": "assets/images/MAT_ALU.png",
+        "image2x": "assets/images/MAT_ALU@2x.png",
         "image-alt": "Alluminio"
       },
       "ac": {
-        "image": "assets/images/MAT_ACERO.jpg",
+        "image": "assets/images/MAT_ACERO.png",
+        "image2x": "assets/images/MAT_ACERO@2x.png",
         "image-alt": "Acciaio"
       },
-      "atl": "assets/images/RP_ATLANTIS C4-H.jpg",
-      "image-alt": "Atlantis C4-M"
+      "atl": {
+        "image": "assets/images/RP_ATLANTIS C4-H.png",
+        "image2x": "assets/images/RP_ATLANTIS C4-H@2x.png",
+        "image-alt": "Atlantis C4-M"
+      }
     },
     "components": {
       "DIN-603 A2": {
@@ -199,6 +205,15 @@
         "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
         "logos": ["al"]
       },
+      "PSA-UN": {
+        "title": "PSA-UN",
+        "description": "Connettore in alluminio per profilo PSA-A.",
+        "image": "assets/images/PSA-UN.jpg",
+        "image2x": "assets/images/PSA-UN@2x.jpg",
+        "image-alt": "Connettore in alluminio per profilo PSA-A.",
+        "url": "https://www.indexfix.com/producto/11616-PSA-UN-union-de-perfil-de-aluminio-con-alas",
+        "logos": ["al"]
+      },
       "PSE-A": {
         "title": "PSE-A",
         "description": "Profilo in alluminio per fissaggio assemblato.",
@@ -277,8 +292,8 @@
             "carousel": [
               {
                 "type": "image",
-                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
-                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000@2x.jpg",
                 "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto"
               },
               {
@@ -303,7 +318,13 @@
               "Giunzione tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
               "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
             ],
-            "components": ["DIN-7504-K-A2", "GM-A﻿", "KFR-SC﻿", "PSA-A﻿"]
+            "components": [
+              "DIN-7504-K-A2",
+              "PSA-UN",
+              "GM-A",
+              "KFR-SC",
+              "PSA-A"
+            ]
           },
           {
             "title": "SC-PSD",
@@ -336,7 +357,11 @@
               "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
               "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
             ],
-            "components": ["GM-A﻿", "KFR-SC﻿", "PSA-A﻿"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "PSA-A"
+            ]
           },
           {
             "title": "SC-PSV",
@@ -375,7 +400,11 @@
               "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
               "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
             ],
-            "components": ["GM-A﻿", "KFR-SC﻿", "PSA-AV﻿"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "PSA-AV"
+            ]
           },
           {
             "title": "SC-PSE",
@@ -476,11 +505,11 @@
               "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio"
             ],
             "components": [
-              "DIN-7504-K A2",
-              "GMA-A",
-              "KFR-SC﻿",
-              "KFS-FI﻿",
-              "PSE-UN﻿",
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "KFS-FI",
+              "PSE-UN",
               "PSE-A"
             ]
           },
@@ -566,9 +595,9 @@
               "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
             ],
             "components": [
-              "GMA-A",
-              "KFR-SC﻿",
-              "DIN-7504-K A2",
+              "GM-A",
+              "KFR-SC",
+              "DIN-7504-K-A2",
               "PSE-CUN",
               "PSE-C"
             ]
@@ -656,9 +685,9 @@
             "components": [
               "DIN-6923 A2",
               "DIN-603 A2",
-              "GM-A﻿",
-              "KFR-SC﻿",
-              "EMP-XS﻿",
+              "GM-A",
+              "KFR-SC",
+              "EMP-XS",
               "GP-XS"
             ]
           },
@@ -693,7 +722,11 @@
               "Profilo disposto in modo discontinuo per ridurre al minimo i metri di profilo consumati.",
               "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
             ],
-            "components": ["GM-A﻿", "KFR-SC﻿", "GP-XS"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "GP-XS"
+            ]
           },
           {
             "title": "SC-GPV",
@@ -726,15 +759,19 @@
               "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
               "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
             ],
-            "components": ["GM-A﻿", "KFR-SC﻿", "GP-VD"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "GP-VD"
+            ]
           }
         ]
       },
       {
         "title": "STRUTTURE TRIANGOLARI PER PANNELLI SOLARI",
         "description": "Supporti per pannelli solari adatti a tetti piani e a bassa pendenza. Offrono un'installazione semplice ed efficace dei pannelli su diverse superfici, sia in verticale che in orizzontale.",
-        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000-1.jpg",
+        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x-1.jpg",
         "image-alt": "STRUTTURE TRIANGOLARI PER PANNELLI SOLARI",
         "systems": [
           {
@@ -778,8 +815,8 @@
               "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
             ],
             "components": [
-              "DIN-7504-K A2",
-              "GMA-A",
+              "DIN-7504-K-A2",
+              "GM-A",
               "KFR-SC﻿",
               "TPA-R﻿",
               "KFS-FL﻿",
@@ -1071,8 +1108,8 @@
       {
         "title": "Morsetti di plastica",
         "description": "Le fascette di Nylon® e i morsetti in plastica sono prodotti fortemente richiesti nel mondo dell’installazione professionale.",
-        "image": "assets/images/anclajes-abrazaderas.jpg",
-        "image2x": "assets/images/anclajes-abrazaderas@2x.jpg",
+        "image": "assets/images/abrazaderas.jpg",
+        "image2x": "assets/images/abrazaderas@2x.jpg",
         "image-alt": "Morsetti di plastica",
         "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/abrazaderas-plasticas"
       }

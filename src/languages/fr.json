@@ -67,19 +67,25 @@
     "more-info": "En savoir plus",
     "material-cover": {
       "a2inox": {
-        "image": "assets/images/MAT_INOX_A2.jpg",
+        "image": "assets/images/MAT_INOX_A2.png",
+        "image2x": "assets/images/MAT_INOX_A2@2x.png",
         "image-alt": "Inoxydable A2"
       },
       "al": {
-        "image": "assets/images/MAT_ALU",
+        "image": "assets/images/MAT_ALU.png",
+        "image2x": "assets/images/MAT_ALU@2x.png",
         "image-alt": "Aluminium"
       },
       "ac": {
-        "image": "assets/images/MAT_ACERO.jpg",
+        "image": "assets/images/MAT_ACERO.png",
+        "image2x": "assets/images/MAT_ACERO@2x.png",
         "image-alt": "Acier"
       },
-      "atl": "assets/images/RP_ATLANTIS C4-H.jpg",
-      "image-alt": "Atlantis C4-M"
+      "atl": {
+        "image": "assets/images/RP_ATLANTIS C4-H.png",
+        "image2x": "assets/images/RP_ATLANTIS C4-H@2x.png",
+        "image-alt": "Atlantis C4-M"
+      }
     },
     "components": {
       "DIN-603 A2": {
@@ -199,6 +205,15 @@
         "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
         "logos": ["al"]
       },
+      "PSA-UN": {
+        "title": "PSA-UN",
+        "description": "Connecteur en aluminium pour le profil PSA-A.",
+        "image": "assets/images/PSA-UN.jpg",
+        "image2x": "assets/images/PSA-UN@2x.jpg",
+        "image-alt": "Connecteur en aluminium pour le profil PSA-A.",
+        "url": "https://www.indexfix.com/producto/11616-PSA-UN-union-de-perfil-de-aluminio-con-alas",
+        "logos": ["al"]
+      },
       "PSE-A": {
         "title": "PSE-A",
         "description": "Profilé en aluminium pour fixation assemblée.",
@@ -277,8 +292,8 @@
             "carousel": [
               {
                 "type": "image",
-                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
-                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000@2x.jpg",
                 "image-alt": "Système Coplanaire avec profilé à ailes en aluminium (PSA-A). Fixation directe"
               },
               {
@@ -303,7 +318,13 @@
               "Union entre profilés au moyen d’un profilé intérieur et de vis autoperceuses, sans interférer avec la fixation des panneaux.",
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
-            "components": ["DIN-7504-K-A2", "GM-A", "KFR-SC", "PSA-A"]
+            "components": [
+              "DIN-7504-K-A2",
+              "PSA-UN",
+              "GM-A",
+              "KFR-SC",
+              "PSA-A"
+            ]
           },
           {
             "title": "SC-PSD",
@@ -336,7 +357,11 @@
               "Profilé disposé en format discontinu pour réduire les mètres de profilé consommé.",
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
-            "components": ["GM-A", "KFR-SC", "PSA-A"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "PSA-A"
+            ]
           },
           {
             "title": "SC-PSV",
@@ -375,7 +400,11 @@
               "Profilé disposé en format discontinu pour réduire les mètres de profilé consommé.",
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
-            "components": ["GM-A", "KFR-SC", "PSA-AV"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "PSA-AV"
+            ]
           },
           {
             "title": "SC-PSE",
@@ -476,8 +505,8 @@
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage"
             ],
             "components": [
-              "DIN-7504-K A2",
-              "GMA-A",
+              "DIN-7504-K-A2",
+              "GM-A",
               "KFR-SC",
               "KFS-FI",
               "PSE-UN",
@@ -566,9 +595,9 @@
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
             "components": [
-              "GMA-A",
+              "GM-A",
               "KFR-SC",
-              "DIN-7504-K A2",
+              "DIN-7504-K-A2",
               "PSE-CUN",
               "PSE-C"
             ]
@@ -693,7 +722,11 @@
               "Profilé disposé en format discontinu pour réduire au minimum les mètres de profilé consommé.",
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
-            "components": ["GM-A", "KFR-SC", "GP-XS"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "GP-XS"
+            ]
           },
           {
             "title": "SC-GPV",
@@ -726,15 +759,19 @@
               "Profilé disposé en format discontinu pour réduire les mètres de profilé consommé.",
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
-            "components": ["GM-A", "KFR-SC", "GP-VD"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "GP-VD"
+            ]
           }
         ]
       },
       {
         "title": "STRUCTURES TRIANGULAIRES POUR PANNEAUX SOLAIRES",
         "description": "Supports pour panneaux solaires indiqués pour les toits plats et à faible pente. Ils permettent une installation simple et efficace des panneaux sur différentes surfaces, tant verticalement qu'horizontalement.",
-        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000-1.jpg",
+        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x-1.jpg",
         "image-alt": "STRUCTURES TRIANGULAIRES POUR PANNEAUX SOLAIRES",
         "systems": [
           {
@@ -778,8 +815,8 @@
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
             "components": [
-              "DIN-7504-K A2",
-              "GMA-A",
+              "DIN-7504-K-A2",
+              "GM-A",
               "KFR-SC",
               "TPA-R",
               "KFS-FL",
@@ -1071,8 +1108,8 @@
       {
         "title": "Colliers de serrage plastiques",
         "description": "Les colliers en Nylon® et les colliers de serrage plastiques sont l’un des produits les plus populaires dans le monde de l’installation professionnelle.",
-        "image": "assets/images/anclajes-abrazaderas.jpg",
-        "image2x": "assets/images/anclajes-abrazaderas@2x.jpg",
+        "image": "assets/images/abrazaderas.jpg",
+        "image2x": "assets/images/abrazaderas@2x.jpg",
         "image-alt": "Colliers de serrage plastiques",
         "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/abrazaderas-plasticas"
       }

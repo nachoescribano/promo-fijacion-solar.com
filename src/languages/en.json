@@ -67,19 +67,25 @@
     "more-info": "More information",
     "material-cover": {
       "a2inox": {
-        "image": "assets/images/MAT_INOX_A2.jpg",
+        "image": "assets/images/MAT_INOX_A2.png",
+        "image2x": "assets/images/MAT_INOX_A2@2x.png",
         "image-alt": "Stainless A2"
       },
       "al": {
-        "image": "assets/images/MAT_ALU",
+        "image": "assets/images/MAT_ALU.png",
+        "image2x": "assets/images/MAT_ALU@2x.png",
         "image-alt": "Aluminium"
       },
       "ac": {
-        "image": "assets/images/MAT_ACERO.jpg",
+        "image": "assets/images/MAT_ACERO.png",
+        "image2x": "assets/images/MAT_ACERO@2x.png",
         "image-alt": "Steel"
       },
-      "atl": "assets/images/RP_ATLANTIS C4-H.jpg",
-      "image-alt": "Atlantis C4-M"
+      "atl": {
+        "image": "assets/images/RP_ATLANTIS C4-H.png",
+        "image2x": "assets/images/RP_ATLANTIS C4-H@2x.png",
+        "image-alt": "Atlantis C4-M"
+      }
     },
     "components": {
       "DIN-603 A2": {
@@ -199,6 +205,15 @@
         "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
         "logos": ["al"]
       },
+      "PSA-UN": {
+        "title": "PSA-UN",
+        "description": "Aluminium connector for profile PSA-A",
+        "image": "assets/images/PSA-UN.jpg",
+        "image2x": "assets/images/PSA-UN@2x.jpg",
+        "image-alt": "Aluminium connector for profile PSA-A",
+        "url": "https://www.indexfix.com/producto/11616-PSA-UN-union-de-perfil-de-aluminio-con-alas",
+        "logos": ["al"]
+      },
       "PSE-A": {
         "title": "PSE-A",
         "description": "Aluminium profile for pre-assembled fixing.",
@@ -303,7 +318,13 @@
               "Joint between profiles using an inner profile and self-drilling screws, without obstructing the fixing of the panels.",
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
-            "components": ["DIN-7504-K-A2", "GM-A", "KFR-SC", "PSA-A"]
+            "components": [
+              "DIN-7504-K-A2",
+              "PSA-UN",
+              "GM-A",
+              "KFR-SC",
+              "PSA-A"
+            ]
           },
           {
             "title": "SC-PSD",
@@ -336,7 +357,11 @@
               "Profile installed in pre-cut sections to reduce the number of metres of profile used.",
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
-            "components": ["GM-A", "KFR-SC", "PSA-A"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "PSA-A"
+            ]
           },
           {
             "title": "SC-PSV",
@@ -375,7 +400,11 @@
               "Profile installed in pre-cut sections to reduce the number of metres of profile used.",
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
-            "components": ["GM-A", "KFR-SC", "PSA-AV"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "PSA-AV"
+            ]
           },
           {
             "title": "SC-PSE",
@@ -476,8 +505,8 @@
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems"
             ],
             "components": [
-              "DIN-7504-K A2",
-              "GMA-A",
+              "DIN-7504-K-A2",
+              "GM-A",
               "KFR-SC",
               "KFS-FI",
               "PSE-UN",
@@ -566,9 +595,9 @@
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
             "components": [
-              "GMA-A",
+              "GM-A",
               "KFR-SC",
-              "DIN-7504-K A2",
+              "DIN-7504-K-A2",
               "PSE-CUN",
               "PSE-C"
             ]
@@ -693,7 +722,11 @@
               "Profile available in pre-cut sections to reduce the number of metres of profile used as much as possible.",
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
-            "components": ["GM-A", "KFR-SC", "GP-XS"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "GP-XS"
+            ]
           },
           {
             "title": "SC-GPV",
@@ -726,15 +759,19 @@
               "Profile installed in pre-cut sections to reduce the number of metres of profile used.",
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
-            "components": ["GM-A", "KFR-SC", "GP-VD"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "GP-VD"
+            ]
           }
         ]
       },
       {
         "title": "TRIANGULAR STRUCTURES FOR SOLAR PANELS",
         "description": "Frames for solar panels designed for flat and low-gradient roofs. Enable panels to be easily and securely installed on a range of surfaces, whether vertically or horizontally.",
-        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000-1.jpg",
+        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x-1.jpg",
         "image-alt": "TRIANGULAR STRUCTURES FOR SOLAR PANELS",
         "systems": [
           {
@@ -778,8 +815,8 @@
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
             "components": [
-              "DIN-7504-K A2",
-              "GMA-A",
+              "DIN-7504-K-A2",
+              "GM-A",
               "KFR-SC",
               "TPA-R",
               "KFS-FL",
@@ -1071,8 +1108,8 @@
       {
         "title": "Plastic clamps",
         "description": "Nylon® cable ties and their plastic clamps are some of the most highly demanded products in the world of professional installations.",
-        "image": "assets/images/anclajes-abrazaderas.jpg",
-        "image2x": "assets/images/anclajes-abrazaderas@2x.jpg",
+        "image": "assets/images/abrazaderas.jpg",
+        "image2x": "assets/images/abrazaderas@2x.jpg",
         "image-alt": "Plastic clamps",
         "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/abrazaderas-plasticas"
       }

@@ -67,19 +67,25 @@
     "more-info": "Más información",
     "material-cover": {
       "a2inox": {
-        "image": "assets/images/MAT_INOX_A2.jpg",
+        "image": "assets/images/MAT_INOX_A2.png",
+        "image2x": "assets/images/MAT_INOX_A2@2x.png",
         "image-alt": "Inoxidable A2"
       },
       "al": {
-        "image": "assets/images/MAT_ALU",
+        "image": "assets/images/MAT_ALU.png",
+        "image2x": "assets/images/MAT_ALU@2x.png",
         "image-alt": "Aluminio"
       },
       "ac": {
-        "image": "assets/images/MAT_ACERO.jpg",
+        "image": "assets/images/MAT_ACERO.png",
+        "image2x": "assets/images/MAT_ACERO@2x.png",
         "image-alt": "Acero"
       },
-      "atl": "assets/images/RP_ATLANTIS C4-H.jpg",
-      "image-alt": "Atlantis C4-M"
+      "atl": {
+        "image": "assets/images/RP_ATLANTIS C4-H.png",
+        "image2x": "assets/images/RP_ATLANTIS C4-H@2x.png",
+        "image-alt": "Atlantis C4-M"
+      }
     },
     "components": {
       "DIN-603 A2": {
@@ -199,6 +205,15 @@
         "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
         "logos": ["al"]
       },
+      "PSA-UN": {
+        "title": "PSA-UN",
+        "description": "Unión de aluminio para perfil PSA-A.",
+        "image": "assets/images/PSA-UN.jpg",
+        "image2x": "assets/images/PSA-UN@2x.jpg",
+        "image-alt": "Unión de aluminio para perfil PSA-A.",
+        "url": "https://www.indexfix.com/producto/11616-PSA-UN-union-de-perfil-de-aluminio-con-alas",
+        "logos": ["al"]
+      },
       "PSE-A": {
         "title": "PSE-A",
         "description": "Perfil de aluminio para fijación ensamblada.",
@@ -277,8 +292,8 @@
             "carousel": [
               {
                 "type": "image",
-                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
-                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000@2x.jpg",
                 "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
               },
               {
@@ -303,7 +318,13 @@
               "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": ["DIN-7504-K-A2", "GM-A", "KFR-SC", "PSA-A"]
+            "components": [
+              "DIN-7504-K-A2",
+              "PSA-UN",
+              "GM-A",
+              "KFR-SC",
+              "PSA-A"
+            ]
           },
           {
             "title": "SC-PSD",
@@ -336,7 +357,11 @@
               "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": ["GM-A", "KFR-SC", "PSA-A"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "PSA-A"
+            ]
           },
           {
             "title": "SC-PSV",
@@ -375,7 +400,11 @@
               "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": ["GM-A", "KFR-SC", "PSA-AV"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "PSA-AV"
+            ]
           },
           {
             "title": "SC-PSE",
@@ -476,8 +505,8 @@
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje"
             ],
             "components": [
-              "DIN-7504-K A2",
-              "GMA-A",
+              "DIN-7504-K-A2",
+              "GM-A",
               "KFR-SC",
               "KFS-FI",
               "PSE-UN",
@@ -566,9 +595,9 @@
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
             "components": [
-              "GMA-A",
+              "GM-A",
               "KFR-SC",
-              "DIN-7504-K A2",
+              "DIN-7504-K-A2",
               "PSE-CUN",
               "PSE-C"
             ]
@@ -693,7 +722,11 @@
               "Perfil dispuesto en formato discontinuo para reducir al mínimo los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": ["GM-A", "KFR-SC", "GP-XS"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "GP-XS"
+            ]
           },
           {
             "title": "SC-GPV",
@@ -726,15 +759,19 @@
               "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": ["GM-A", "KFR-SC", "GP-VD"]
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "GP-VD"
+            ]
           }
         ]
       },
       {
         "title": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
         "description": "Soportes para placas solares indicados para cubiertas planas y de baja pendiente. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
-        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000-1.jpg",
+        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x-1.jpg",
         "image-alt": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
         "systems": [
           {
@@ -778,8 +815,8 @@
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
             "components": [
-              "DIN-7504-K A2",
-              "GMA-A",
+              "DIN-7504-K-A2",
+              "GM-A",
               "KFR-SC",
               "TPA-R",
               "KFS-FL",
@@ -1071,8 +1108,8 @@
       {
         "title": "Abrazaderas plásticas",
         "description": "ALas bridas de Nylon® y las abrazaderas plásticas son uno de los productos de mayor demanda en el mundo de la instalación profesional.",
-        "image": "assets/images/anclajes-abrazaderas.jpg",
-        "image2x": "assets/images/anclajes-abrazaderas@2x.jpg",
+        "image": "assets/images/abrazaderas.jpg",
+        "image2x": "assets/images/abrazaderas@2x.jpg",
         "image-alt": "Abrazaderas plásticas",
         "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/abrazaderas-plasticas"
       }
