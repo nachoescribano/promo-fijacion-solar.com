@@ -1,0 +1,49 @@
+<a id="range-section"></a>
+{{#with range-section}}
+  <section class="section">
+    <div class="container">
+      <header class="section__header">
+        <h2 class="section__title">
+          {{title}}
+        </h2>
+      </header>
+      <div class="swiper-container js-swiper-container-2">
+        <div class="index-cards-container">
+          {{#each range-cards}}
+            <article class="index-card index-card--mini">
+              <div class="index-card__container">
+                <div class="index-card__body pt-0">
+                  <picture>
+                    <source
+                      class="index-card__image index-card__image--inline"
+                      srcset="{{image2x}}"
+                      media="(min-width: 768px)"
+                    />
+                    <img
+                      alt="{{image-alt}}"
+                      class="index-card__image index-card__image--inline"
+                      src="{{image}}"
+                    />
+                  </picture>
+                  <h3 class="index-card__title index-card__title--black mb-0">
+                    {{title}}
+                  </h3>
+                  <p class="index-card__subtitle mb-0">{{description}}</p>
+                  <footer class="index-card__footer">
+                    <a
+                      href="{{url}}"
+                      class="index-card__link index-card__link--footer"
+                      target="_blank"
+                    >{{../more-info}}<i
+                        class="fas fa-arrow-right index-card__link-icon"
+                      ></i></a>
+                  </footer>
+                </div>
+              </div>
+            </article>
+          {{/each}}
+        </div>
+      </div>
+    </div>
+  </section>
+{{/with}}

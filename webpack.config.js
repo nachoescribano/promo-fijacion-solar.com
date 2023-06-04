@@ -65,6 +65,19 @@ function generateHandlerbarsPlugin(language) {
       sumValues: function (value1, value2) {
         return value1 + value2;
       },
+      getContentOf(key, object, option) {
+        console.log("getContentOf", { key, object }, option.data._parent);
+        if (object[key]) {
+          return object[key];
+        }
+        return null;
+      },
+      ifEqual: function (v1, v2, options) {
+        if (v1 === v2) {
+          return options.fn(this);
+        }
+        return options.inverse(this);
+      },
       ifFirst: function (v1, options) {
         if (v1 === 0) {
           return options.fn(this);
@@ -83,15 +96,16 @@ function generateHandlerbarsPlugin(language) {
         }
         return options.inverse(this);
       },
-      ifMultipleOfAndMoreO: function (v1, v2, options) {
-        if (v1 % v2 === 0 && v1 > 0) {
+      ifMultipleOfAndMore1: function (v1, v2, options) {
+        const realV1 = v1 + 1;
+        if (realV1 % v2 === 0 && realV1 > 1) {
           return options.fn(this);
         }
         return options.inverse(this);
       },
 
-      ifTotalItemsMultipleOfAndMoreO: function (v1, v2, options) {
-        if (v1.length % v2 === 0 && v1.length > 0) {
+      ifTotalItemsMultipleOfAndMore1: function (v1, v2, options) {
+        if (v1 && v2 && v1.length % v2 === 0 && v1.length > 0) {
           return options.fn(this);
         }
         return options.inverse(this);

@@ -89,9 +89,7 @@
         "image2x": "assets/images/DIN-603-A2@2x.jpg",
         "image-alt": "Vite a testa tonda e collo quadrato. Inossidabile A2.",
         "url": "https://www.indexfix.com/producto/11608-DIN-603-A2-tornillo-din-603-cabeza-redonda-y-cuello-cuadrado-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "DIN-6923 A2": {
         "title": "DIN-6923 A2",
@@ -100,9 +98,7 @@
         "image2x": "assets/images/DIN-6923-A2@2x.jpg",
         "image-alt": "Dado con fascetta zigrinata DIN-6923. Inossidabile A2.",
         "url": "https://www.indexfix.com/producto/11606-DIN-6923-A2-tuerca-brida-grafilada-din-6923-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "DIN-6921 A2": {
         "title": "DIN-6921 A2",
@@ -111,9 +107,7 @@
         "image2x": "assets/images/DIN-6921-A2@2x.jpg",
         "image-alt": "Vite DIN-6921. Vite esagonale con rondella stampata e zigrinata. Inossidabile A2.",
         "url": "https://www.indexfix.com/producto/11607-DIN-6921-A2-tornillo-din-6921-tornillo-hexagonal-con-arandela-estampada-y-grafilada-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "DIN-7504-K-A2": {
         "title": "DIN-7504-K A2",
@@ -122,9 +116,7 @@
         "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
         "image-alt": "Vite autoperforante a testa esagonale. Inossidabile A2",
         "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "EMP-XS": {
         "title": "EMP-XS﻿",
@@ -133,10 +125,7 @@
         "image2x": "assets/images/EMP-XS@2x.jpg",
         "image-alt": "Raccordo INDEXTRUT solar. Acciaio Atlantis C4-M.",
         "url": "https://www.indexfix.com/producto/11612-EMP-XS-empalme-indextrut-solar-atlantis-c4-m",
-        "logos": [
-          "a2inox",
-          "atl"
-        ]
+        "logos": ["a2inox", "atl"]
       },
       "GM-A": {
         "title": "GM-A﻿",
@@ -145,9 +134,7 @@
         "image2x": "assets/images/GM-A@2x.jpg",
         "image-alt": "Calibro in alluminio per cornice.",
         "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "GP-VD": {
         "title": "GP-VD",
@@ -156,10 +143,7 @@
         "image2x": "assets/images/GP-VD@2x.jpg",
         "image-alt": "Guida perforata INDEXTRUT solare per fissaggio in vallata discontinua. Acciaio Atlantis C4-M.",
         "url": "https://www.indexfix.com/producto/gp-vd-guia-perforada-indextrut-solar-para-fijacion-en-valle-discontinua-acero-atlantis-c4-m",
-        "logos": [
-          "ac",
-          "atl"
-        ]
+        "logos": ["ac", "atl"]
       },
       "GP-XS": {
         "title": "GP-XS",
@@ -168,10 +152,7 @@
         "image2x": "assets/images/GP-XS@2x.jpg",
         "image-alt": "Guida forata INDEXTRUT solar. Acciaio Atlantis C4-M.",
         "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
-        "logos": [
-          "a2inox",
-          "atl"
-        ]
+        "logos": ["a2inox", "atl"]
       },
       "KFS-FI": {
         "title": "KFS-FI﻿",
@@ -180,9 +161,7 @@
         "image2x": "assets/images/KFS-FI@2x.jpg",
         "image-alt": "Connettore a croce per fissaggio inferiore. Inossidabile A2.",
         "url": "https://www.indexfix.com/producto/11611-KFS-FI-conector-cruzado-para-fijacion-inferior-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "KFS-FL": {
         "title": "KFS-FL﻿",
@@ -191,9 +170,7 @@
         "image2x": "assets/images/KFS-FL@2x.jpg",
         "image-alt": "Connettore a croce per fissaggio laterale. Inossidabile A2.",
         "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "KFR-SC": {
         "title": "KFR-SC﻿",
@@ -202,10 +179,7 @@
         "image2x": "assets/images/KFR-SC@2x.jpg",
         "image-alt": "Graffa a fissaggio rapido.",
         "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-        "logos": [
-          "al",
-          "ac"
-        ]
+        "logos": ["al", "ac"]
       },
       "PSA-A": {
         "title": "PSA-A﻿",
@@ -214,9 +188,7 @@
         "image2x": "assets/images/PSA-A@2x.jpg",
         "image-alt": "Profilo in alluminio con alette.",
         "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "PSA-AV": {
         "title": "PSA-AV﻿",
@@ -225,9 +197,7 @@
         "image2x": "assets/images/PSA-AV@2x.jpg",
         "image-alt": "Profilo in alluminio con alette.",
         "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "PSE-A": {
         "title": "PSE-A",
@@ -236,9 +206,7 @@
         "image2x": "assets/images/PSE-A@2x.jpg",
         "image-alt": "Profilo in alluminio per fissaggio assemblato.",
         "url": "https://www.indexfix.com/producto/11615-PSE-A-perfil-de-aluminio-para-fijacion-ensamblada",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "PSE-C": {
         "title": "PSE-C",
@@ -247,9 +215,7 @@
         "image2x": "assets/images/PSE-C@2x.jpg",
         "image-alt": "Profilo in alluminio per fissaggio assemblato laterale.",
         "url": "https://www.indexfix.com/producto/pse-c-perfil-de-aluminio-para-fijacion-ensamblada-lateral",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "PSE-CUN": {
         "title": "PSE-CUN",
@@ -258,9 +224,7 @@
         "image2x": "assets/images/PSE-CUN@2x.jpg",
         "image-alt": "Giunzione in alluminio per profilo PSE-C.",
         "url": "https://www.indexfix.com/producto/pse-cun-union-de-aluminio-para-perfil-pse-c",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "PSE-UN": {
         "title": "PSE-UN﻿",
@@ -269,9 +233,7 @@
         "image2x": "assets/images/PSE-UN@2x.jpg",
         "image-alt": "Giunzione in alluminio per profilo PSE-A.",
         "url": "https://www.indexfix.com/producto/11614-PSE-UN-union-de-perfil-de-aluminio-para-fijacion-ensamblada",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "TPA-R": {
         "title": "TPA-R﻿",
@@ -280,9 +242,7 @@
         "image2x": "assets/images/TPA-R@2x.jpg",
         "image-alt": "Triangolo regolabile in alluminio premontato.",
         "url": "https://www.indexfix.com/producto/11604-TPA-R-triangulo-regulable-de-aluminio-premontado",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "TRP-XS": {
         "title": "TRP-XS﻿",
@@ -291,10 +251,7 @@
         "image2x": "assets/images/TRP-XS@2x.jpg",
         "image-alt": "Triangolo regolabile premontato INDEXTRUT. Acciaio con rivestimento Atlantis C4-M.",
         "url": "https://www.indexfix.com/producto/11602-TRP-XS-triangulo-regulable-premontado-indextrut-acero-con-recubrimiento-atlantis-c4-m",
-        "logos": [
-          "ac",
-          "atl"
-        ]
+        "logos": ["ac", "atl"]
       },
       "TU-RX A2": {
         "title": "TU-RX A2",
@@ -303,609 +260,588 @@
         "image2x": "assets/images/TU-RX-A2@2x.jpg",
         "image-alt": "Dado guida a fissaggio rapido Indextrut. Inossidabile A2.",
         "url": "https://www.indexfix.com/producto/11609-TU-RX-A2-tuerca-rapida-indextrut-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       }
     },
-    "types": {
-      "title": "STRUTTURE COMPLANARI PER PANNELLI SOLARI",
-      "description": "Supporti per pannelli solari adatti a tetti inclinati. Offrono un'installazione semplice ed efficace dei pannelli su diverse superfici, sia in verticale che in orizzontale.",
-      "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1.jpg",
-      "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1@2x.jpg",
-      "image-alt": "Struttura complanare per pannelli solari",
-      "systems": [
-        {
-          "title": "SC-PSA",
-          "description": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto"
-            }
-          ],
-          "qualities-list": [
-            "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
-            "Installazione su tetti metallici, su aree di tramezzo rialzate, per qualsiasi passaggio di tramezzo.",
-            "Orientamento dei pannelli a ritratto (verticale).",
-            "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
-            "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
-            "Giunzione tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
-            "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
-          ],
-          "components": [
-            "DIN-7504-K-A2",
-            "GM-A﻿",
-            "KFR-SC﻿",
-            "PSA-A﻿"
-          ]
-        },
-        {
-          "title": "SC-PSD",
-          "description": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto a profilo discontinuo",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000.jpg",
-              "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000@2x.jpg",
-              "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto a profilo discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto a profilo discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto a profilo discontinuo"
-            }
-          ],
-          "qualities-list": [
-            "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
-            "Installazione su tetti metallici, su aree di tramezzo rialzate, per qualsiasi passaggio di tramezzo ≤ 360 mm.",
-            "Installazione su tetti metallici, su aree di tramezzo rialzate, per qualsiasi passaggio di tramezzo ≤ 360 mm.",
-            "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
-            "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
-            "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
-          ],
-          "components": [
-            "GM-A﻿",
-            "KFR-SC﻿",
-            "PSA-A﻿"
-          ]
-        },
-        {
-          "title": "SC-PSV",
-          "description": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000.jpg",
-              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000@2x.jpg",
-              "image-alt": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
-              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
-              "image-alt": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo"
-            }
-          ],
-          "qualities-list": [
-            "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
-            "Installazione su tetti metallici, nella parte inferiore del tetto.",
-            "Orientamento dei pannelli a paesaggio (orizzontale).",
-            "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
-            "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
-            "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
-          ],
-          "components": [
-            "GM-A﻿",
-            "KFR-SC﻿",
-            "PSA-AV﻿"
-          ]
-        },
-        {
-          "title": "SC-PSE",
-          "description": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
-              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
-              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
-              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
-              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
-              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
-            }
-          ],
-          "qualities-list": [
-            "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
-            "Installazione su tutti i tipi di tetto, montato su accessori di fissaggio regolabili.",
-            "Orientamento dei pannelli a ritratto (verticale) e a paesaggio (orizzontale).",
-            "Fissaggio del sistema assemblato su accessori di fissaggio regolabili, ancorati al tetto o alla sottostruttura, con un'ampia gamma di accessori di fissaggio regolabili disponibili.",
-            "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
-            "Giunzione tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
-            "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio"
-          ],
-          "components": [
-            "DIN-7504-K A2",
-            "GMA-A",
-            "KFR-SC﻿",
-            "KFS-FI﻿",
-            "PSE-UN﻿",
-            "PSE-A"
-          ]
-        },
-        {
-          "title": "SC-PSC",
-          "description": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001.jpg",
-              "image2x": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
-              "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
-              "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
-              "image2x": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006@2x.jpg",
-              "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
-            }
-          ],
-          "qualities-list": [
-            "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
-            "Installazione su tutti i tipi di tetto, montati su accessori di fissaggio regolabili e direttamente su lastra metallica.",
-            "Orientamento dei pannelli a ritratto (verticale) e a paesaggio (orizzontale).",
-            "Fissaggio del sistema assemblato su accessori di fissaggio regolabili, ancorati al tetto o alla sottostruttura, con un'ampia gamma di accessori di fissaggio regolabili disponibili.",
-            "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
-            "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
-            "Giunzione tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
-            "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
-          ],
-          "components": [
-            "GMA-A",
-            "KFR-SC﻿",
-            "DIN-7504-K A2",
-            "PSE-CUN",
-            "PSE-C"
-          ]
-        },
-        {
-          "title": "SC-GPX",
-          "description": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS.",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
-            }
-          ],
-          "qualities-list": [
-            "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
-            "Installazione su tetti metallici, su aree di tramezzo rialzate, per qualsiasi passaggio di tramezzo.",
-            "Orientamento dei pannelli a ritratto (verticale).",
-            "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
-            "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
-            "Giunzione tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
-            "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
-          ],
-          "components": [
-            "DIN-6923 A2",
-            "DIN-603 A2",
-            "GM-A﻿",
-            "KFR-SC﻿",
-            "EMP-XS﻿",
-            "GP-XS"
-          ]
-        },
-        {
-          "title": "SC-GPD",
-          "description": "Sistema complanare con guida forata Atlantis C4-M Indextrut Solar GP-XS. Formato guida discontinua",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-              "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata Atlantis C4-M Indextrut Solar GP-XS. Formato guida discontinua"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata Atlantis C4-M Indextrut Solar GP-XS. Formato guida discontinua"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata Atlantis C4-M Indextrut Solar GP-XS. Formato guida discontinua"
-            }
-          ],
-          "qualities-list": [
-            "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
-            "Installazione su tetti metallici, su aree di tramezzo rialzate.",
-            "Orientamento dei pannelli a paesaggio (orizzontale).",
-            "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
-            "Profilo disposto in modo discontinuo per ridurre al minimo i metri di profilo consumati.",
-            "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
-          ],
-          "components": [
-            "GM-A﻿",
-            "KFR-SC﻿",
-            "GP-XS"
-          ]
-        },
-        {
-          "title": "SC-GPV",
-          "description": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS. Fissaggio diretto a valle con profilo discontinuo",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-              "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS. Fissaggio diretto a valle con profilo discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS. Fissaggio diretto a valle con profilo discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS. Fissaggio diretto a valle con profilo discontinuo"
-            }
-          ],
-          "qualities-list": [
-            "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
-            "Installazione su tetti metallici, nella parte inferiore del tetto.",
-            "Orientamento dei pannelli a paesaggio (orizzontale).",
-            "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
-            "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
-            "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
-          ],
-          "components": [
-            "GM-A﻿",
-            "KFR-SC﻿",
-            "GP-VD"
-          ]
-        },
-        {
-          "title": "STRUTTURE TRIANGOLARI PER PANNELLI SOLARI",
-          "description": "Supporti per pannelli solari adatti a tetti piani e a bassa pendenza. Offrono un'installazione semplice ed efficace dei pannelli su diverse superfici, sia in verticale che in orizzontale.",
-          "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-          "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
-          "image-alt": "STRUTTURE TRIANGOLARI PER PANNELLI SOLARI",
-          "systems": [
-            {
-              "title": "ST-PSE",
-              "description": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato",
-              "carousel": [
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-                  "image-alt": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-                  "image-alt": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-                  "image-alt": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-                  "image-alt": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato"
-                }
-              ],
-              "qualities-list": [
-                "Sistema per tetti piani e a bassa pendenza, montato parallelamente alla superficie del tetto.",
-                "Installazione su tutti i tipi di tetto, su triangoli preassemblati con inclinazione regolabile a 25°, 30° e 35°.",
-                "Orientamento dei pannelli a ritratto (verticale).",
-                "Possibilità di fissare direttamente il sistema alla sottostruttura, mediante l'ancoraggio diretto dei piedi di supporto dei triangoli.",
-                "Possibilità di fissare il sistema assemblato su una struttura ausiliaria di profili solari ancorata alla sottostruttura, mediante dadi a fissaggio rapido montati sui piedi di supporto dei triangoli.",
-                "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
-                "Giunzione longitudinale tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
-                "Montaggio tra profili e triangoli con soluzioni preassemblate a fissaggio rapido.",
-                "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
-              ],
-              "components": [
-                "DIN-7504-K A2",
-                "GMA-A",
-                "KFR-SC﻿",
-                "TPA-R﻿",
-                "KFS-FL﻿",
-                "PSE-UN﻿",
-                "PSE-A"
-              ]
-            },
-            {
-              "title": "ST-GPX",
-              "description": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS",
-              "carousel": [
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
-                  "image-alt": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
-                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
-                  "image-alt": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
-                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
-                  "image-alt": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
-                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
-                  "image-alt": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS"
-                }
-              ],
-              "qualities-list": [
-                "Sistema per tetti piani e a bassa pendenza, montato parallelamente alla superficie del tetto.",
-                "Installazione su tutti i tipi di tetto, su triangoli preassemblati con inclinazione regolabile tra 25° e 35°.",
-                "Orientamento dei pannelli a ritratto (verticale) e a paesaggio (orizzontale).",
-                "Possibilità di fissare direttamente il sistema alla sottostruttura, mediante l'ancoraggio diretto dei piedi di supporto dei triangoli.",
-                "Possibilità di fissare il sistema assemblato su una struttura ausiliaria di guide solari ancorata alla sottostruttura, mediante dadi a fissaggio rapido montati sui piedi di supporto dei triangoli.",
-                "Guida disposta in modo continuo per semplificare la pianificazione dell'installazione.",
-                "Collegamento longitudinale tra le guide mediante un giunto interno e viti di montaggio rapido DIN603, senza interferire con il fissaggio delle piastre.",
-                "Montaggio tra profili e triangoli mediante dadi a fissaggio rapido.",
-                "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
-              ],
-              "components": [
-                "DIN-6923 A2",
-                "DIN-603 A2",
-                "GM-A﻿",
-                "KFR-SC﻿",
-                "DIN-6921 A2",
-                "TU-RX A2",
-                "TRP-XS﻿",
-                "EMP-XS﻿",
-                "GP-XS"
-              ]
-            }
-          ]
-        }
-      ]
-    }
+    "types": [
+      {
+        "title": "STRUTTURE COMPLANARI PER PANNELLI SOLARI",
+        "description": "Supporti per pannelli solari adatti a tetti inclinati. Offrono un'installazione semplice ed efficace dei pannelli su diverse superfici, sia in verticale che in orizzontale.",
+        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1.jpg",
+        "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1@2x.jpg",
+        "image-alt": "Struttura complanare per pannelli solari",
+        "systems": [
+          {
+            "title": "SC-PSA",
+            "description": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
+              "Installazione su tetti metallici, su aree di tramezzo rialzate, per qualsiasi passaggio di tramezzo.",
+              "Orientamento dei pannelli a ritratto (verticale).",
+              "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
+              "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
+              "Giunzione tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
+            ],
+            "components": ["DIN-7504-K-A2", "GM-A﻿", "KFR-SC﻿", "PSA-A﻿"]
+          },
+          {
+            "title": "SC-PSD",
+            "description": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto a profilo discontinuo",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto a profilo discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto a profilo discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto a profilo discontinuo"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
+              "Installazione su tetti metallici, su aree di tramezzo rialzate, per qualsiasi passaggio di tramezzo ≤ 360 mm.",
+              "Installazione su tetti metallici, su aree di tramezzo rialzate, per qualsiasi passaggio di tramezzo ≤ 360 mm.",
+              "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
+              "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
+            ],
+            "components": ["GM-A﻿", "KFR-SC﻿", "PSA-A﻿"]
+          },
+          {
+            "title": "SC-PSV",
+            "description": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
+                "image-alt": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
+              "Installazione su tetti metallici, nella parte inferiore del tetto.",
+              "Orientamento dei pannelli a paesaggio (orizzontale).",
+              "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
+              "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
+            ],
+            "components": ["GM-A﻿", "KFR-SC﻿", "PSA-AV﻿"]
+          },
+          {
+            "title": "SC-PSE",
+            "description": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
+              "Installazione su tutti i tipi di tetto, montato su accessori di fissaggio regolabili.",
+              "Orientamento dei pannelli a ritratto (verticale) e a paesaggio (orizzontale).",
+              "Fissaggio del sistema assemblato su accessori di fissaggio regolabili, ancorati al tetto o alla sottostruttura, con un'ampia gamma di accessori di fissaggio regolabili disponibili.",
+              "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
+              "Giunzione tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio"
+            ],
+            "components": [
+              "DIN-7504-K A2",
+              "GMA-A",
+              "KFR-SC﻿",
+              "KFS-FI﻿",
+              "PSE-UN﻿",
+              "PSE-A"
+            ]
+          },
+          {
+            "title": "SC-PSC",
+            "description": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006@2x.jpg",
+                "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
+              "Installazione su tutti i tipi di tetto, montati su accessori di fissaggio regolabili e direttamente su lastra metallica.",
+              "Orientamento dei pannelli a ritratto (verticale) e a paesaggio (orizzontale).",
+              "Fissaggio del sistema assemblato su accessori di fissaggio regolabili, ancorati al tetto o alla sottostruttura, con un'ampia gamma di accessori di fissaggio regolabili disponibili.",
+              "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
+              "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
+              "Giunzione tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
+            ],
+            "components": [
+              "GMA-A",
+              "KFR-SC﻿",
+              "DIN-7504-K A2",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "SC-GPX",
+            "description": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS.",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
+              "Installazione su tetti metallici, su aree di tramezzo rialzate, per qualsiasi passaggio di tramezzo.",
+              "Orientamento dei pannelli a ritratto (verticale).",
+              "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
+              "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
+              "Giunzione tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
+            ],
+            "components": [
+              "DIN-6923 A2",
+              "DIN-603 A2",
+              "GM-A﻿",
+              "KFR-SC﻿",
+              "EMP-XS﻿",
+              "GP-XS"
+            ]
+          },
+          {
+            "title": "SC-GPD",
+            "description": "Sistema complanare con guida forata Atlantis C4-M Indextrut Solar GP-XS. Formato guida discontinua",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata Atlantis C4-M Indextrut Solar GP-XS. Formato guida discontinua"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata Atlantis C4-M Indextrut Solar GP-XS. Formato guida discontinua"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata Atlantis C4-M Indextrut Solar GP-XS. Formato guida discontinua"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
+              "Installazione su tetti metallici, su aree di tramezzo rialzate.",
+              "Orientamento dei pannelli a paesaggio (orizzontale).",
+              "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
+              "Profilo disposto in modo discontinuo per ridurre al minimo i metri di profilo consumati.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
+            ],
+            "components": ["GM-A﻿", "KFR-SC﻿", "GP-XS"]
+          },
+          {
+            "title": "SC-GPV",
+            "description": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS. Fissaggio diretto a valle con profilo discontinuo",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS. Fissaggio diretto a valle con profilo discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS. Fissaggio diretto a valle con profilo discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS. Fissaggio diretto a valle con profilo discontinuo"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
+              "Installazione su tetti metallici, nella parte inferiore del tetto.",
+              "Orientamento dei pannelli a paesaggio (orizzontale).",
+              "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
+              "Profilo disposto in modo discontinuo per ridurre i metri di profilo consumati.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
+            ],
+            "components": ["GM-A﻿", "KFR-SC﻿", "GP-VD"]
+          }
+        ]
+      },
+      {
+        "title": "STRUTTURE TRIANGOLARI PER PANNELLI SOLARI",
+        "description": "Supporti per pannelli solari adatti a tetti piani e a bassa pendenza. Offrono un'installazione semplice ed efficace dei pannelli su diverse superfici, sia in verticale che in orizzontale.",
+        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+        "image-alt": "STRUTTURE TRIANGOLARI PER PANNELLI SOLARI",
+        "systems": [
+          {
+            "title": "ST-PSE",
+            "description": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti piani e a bassa pendenza, montato parallelamente alla superficie del tetto.",
+              "Installazione su tutti i tipi di tetto, su triangoli preassemblati con inclinazione regolabile a 25°, 30° e 35°.",
+              "Orientamento dei pannelli a ritratto (verticale).",
+              "Possibilità di fissare direttamente il sistema alla sottostruttura, mediante l'ancoraggio diretto dei piedi di supporto dei triangoli.",
+              "Possibilità di fissare il sistema assemblato su una struttura ausiliaria di profili solari ancorata alla sottostruttura, mediante dadi a fissaggio rapido montati sui piedi di supporto dei triangoli.",
+              "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
+              "Giunzione longitudinale tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
+              "Montaggio tra profili e triangoli con soluzioni preassemblate a fissaggio rapido.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
+            ],
+            "components": [
+              "DIN-7504-K A2",
+              "GMA-A",
+              "KFR-SC﻿",
+              "TPA-R﻿",
+              "KFS-FL﻿",
+              "PSE-UN﻿",
+              "PSE-A"
+            ]
+          },
+          {
+            "title": "ST-GPX",
+            "description": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
+                "image-alt": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti piani e a bassa pendenza, montato parallelamente alla superficie del tetto.",
+              "Installazione su tutti i tipi di tetto, su triangoli preassemblati con inclinazione regolabile tra 25° e 35°.",
+              "Orientamento dei pannelli a ritratto (verticale) e a paesaggio (orizzontale).",
+              "Possibilità di fissare direttamente il sistema alla sottostruttura, mediante l'ancoraggio diretto dei piedi di supporto dei triangoli.",
+              "Possibilità di fissare il sistema assemblato su una struttura ausiliaria di guide solari ancorata alla sottostruttura, mediante dadi a fissaggio rapido montati sui piedi di supporto dei triangoli.",
+              "Guida disposta in modo continuo per semplificare la pianificazione dell'installazione.",
+              "Collegamento longitudinale tra le guide mediante un giunto interno e viti di montaggio rapido DIN603, senza interferire con il fissaggio delle piastre.",
+              "Montaggio tra profili e triangoli mediante dadi a fissaggio rapido.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
+            ],
+            "components": [
+              "DIN-6923 A2",
+              "DIN-603 A2",
+              "GM-A﻿",
+              "KFR-SC﻿",
+              "DIN-6921 A2",
+              "TU-RX A2",
+              "TRP-XS﻿",
+              "EMP-XS﻿",
+              "GP-XS"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "range-section": {
     "title": "Gamma di prodotti per impianti solari",
@@ -1035,6 +971,7 @@
   },
   "solar-kits-section": {
     "title": "Tipi di kit solari",
+    "more-info": "Ulteriori informazioni",
     "solar-kits-cards": [
       {
         "title": "KC-PSA﻿",
@@ -1097,6 +1034,7 @@
   "others-section": {
     "title": "Altri ancoraggi per impianti solari",
     "subtitle": "Noi di INDEX offriamo ai nostri clienti un'ampia gamma di ancoraggi per ottenere un fissaggio adeguato negli impianti di pannelli solari.",
+    "more-info": "Ulteriori informazioni",
     "materials-cards": [
       {
         "title": "Fissaggi metallici",

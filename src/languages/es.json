@@ -89,9 +89,7 @@
         "image2x": "assets/images/DIN-603-A2@2x.jpg",
         "image-alt": "Tornillo cabeza redonda y cuello cuadrado. Inoxidable A2.",
         "url": "https://www.indexfix.com/producto/11608-DIN-603-A2-tornillo-din-603-cabeza-redonda-y-cuello-cuadrado-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "DIN-6923 A2": {
         "title": "DIN-6923 A2",
@@ -100,9 +98,7 @@
         "image2x": "assets/images/DIN-6923-A2@2x.jpg",
         "image-alt": "Tuerca brida grafilada DIN-6923. Inoxidable A2.",
         "url": "https://www.indexfix.com/producto/11606-DIN-6923-A2-tuerca-brida-grafilada-din-6923-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "DIN-6921 A2": {
         "title": "DIN-6921 A2",
@@ -111,9 +107,7 @@
         "image2x": "assets/images/DIN-6921-A2@2x.jpg",
         "image-alt": "Tornillo DIN-6921. Tornillo hexagonal con arandela estampada y grafilada. Inoxidable A2.",
         "url": "https://www.indexfix.com/producto/11607-DIN-6921-A2-tornillo-din-6921-tornillo-hexagonal-con-arandela-estampada-y-grafilada-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "DIN-7504-K-A2": {
         "title": "DIN-7504-K A2",
@@ -122,9 +116,7 @@
         "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
         "image-alt": "Tornillo autotaladrante de cabeza hexagonal. Inoxidable A2",
         "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "EMP-XS": {
         "title": "EMP-XS",
@@ -133,10 +125,7 @@
         "image2x": "assets/images/EMP-XS@2x.jpg",
         "image-alt": "Empalme INDEXTRUT solar. Acero Atlantis C4-M.",
         "url": "https://www.indexfix.com/producto/11612-EMP-XS-empalme-indextrut-solar-atlantis-c4-m",
-        "logos": [
-          "a2inox",
-          "atl"
-        ]
+        "logos": ["a2inox", "atl"]
       },
       "GM-A": {
         "title": "GM-A",
@@ -145,9 +134,7 @@
         "image2x": "assets/images/GM-A@2x.jpg",
         "image-alt": "Galga de aluminio de marco.",
         "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "GP-VD": {
         "title": "GP-VD",
@@ -156,10 +143,7 @@
         "image2x": "assets/images/GP-VD@2x.jpg",
         "image-alt": "Guía perforada INDEXTRUT solar para fijación en valle discontinua. Acero Atlantis C4-M.",
         "url": "https://www.indexfix.com/producto/gp-vd-guia-perforada-indextrut-solar-para-fijacion-en-valle-discontinua-acero-atlantis-c4-m",
-        "logos": [
-          "ac",
-          "atl"
-        ]
+        "logos": ["ac", "atl"]
       },
       "GP-XS": {
         "title": "GP-XS",
@@ -168,10 +152,7 @@
         "image2x": "assets/images/GP-XS@2x.jpg",
         "image-alt": "Guía perforada INDEXTRUT solar. Acero Atlantis C4-M.",
         "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
-        "logos": [
-          "a2inox",
-          "atl"
-        ]
+        "logos": ["a2inox", "atl"]
       },
       "KFS-FI": {
         "title": "KFS-FI",
@@ -180,9 +161,7 @@
         "image2x": "assets/images/KFS-FI@2x.jpg",
         "image-alt": "Conector cruzado para fijación inferior. Inoxidable A2.",
         "url": "https://www.indexfix.com/producto/11611-KFS-FI-conector-cruzado-para-fijacion-inferior-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "KFS-FL": {
         "title": "KFS-FL",
@@ -191,9 +170,7 @@
         "image2x": "assets/images/KFS-FL@2x.jpg",
         "image-alt": "Conector cruzado para fijación lateral. Inoxidable A2.",
         "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       },
       "KFR-SC": {
         "title": "KFR-SC",
@@ -202,10 +179,7 @@
         "image2x": "assets/images/KFR-SC@2x.jpg",
         "image-alt": "Grapa fijación rápida.",
         "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
-        "logos": [
-          "al",
-          "ac"
-        ]
+        "logos": ["al", "ac"]
       },
       "PSA-A": {
         "title": "PSA-A",
@@ -214,9 +188,7 @@
         "image2x": "assets/images/PSA-A@2x.jpg",
         "image-alt": "Perfil de aluminio con alas.",
         "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "PSA-AV": {
         "title": "PSA-AV",
@@ -225,9 +197,7 @@
         "image2x": "assets/images/PSA-AV@2x.jpg",
         "image-alt": "Perfil de aluminio con alas.",
         "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "PSE-A": {
         "title": "PSE-A",
@@ -236,9 +206,7 @@
         "image2x": "assets/images/PSE-A@2x.jpg",
         "image-alt": "Perfil de aluminio para fijación ensamblada.",
         "url": "https://www.indexfix.com/producto/11615-PSE-A-perfil-de-aluminio-para-fijacion-ensamblada",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "PSE-C": {
         "title": "PSE-C",
@@ -247,9 +215,7 @@
         "image2x": "assets/images/PSE-C@2x.jpg",
         "image-alt": "Perfil de aluminio para fijación ensamblada lateral..",
         "url": "https://www.indexfix.com/producto/pse-c-perfil-de-aluminio-para-fijacion-ensamblada-lateral",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "PSE-CUN": {
         "title": "PSE-CUN",
@@ -258,9 +224,7 @@
         "image2x": "assets/images/PSE-CUN@2x.jpg",
         "image-alt": "Unión de aluminio para perfil PSE-C.",
         "url": "https://www.indexfix.com/producto/pse-cun-union-de-aluminio-para-perfil-pse-c",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "PSE-UN": {
         "title": "PSE-UN",
@@ -269,9 +233,7 @@
         "image2x": "assets/images/PSE-UN@2x.jpg",
         "image-alt": "Unión de aluminio para perfil PSE-A.",
         "url": "https://www.indexfix.com/producto/11614-PSE-UN-union-de-perfil-de-aluminio-para-fijacion-ensamblada",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "TPA-R": {
         "title": "TPA-R",
@@ -280,9 +242,7 @@
         "image2x": "assets/images/TPA-R@2x.jpg",
         "image-alt": "Triángulo regulable de aluminio premontado.",
         "url": "https://www.indexfix.com/producto/11604-TPA-R-triangulo-regulable-de-aluminio-premontado",
-        "logos": [
-          "al"
-        ]
+        "logos": ["al"]
       },
       "TRP-XS": {
         "title": "TRP-XS",
@@ -291,10 +251,7 @@
         "image2x": "assets/images/TRP-XS@2x.jpg",
         "image-alt": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
         "url": "https://www.indexfix.com/producto/11602-TRP-XS-triangulo-regulable-premontado-indextrut-acero-con-recubrimiento-atlantis-c4-m",
-        "logos": [
-          "ac",
-          "atl"
-        ]
+        "logos": ["ac", "atl"]
       },
       "TU-RX A2": {
         "title": "TU-RX A2",
@@ -303,609 +260,588 @@
         "image2x": "assets/images/TU-RX-A2@2x.jpg",
         "image-alt": "Tuerca guía de fijación Rápida Indextrut. Inoxidable A2.",
         "url": "https://www.indexfix.com/producto/11609-TU-RX-A2-tuerca-rapida-indextrut-inoxidable-a2",
-        "logos": [
-          "a2inox"
-        ]
+        "logos": ["a2inox"]
       }
     },
-    "types": {
-      "title": "ESTRUCTURAS COPLANARES PARA PLACAS SOLARES",
-      "description": "Soportes para placas solares indicados para cubiertas inclinadas. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
-      "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1.jpg",
-      "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1@2x.jpg",
-      "image-alt": "Estructura coplanar para placas solares",
-      "systems": [
-        {
-          "title": "SC-PSA",
-          "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
-            }
-          ],
-          "qualities-list": [
-            "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
-            "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para cualquier paso de greca.",
-            "Orientación de placas tipo retrato (vertical).",
-            "Fijación del sistema directamente sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
-            "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
-            "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
-            "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-          ],
-          "components": [
-            "DIN-7504-K-A2",
-            "GM-A",
-            "KFR-SC",
-            "PSA-A"
-          ]
-        },
-        {
-          "title": "SC-PSD",
-          "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000.jpg",
-              "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo"
-            }
-          ],
-          "qualities-list": [
-            "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
-            "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para pasos de greca ≤ 360mm.",
-            "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para pasos de greca ≤ 360mm.",
-            "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
-            "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
-            "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-          ],
-          "components": [
-            "GM-A",
-            "KFR-SC",
-            "PSA-A"
-          ]
-        },
-        {
-          "title": "SC-PSV",
-          "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000.jpg",
-              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
-              "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
-            }
-          ],
-          "qualities-list": [
-            "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
-            "Instalación en cubiertas metálicas, sobre zona baja de la cubierta.",
-            "Orientación de placas tipo paisaje (Horizontal).",
-            "Fijación del sistema directamente sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
-            "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
-            "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-          ],
-          "components": [
-            "GM-A",
-            "KFR-SC",
-            "PSA-AV"
-          ]
-        },
-        {
-          "title": "SC-PSE",
-          "description": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001.jpg",
-              "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
-              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
-              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
-              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
-              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
-              "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-            }
-          ],
-          "qualities-list": [
-            "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
-            "Instalación en todo tipo de cubiertas, montado sobre accesorios de fijación regulables.",
-            "Orientación de placas tipo retrato (vertical) y tipo paisaje (horizontal).",
-            "Fijación del sistema ensamblada sobre accesorios de fijación regulables, anclados a cubierta o a subestructura, con amplia gama disponible de accesorios de fijación regulables.",
-            "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
-            "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
-            "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje"
-          ],
-          "components": [
-            "DIN-7504-K A2",
-            "GMA-A",
-            "KFR-SC",
-            "KFS-FI",
-            "PSE-UN",
-            "PSE-A"
-          ]
-        },
-        {
-          "title": "SC-PSC",
-          "description": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001.jpg",
-              "image2x": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
-              "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
-              "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
-              "image2x": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006.jpg",
-              "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006@2x.jpg",
-              "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-            }
-          ],
-          "qualities-list": [
-            "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
-            "Instalación en todo tipo de cubiertas, montado sobre accesorios de fijación regulables y directamente a chapa metálica.",
-            "Orientación de placas tipo retrato (vertical) y tipo paisaje (horizontal).",
-            "Fijación del sistema ensamblada sobre accesorios de fijación regulables, anclados a cubierta o a subestructura, con amplia gama disponible de accesorios de fijación regulables.",
-            "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
-            "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
-            "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de las placas.",
-            "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-          ],
-          "components": [
-            "GMA-A",
-            "KFR-SC",
-            "DIN-7504-K A2",
-            "PSE-CUN",
-            "PSE-C"
-          ]
-        },
-        {
-          "title": "SC-GPX",
-          "description": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS.",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001.jpg",
-              "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-            }
-          ],
-          "qualities-list": [
-            "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
-            "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para cualquier paso de greca.",
-            "Orientación de placas tipo retrato (vertical).",
-            "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
-            "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
-            "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
-            "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-          ],
-          "components": [
-            "DIN-6923 A2",
-            "DIN-603 A2",
-            "GM-A",
-            "KFR-SC",
-            "EMP-XS",
-            "GP-XS"
-          ]
-        },
-        {
-          "title": "SC-GPD",
-          "description": "Sistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-              "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
-              "image-alt": "SSistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
-              "image-alt": "SSistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
-              "image-alt": "SSistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua"
-            }
-          ],
-          "qualities-list": [
-            "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
-            "Instalación en cubiertas metálicas, sobre zona elevada de grecas.",
-            "Orientación de placas tipo paisaje (horizontal).",
-            "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
-            "Perfil dispuesto en formato discontinuo para reducir al mínimo los metros de perfil consumido.",
-            "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-          ],
-          "components": [
-            "GM-A",
-            "KFR-SC",
-            "GP-XS"
-          ]
-        },
-        {
-          "title": "SC-GPV",
-          "description": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo",
-          "carousel": [
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-              "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
-              "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo"
-            },
-            {
-              "type": "image",
-              "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
-              "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
-              "image-alt": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo"
-            }
-          ],
-          "qualities-list": [
-            "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
-            "Instalación en cubiertas metálicas, sobre zona baja de la cubierta.",
-            "Orientación de placas tipo paisaje (horizontal).",
-            "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
-            "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
-            "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-          ],
-          "components": [
-            "GM-A",
-            "KFR-SC",
-            "GP-VD"
-          ]
-        },
-        {
-          "title": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
-          "description": "Soportes para placas solares indicados para cubiertas planas y de baja pendiente. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
-          "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-          "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
-          "image-alt": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
-          "systems": [
-            {
-              "title": "ST-PSE",
-              "description": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada",
-              "carousel": [
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-                  "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-                  "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-                  "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                  "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-                  "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
-                }
-              ],
-              "qualities-list": [
-                "Sistema para cubiertas planas y de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
-                "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación regulable a 25°, 30° y 35°.",
-                "Orientación de placas tipo retrato (vertical).",
-                "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
-                "Opción de fijación del sistema ensamblada sobre estructura auxiliar de perfiles solares anclada a subestructura, mediante tuercas de fijación rápida montadas en los pies de apoyo de los triángulos.",
-                "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
-                "Unión longitudinal entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
-                "Montaje entre perfiles y triángulos mediante soluciones preensambladas de fijación rápida.",
-                "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-              ],
-              "components": [
-                "DIN-7504-K A2",
-                "GMA-A",
-                "KFR-SC",
-                "TPA-R",
-                "KFS-FL",
-                "PSE-UN",
-                "PSE-A"
-              ]
-            },
-            {
-              "title": "ST-GPX",
-              "description": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS",
-              "carousel": [
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
-                  "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
-                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
-                  "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
-                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
-                  "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
-                },
-                {
-                  "type": "image",
-                  "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
-                  "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
-                  "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
-                }
-              ],
-              "qualities-list": [
-                "Sistema para cubiertas planas y de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
-                "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación regulable entre 25° y 35°.",
-                "Orientación de placas tipo retrato (vertical) y tipo paisaje (horizontal).",
-                "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
-                "Opción de fijación del sistema ensamblada sobre estructura auxiliar de guías perforadas solares anclada a subestructura, mediante tuercas de fijación rápida montadas en los pies de apoyo de los triángulos.",
-                "Guía dispuesta en formato continuo para simplificar la planificación de la instalación.",
-                "Unión longitudinal entre guías mediante empalme interior y tornillos DIN603 de montaje rápido, sin interferencia en la fijación de placas.",
-                "Montaje entre perfiles y triángulos mediante tuercas de fijación rápida.",
-                "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-              ],
-              "components": [
-                "DIN-6923 A2",
-                "DIN-603 A2",
-                "GM-A",
-                "KFR-SC",
-                "DIN-6921 A2",
-                "TU-RX A2",
-                "TRP-XS",
-                "EMP-XS",
-                "GP-XS"
-              ]
-            }
-          ]
-        }
-      ]
-    }
+    "types": [
+      {
+        "title": "ESTRUCTURAS COPLANARES PARA PLACAS SOLARES",
+        "description": "Soportes para placas solares indicados para cubiertas inclinadas. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
+        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1.jpg",
+        "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1@2x.jpg",
+        "image-alt": "Estructura coplanar para placas solares",
+        "systems": [
+          {
+            "title": "SC-PSA",
+            "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para cualquier paso de greca.",
+              "Orientación de placas tipo retrato (vertical).",
+              "Fijación del sistema directamente sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": ["DIN-7504-K-A2", "GM-A", "KFR-SC", "PSA-A"]
+          },
+          {
+            "title": "SC-PSD",
+            "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para pasos de greca ≤ 360mm.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para pasos de greca ≤ 360mm.",
+              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": ["GM-A", "KFR-SC", "PSA-A"]
+          },
+          {
+            "title": "SC-PSV",
+            "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
+                "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona baja de la cubierta.",
+              "Orientación de placas tipo paisaje (Horizontal).",
+              "Fijación del sistema directamente sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": ["GM-A", "KFR-SC", "PSA-AV"]
+          },
+          {
+            "title": "SC-PSE",
+            "description": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0003@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0004@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MADERA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001.jpg",
+                "image2x": "assets/images/SC-PSE - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
+                "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, montado sobre accesorios de fijación regulables.",
+              "Orientación de placas tipo retrato (vertical) y tipo paisaje (horizontal).",
+              "Fijación del sistema ensamblada sobre accesorios de fijación regulables, anclados a cubierta o a subestructura, con amplia gama disponible de accesorios de fijación regulables.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje"
+            ],
+            "components": [
+              "DIN-7504-K A2",
+              "GMA-A",
+              "KFR-SC",
+              "KFS-FI",
+              "PSE-UN",
+              "PSE-A"
+            ]
+          },
+          {
+            "title": "SC-PSC",
+            "description": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA PANEL 3G+NAVE METALICA_50001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000.jpg",
+                "image2x": "assets/images/SC-PSC - CUBIERTA TEJA CURVA+ESTRUCTURA MAMPOSTERIA - FIJACION SALVATEJAS0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0003@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0005@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006.jpg",
+                "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006@2x.jpg",
+                "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, montado sobre accesorios de fijación regulables y directamente a chapa metálica.",
+              "Orientación de placas tipo retrato (vertical) y tipo paisaje (horizontal).",
+              "Fijación del sistema ensamblada sobre accesorios de fijación regulables, anclados a cubierta o a subestructura, con amplia gama disponible de accesorios de fijación regulables.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
+              "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de las placas.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              "GMA-A",
+              "KFR-SC",
+              "DIN-7504-K A2",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "SC-GPX",
+            "description": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS.",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA PLACA GRAN ONDA FIBROCEMENTO+NAVE METALICA0003@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA CURVA+ONDULINE+FORJADO HORMIGON0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas, para cualquier paso de greca.",
+              "Orientación de placas tipo retrato (vertical).",
+              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              "DIN-6923 A2",
+              "DIN-603 A2",
+              "GM-A",
+              "KFR-SC",
+              "EMP-XS",
+              "GP-XS"
+            ]
+          },
+          {
+            "title": "SC-GPD",
+            "description": "Sistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "SSistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "SSistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "SSistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas.",
+              "Orientación de placas tipo paisaje (horizontal).",
+              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir al mínimo los metros de perfil consumido.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": ["GM-A", "KFR-SC", "GP-XS"]
+          },
+          {
+            "title": "SC-GPV",
+            "description": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje en paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona baja de la cubierta.",
+              "Orientación de placas tipo paisaje (horizontal).",
+              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": ["GM-A", "KFR-SC", "GP-VD"]
+          }
+        ]
+      },
+      {
+        "title": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
+        "description": "Soportes para placas solares indicados para cubiertas planas y de baja pendiente. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
+        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+        "image-alt": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
+        "systems": [
+          {
+            "title": "ST-PSE",
+            "description": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas y de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación regulable a 25°, 30° y 35°.",
+              "Orientación de placas tipo retrato (vertical).",
+              "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
+              "Opción de fijación del sistema ensamblada sobre estructura auxiliar de perfiles solares anclada a subestructura, mediante tuercas de fijación rápida montadas en los pies de apoyo de los triángulos.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión longitudinal entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
+              "Montaje entre perfiles y triángulos mediante soluciones preensambladas de fijación rápida.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              "DIN-7504-K A2",
+              "GMA-A",
+              "KFR-SC",
+              "TPA-R",
+              "KFS-FL",
+              "PSE-UN",
+              "PSE-A"
+            ]
+          },
+          {
+            "title": "ST-GPX",
+            "description": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas y de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación regulable entre 25° y 35°.",
+              "Orientación de placas tipo retrato (vertical) y tipo paisaje (horizontal).",
+              "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
+              "Opción de fijación del sistema ensamblada sobre estructura auxiliar de guías perforadas solares anclada a subestructura, mediante tuercas de fijación rápida montadas en los pies de apoyo de los triángulos.",
+              "Guía dispuesta en formato continuo para simplificar la planificación de la instalación.",
+              "Unión longitudinal entre guías mediante empalme interior y tornillos DIN603 de montaje rápido, sin interferencia en la fijación de placas.",
+              "Montaje entre perfiles y triángulos mediante tuercas de fijación rápida.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              "DIN-6923 A2",
+              "DIN-603 A2",
+              "GM-A",
+              "KFR-SC",
+              "DIN-6921 A2",
+              "TU-RX A2",
+              "TRP-XS",
+              "EMP-XS",
+              "GP-XS"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "range-section": {
     "title": "Gamas de productos para instalaciones solares",
@@ -1035,6 +971,7 @@
   },
   "solar-kits-section": {
     "title": "Tipos de Kits Solares",
+    "more-info": "Más información",
     "solar-kits-cards": [
       {
         "title": "KC-PSA",
@@ -1097,6 +1034,7 @@
   "others-section": {
     "title": "Otros anclajes para instalaciones solares",
     "subtitle": "En INDEX ponemos a disposición de nuestros clientes una amplia gama de anclajes para conseguir una adecuada fijación en la instalación de placas solares.",
+    "more-info": "Más información",
     "materials-cards": [
       {
         "title": "Fijaciones metálicas",

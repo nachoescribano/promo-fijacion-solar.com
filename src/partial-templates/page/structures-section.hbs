@@ -40,11 +40,11 @@
                   <div class="index-card__footer">
                     <p class="index-card__subtitle-footer">{{../systems}}</p>
                   {{#each systems}}
-                    {{#ifMultipleOf @index 5}}<ul class="badges-list">{{/ifMultipleOf}}
-                    <li class="badges-list__item  {{#ifFirstFirst indexType @index}}badges-list__item--active{{/ifFirstFirst}}">{{title}}</li>
-                    {{#ifMultipleOfAndMoreO @index 4}}</ul>{{/ifMultipleOfAndMoreO}}
+                    {{#ifMultipleOf @index 4}}<ul class="badges-list">{{/ifMultipleOf}}
+                    <li data-container-id="{{title}}" class="badges-list__item js-badge {{#ifFirstFirst indexType @index}}badges-list__item--active{{/ifFirstFirst}}">{{title}}</li>
+                    {{#ifMultipleOfAndMore1 @index 4}}</ul>{{/ifMultipleOfAndMore1}}
                   {{/each}}
-                  {{#ifTotalItemsMultipleOfAndMoreO systems 4}}{{else}}</ul>{{/ifTotalItemsMultipleOfAndMoreO}}
+                  {{#ifTotalItemsMultipleOfAndMore1 systems 4}}{{else}}</ul>{{/ifTotalItemsMultipleOfAndMore1}}
                   </div>
                 </div>
               </div>
@@ -52,66 +52,115 @@
           {{/each}}
         </div>
       </div>
-      <h3 class="index-card__title index-card__title--black">
-        {{related-products-title}}
-      </h3>
-      <div class="row">
-        {{#each related-products}}
-          <article
-            class="index-card index-card--full-width  {{#ifFirst @index}}{{else}}index-card--hidden{{/ifFirst}}"
-            data-id="{{this.id}}"
-          >
-            <div class="index-card__container">
-              <div class="index-card__body">
-                <div class="swiper-container js-swiper-container-{{this.swiper-id}}">
-                  <div class="row">
-                     {{#each ../commons-related-products}}
-                        <a
-                          class="col-12 col-md-6 col-lg-3 section__instalation-item section__instalation-item--center section__instalation-item--link"
-                          href={{this.href}}
-                        >
-                          <img
-                            class="img-fluid image-thumb"
-                            src="{{this.image}}"
-                            alt="{{this.image-alt}}"
-                          />
-                          <h3
-                              class="index-card__title index-card__title--xl index-card__title--center mb-0 mt-1"
-                            >
-                              {{this.title}}
-                            </h3>
-                            <p
-                              class="index-card__subtitle index-card__subtitle--center"
-                            >{{description}}</p>
-                        </a>
-                     {{/each}}
-                     {{#each products}}
-                        <a
-                          class="col-12 col-md-6 col-lg-3 section__instalation-item section__instalation-item--center section__instalation-item--link"
-                           href={{this.href}}
-                        >
-                          <img
-                            class="img-fluid image-thumb"
-                            src="{{this.image}}"
-                            alt="{{this.image-alt}}"
-                          />
-                          <h3
-                              class="index-card__title index-card__title--xl index-card__title--center mb-0 mt-1"
-                            >
-                              {{this.title}}
-                            </h3>
-                            <p
-                              class="index-card__subtitle index-card__subtitle--center"
-                            >{{description}}</p>
-                        </a>
-                     {{/each}}
-                  </div>
+      {{#each types as |type indexType|}}
+        {{#each systems as |type indexSystems| }}
+          <div class="row js-badged-container-controlled d-none" data-id="{{title}}">
+            <article class="container mb-5">
+              <header class="mb-4">
+                <h2 class="section__title section__title--subtitle-after">{{title}}</h2>
+                <p class="lead">{{description}}</p>
+              </header>
+              <div class="row mb-3">
+                <div id="carouselExampleControls-{{indexSystems}}" class="col-lg-12 col-xl-7 mb-3 mb-xl-0 carousel slide">
+                  <div class="carousel-inner">
+                    {{#each carousel}}
+                      <div class="carousel-item {{#ifFirst @index}}active{{/ifFirst}}">
+                        {{#ifEqual this.type 'image'}}
+                          <picture class="d-block w-100">
+                              <source
+                              class="index-card__image index-card__image--cover"
+                              srcset="{{image2x}}"
+                              media="(min-width: 768px)"
+                            />
+                            <img
+                              alt="{{image-alt}}"
+                              class="index-card__image index-card__image--cover"
+                              src="{{image}}"
+                            />
+                          </picture>
+                          {{/ifEqual}}
+                      </div>
+                    {{/each}}
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls-{{indexSystems}}" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls-{{indexSystems}}" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+                <div class="col-lg-12 col-xl-5">
+                    <h5 class="section__sub-title">
+                        {{../../qualities-advantages}}
+                    </h5>
+                    <ul class="dashed-list mb-4">
+                      {{#each qualities-list}}
+                        <li class="dashed-list__item">
+                            {{this}}
+                        </li>
+                      {{/each}}
+                    </ul>
                 </div>
               </div>
-            </div>
+              <h3 class="index-card__title index-card__title--black">
+                  {{../../system-components}}
+              </h3>
+              <div class="swiper-container js-swiper-container-10">
+                <div class="index-cards-container">
+                  {{#each components}}
+                    {{#with (getContentOf this ../../../components)}}
+                      <article class="index-card index-card--mini">
+                        <div class="index-card__container">
+                          <div class="index-card__body pt-0">
+                            <picture>
+                              <source
+                                class="index-card__image index-card__image--inline"
+                                srcset="{{image2x}}"
+                                media="(min-width: 768px)"
+                              />
+                              <img
+                                alt="{{image-alt}}"
+                                class="index-card__image index-card__image--inline"
+                                src="{{image}}"
+                              />
+                            </picture>
+                            <div class="index-card__regulations index-card__regulations--right-alignment">
+                              {{#each logos}}
+                                  {{#with (getContentOf this ../../../../../material-cover)}}
+                                    <img
+                                      class="index-card__regulation-item"
+                                      alt="{{image-alt}}"
+                                      src="{{image}}"
+                                      />
+                                  {{/with}}
+                              {{/each}}
+                            </div>
+                            <h3 class="index-card__title index-card__title--black mb-0">
+                              {{title}}
+                            </h3>
+                            <p class="index-card__subtitle mb-0">{{description}}</p>
+                            <footer class="index-card__footer">
+                              <a
+                                href="{{url}}"
+                                class="index-card__link index-card__link--footer"
+                                target="_blank"
+                              >{{../../../../more-info}}<i
+                                  class="fas fa-arrow-right index-card__link-icon"
+                                ></i></a>
+                            </footer>
+                          </div>
+                        </div>
+                      </article>
+                    {{/with}}
+                  {{/each}}
+                </div>
+              </div>
           </article>
+          </div>
         {{/each}}
-      </div>
+      {{/each}}
     </div>
   </section>
 {{/with}}

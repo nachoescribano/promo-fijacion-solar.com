@@ -124,7 +124,7 @@ h2 {
   font-size: .45em;
 }
 
-.section__sub-title {
+.section__sub-title,.section__subtitle  {
   font-family: 'Roboto', sans-serif;
   font-size: 1.25rem;
   line-height: 1.2;
@@ -245,7 +245,9 @@ h2 {
 .index-card--mini {
   min-height: inherit;
 }
-
+.index-card--special {
+  min-height: inherit;
+}
 .index-card--interactive {
   cursor: pointer;
 }
@@ -313,6 +315,13 @@ h2 {
   width: 100%;
   background: var(--color-primary);
 }
+.index-card__container--special{
+  border-radius: 0;
+}
+.index-card__container--special::before  {
+  content: none;
+}
+
 .index-card__container--horizontal{
   flex-direction:row;
 }
@@ -356,6 +365,9 @@ h2 {
 }
 .index-card__title--black {
   color: var(--color-black);
+}
+.index-card__title--special {
+  padding-top: 1.25rem;
 }
 /* .index-card__title:hover {
   color: var(--color-secundary);
@@ -404,6 +416,9 @@ h2 {
   font-weight: 400;
   /*margin-top: 2rem;*/
 }
+.index-card__link--footer, .index-card__link--footer:visited  {
+  margin-bottom: -0.8125rem;
+}
 .index-card__link:hover, .index-card__link:active {
   color: var(--color-secundary);
 }
@@ -438,6 +453,12 @@ h2 {
   height: 100%;
   width: 100%;
 }
+.index-card__image--special {
+  width: 100%;
+}
+.index-card__image-container--special {
+  margin: 0 -0.875rem;
+}
 .index-card__regulations {
   display: flex;
   flex-wrap: wrap;
@@ -447,6 +468,9 @@ h2 {
   margin-right: -0.25rem;
   margin-bottom: 0.5rem;
 
+}
+.index-card__regulations--right-alignment{
+  justify-content: flex-end;
 }
 .index-card__regulations > .index-card__regulations {
   margin-left: 0;
@@ -582,10 +606,16 @@ h2 {
   .index-card--mini {
     width: calc(100% / 4);
   }
+  .index-card--special {
+    width: calc(100% / 3);
+  }
 }
 @media (min-width: 1200px) {
   .index-card--mini {
     width: calc(100% / 5);
+  }
+  .index-card--special {
+    width: calc(100% / 4);
   }
 }
 
@@ -726,7 +756,7 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
   position: absolute;
   top: 26%;
   padding: 0 1.25rem;
-  margin: 1rem;
+  /* margin: 1rem; */
   color: var(--color-white);
   /*text-shadow: 2px 2px var(--color-primary), 0 0 5em var(--color-primary);*/
 }
@@ -1929,10 +1959,11 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
 
 }
 .badges-list__item{
-  padding: 0.625rem 0.25rem;
+  padding: 0.25rem 0.625rem ;
   border: solid 1px var(--color-primary);
   border-left: none;
   cursor: pointer;
+  white-space: nowrap;
 }
 .badges-list__item:hover, .badges-list__item--active{
   background-color: var(--color-primary);
