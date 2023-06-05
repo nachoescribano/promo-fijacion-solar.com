@@ -27,31 +27,33 @@
       <h3 class="index-card__title index-card__title--black">
         {{question-number-solar-panels}}
       </h3>
-      <div class="solar-panel__scroll">
+      <div class="swiper-container js-swiper-container-{{swiperCounter}} solar-panel__scroll"  data-slides-per-view="3">
         <ul class="solar-panel__container js-solar-panel__container">
           {{#for 1 11 1}}
-            <li
-              class="solar-panel {{#ifEqual this 1}}solar-panel--active{{/ifEqual}} js-solar-panel"
-              data-solar-panel="{{this}}"
-              data-solar-origin="{{getContentOfItemKey this ../answer-number-kits-list 'origin-kit'}}"
-              data-solar-extension="{{getContentOfItemKey this ../answer-number-kits-list 'extension-kit'}}"
-            >
-              <img
-                alt="{{../solar-panel-active}}"
-                class="solar-panel__img solar-panel__img--hover"
-                src="assets/images/placa-solar.svg"
-              />
-              <img
-                alt="{{../solar-panel-disabled}}"
-                class="solar-panel__img"
-                src="assets/images/placa-solar--disable.svg"
-              />
-              <span class="solar-panel__text">{{this}}</span>
+            <li>
+              <div
+                class="solar-panel {{#ifEqual this 1}}solar-panel--active{{/ifEqual}} js-solar-panel"
+                data-solar-panel="{{this}}"
+                data-solar-origin="{{getContentOfItemKey this ../answer-number-kits-list 'origin-kit'}}"
+                data-solar-extension="{{getContentOfItemKey this ../answer-number-kits-list 'extension-kit'}}"
+              >
+                <img
+                  alt="{{../solar-panel-active}}"
+                  class="solar-panel__img solar-panel__img--hover"
+                  src="assets/images/placa-solar.svg"
+                />
+                <img
+                  alt="{{../solar-panel-disabled}}"
+                  class="solar-panel__img"
+                  src="assets/images/placa-solar--disable.svg"
+                />
+                <span class="solar-panel__text">{{this}}</span>
+              </div>
             </li>
           {{/for}}
         </ul>
       </div>
-      <div>
+      <div class="swiper-container js-swiper-container-{{swiperCounter}}">
         <div class="index-cards-container js-solar-cards-container">
           <article class="index-card index-card--special">
             <div class="index-card__container">

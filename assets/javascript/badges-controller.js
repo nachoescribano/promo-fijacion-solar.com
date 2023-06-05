@@ -24,7 +24,7 @@
     );
     activeContainer?.classList.remove("d-none");
     const swiperContainer = activeContainer?.querySelector(".swiper-container");
-    swiperContainer?.swiper.update();
+    swiperContainer?.swiper?.update();
   };
   badges.forEach((badge) => {
     badge.addEventListener("click", handlerBagdeClick);

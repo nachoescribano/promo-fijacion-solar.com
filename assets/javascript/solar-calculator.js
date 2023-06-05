@@ -6,6 +6,8 @@
   const extensionCard = document.querySelector(".js-solar-extension-card");
   const extensionCardBase = extensionCard.cloneNode(true);
   const cardsContainer = document.querySelector(".js-solar-cards-container");
+  const swiperCardsContainer = cardsContainer.parentElement;
+
   const { textSingular, textPlural } = spanTextPanel.dataset;
   const { textKit, textKitExtension, textKitExtensionPlural } =
     spanTextKit.dataset;
@@ -15,6 +17,11 @@
   );
 
   let totalActivePanels = activePanels?.length;
+
+  window.requestAnimationFrame(() => {
+    swiperCardsContainer?.swiper?.update();
+  });
+
   const handlerPanelsOver = (event) => {
     let target = event.target;
     while (!target.classList.contains("js-solar-panel")) {
@@ -73,7 +80,18 @@
       totalExtensionCard.forEach((el) => el.remove());
     } else {
       if (totalExtensionCard.length < solarExtension) {
-        cardsContainer.appendChild(extensionCardBase.cloneNode(true));
+        while (totalExtensionCard.length < solarExtension) {
+          if (swiperCardsContainer?.swiper) {
+            swiperCardsContainer.swiper.appendSlide(
+              extensionCardBase.cloneNode(true)
+            );
+          } else {
+            cardsContainer.appendChild(extensionCardBase.cloneNode(true));
+          }
+          totalExtensionCard = document.querySelectorAll(
+            ".js-solar-extension-card"
+          );
+        }
       } else {
         while (totalExtensionCard.length > solarExtension) {
           cardsContainer.removeChild(cardsContainer.lastChild);
@@ -90,6 +108,7 @@
       solarTextKit = solarTextKit.replace("{num2}", solarExtension);
     }
     spanTextKit.innerHTML = solarTextKit;
+    swiperCardsContainer?.swiper?.update();
   };
 
   const handlerPanelContainerLeave = (event) => {

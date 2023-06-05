@@ -69,7 +69,15 @@
           });
         }
         controlClassSlider(`.js-swiper-container-${i}`, "add");
+        const swiperContainer = document.querySelector(
+          `.js-swiper-container-${i}`
+        );
+        const { slidesPerView, spaceBetween } = swiperContainer.dataset;
         swiper[i] = new Swiper(`.js-swiper-container-${i}`, {
+          ...(slidesPerView
+            ? { slidesPerView: parseFloat(slidesPerView) }
+            : {}),
+          ...(spaceBetween ? { spaceBetween: parseFloat(spaceBetween) } : {}),
           autoHeight: false, //enable auto height
           pagination: {
             el: ".swiper-pagination",
