@@ -20,7 +20,7 @@
     "p": "Les installations solaires demandent une fiabilité maximale contre les éléments externes. C'est pourquoi INDEX® propose des produits de haute qualité pour les structures pour panneaux en acier et aluminium, ainsi que des solutions unifiées de montage et des fixations qui simplifient la gestion des composants et l'assemblage de la structure dans le lieu d'installation."
   },
   "header": {
-    "url-home": "https://www.indexfix.com",
+    "url-home": "https://www.indexfix.com/fr",
     "menu": "menu"
   },
   "features-section": {
@@ -94,16 +94,7 @@
         "image": "assets/images/DIN-603-A2.jpg",
         "image2x": "assets/images/DIN-603-A2@2x.jpg",
         "image-alt": "Vis à tête ronde et à col carré. Inoxydable A2.",
-        "url": "https://www.indexfix.com/producto/11608-DIN-603-A2-tornillo-din-603-cabeza-redonda-y-cuello-cuadrado-inoxidable-a2",
-        "logos": ["a2inox"]
-      },
-      "DIN-6923 A2": {
-        "title": "DIN-6923 A2",
-        "description": "Écrou à bride moleté DIN-6923. Inoxydable A2.",
-        "image": "assets/images/DIN-6923-A2.jpg",
-        "image2x": "assets/images/DIN-6923-A2@2x.jpg",
-        "image-alt": "Écrou à bride moleté DIN-6923. Inoxydable A2.",
-        "url": "https://www.indexfix.com/producto/11606-DIN-6923-A2-tuerca-brida-grafilada-din-6923-inoxidable-a2",
+        "url": "https://www.indexfix.com/produit/11608-DIN-603-A2-vis-din-603-tete-ronde-et-cou-carre-acier-inoxydable-a2",
         "logos": ["a2inox"]
       },
       "DIN-6921 A2": {
@@ -112,7 +103,16 @@
         "image": "assets/images/DIN-6921-A2.jpg",
         "image2x": "assets/images/DIN-6921-A2@2x.jpg",
         "image-alt": "Vis DIN-6921. Vis hexagonale avec rondelle estampée et moletée. Inoxydable A2.",
-        "url": "https://www.indexfix.com/producto/11607-DIN-6921-A2-tornillo-din-6921-tornillo-hexagonal-con-arandela-estampada-y-grafilada-inoxidable-a2",
+        "url": "https://www.indexfix.com/produit/11607-DIN-6921-A2-vis-din-6921-vis-a-tete-hexagonale-a-embase-crantee-8-8-acier-inoxydable-a2",
+        "logos": ["a2inox"]
+      },
+      "DIN-6923 A2": {
+        "title": "DIN-6923 A2",
+        "description": "Écrou à bride moleté DIN-6923. Inoxydable A2.",
+        "image": "assets/images/DIN-6923-A2.jpg",
+        "image2x": "assets/images/DIN-6923-A2@2x.jpg",
+        "image-alt": "Écrou à bride moleté DIN-6923. Inoxydable A2.",
+        "url": "https://www.indexfix.com/produit/11606-DIN-6923-A2-ecrou-hexagonal-a-embase-crantee-din-6923-acier-inoxydable-a2",
         "logos": ["a2inox"]
       },
       "DIN-7504-K-A2": {
@@ -121,7 +121,7 @@
         "image": "assets/images/DIN-7504-K-A2.jpg",
         "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
         "image-alt": "Vis autoperceuse à tête hexagonale. Inoxydable A2",
-        "url": "https://www.indexfix.com/producto/11200-DIN-7504-K-A2-tornillo-inoxidable-a2",
+        "url": "https://www.indexfix.com/produit/din-7504-k-re-ni-arvul-vis-autoperceuse-atlantis-c4-m-a-pointe-reduite-rondelle-vulcanisee-epdm-inox-a2",
         "logos": ["a2inox"]
       },
       "EMP-XS": {
@@ -130,7 +130,7 @@
         "image": "assets/images/EMP-XS.jpg",
         "image2x": "assets/images/EMP-XS@2x.jpg",
         "image-alt": "Raccord INDEXTRUT solar. Acier Atlantis C4-M.",
-        "url": "https://www.indexfix.com/producto/11612-EMP-XS-empalme-indextrut-solar-atlantis-c4-m",
+        "url": "https://www.indexfix.com/produit/11612-EMP-XS-rail-solaire-perfore-indextrut-atlantis-c4-m",
         "logos": ["a2inox", "atl"]
       },
       "GM-A": {
@@ -139,7 +139,7 @@
         "image": "assets/images/GM-A.jpg",
         "image2x": "assets/images/GM-A@2x.jpg",
         "image-alt": "Jauge en aluminium à cadre.",
-        "url": "https://www.indexfix.com/producto/11618-GM-A-galga-de-aluminio-para-marco",
+        "url": "https://www.indexfix.com/produit/11618-GM-A-jauge-d-aluminium-pour-cadre",
         "logos": ["al"]
       },
       "GP-VD": {
@@ -148,7 +148,7 @@
         "image": "assets/images/GP-VD.jpg",
         "image2x": "assets/images/GP-VD@2x.jpg",
         "image-alt": "Guide perforé INDEXTRUT solar pour fixation sur vallée discontinue. Acier Atlantis C4-M.",
-        "url": "https://www.indexfix.com/producto/gp-vd-guia-perforada-indextrut-solar-para-fijacion-en-valle-discontinua-acero-atlantis-c4-m",
+        "url": "https://www.indexfix.com/produit/gp-vd-rail-solaire-perfore-indextrut-pour-la-fixation-dans-une-vallee-discontinue-atlantis-c4-m-acier",
         "logos": ["ac", "atl"]
       },
       "GP-XS": {
@@ -157,7 +157,7 @@
         "image": "assets/images/GP-XS.jpg",
         "image2x": "assets/images/GP-XS@2x.jpg",
         "image-alt": "Guide perforé INDEXTRUT solar. Acier Atlantis C4-M.",
-        "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
+        "url": "https://www.indexfix.com/produit/11613-GP-XS-rail-solaire-perfore-indextrut-atlantis-c4-m",
         "logos": ["a2inox", "atl"]
       },
       "KFS-FI": {
@@ -166,7 +166,7 @@
         "image": "assets/images/KFS-FI.jpg",
         "image2x": "assets/images/KFS-FI@2x.jpg",
         "image-alt": "Connecteur croisé pour fixation inférieure. Inoxydable A2.",
-        "url": "https://www.indexfix.com/producto/11611-KFS-FI-conector-cruzado-para-fijacion-inferior-inoxidable-a2",
+        "url": "https://www.indexfix.com/produit/11611-KFS-FI-connecteur-transversal-pour-fixation-inferieure-acier-inoxydable-a2",
         "logos": ["a2inox"]
       },
       "KFS-FL": {
@@ -175,7 +175,7 @@
         "image": "assets/images/KFS-FL.jpg",
         "image2x": "assets/images/KFS-FL@2x.jpg",
         "image-alt": "Connecteur croisé pour fixation latérale. Inoxydable A2.",
-        "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
+        "url": "https://www.indexfix.com/produit/11610-KFS-FL-connecteur-transversal-pour-fixation-laterale-acier-inoxydable-a2",
         "logos": ["a2inox"]
       },
       "KFR-SC": {
@@ -184,7 +184,7 @@
         "image": "assets/images/KFR-SC.jpg",
         "image2x": "assets/images/KFR-SC@2x.jpg",
         "image-alt": "Clip fixation rapide.",
-        "url": "https://www.indexfix.com/producto/11620-KFR-SC-grapa-fijacion-rapida",
+        "url": "https://www.indexfix.com/produit/11620-KFR-SC-pince-rapide",
         "logos": ["al", "ac"]
       },
       "PSA-A": {
@@ -193,7 +193,7 @@
         "image": "assets/images/PSA-A.jpg",
         "image2x": "assets/images/PSA-A@2x.jpg",
         "image-alt": "Profilé en aluminium à ailes.",
-        "url": "https://www.indexfix.com/producto/11617-PSA-A-perfil-de-aluminio-con-alas",
+        "url": "https://www.indexfix.com/produit/11617-PSA-A-profile-a-ailettes-en-aluminium",
         "logos": ["al"]
       },
       "PSA-AV": {
@@ -202,7 +202,7 @@
         "image": "assets/images/PSA-AV.jpg",
         "image2x": "assets/images/PSA-AV@2x.jpg",
         "image-alt": "Profilé en aluminium à ailes.",
-        "url": "https://www.indexfix.com/producto/11638-PSA-AV-perfil-solar-de-aluminio-con-alas-para-fijacion-directa-en-valle",
+        "url": "https://www.indexfix.com/produit/11638-PSA-AV-profile-a-ailettes-en-aluminium-pour-fixation-directe-a-la-base-du-panneau",
         "logos": ["al"]
       },
       "PSA-UN": {
@@ -211,7 +211,7 @@
         "image": "assets/images/PSA-UN.jpg",
         "image2x": "assets/images/PSA-UN@2x.jpg",
         "image-alt": "Connecteur en aluminium pour le profil PSA-A.",
-        "url": "https://www.indexfix.com/producto/11616-PSA-UN-union-de-perfil-de-aluminio-con-alas",
+        "url": "https://www.indexfix.com/produit/11616-PSA-UN-raccordement-de-profile-a-ailettes-en-aluminium",
         "logos": ["al"]
       },
       "PSE-A": {
@@ -220,7 +220,7 @@
         "image": "assets/images/PSE-A.jpg",
         "image2x": "assets/images/PSE-A@2x.jpg",
         "image-alt": "Profilé en aluminium pour fixation assemblée.",
-        "url": "https://www.indexfix.com/producto/11615-PSE-A-perfil-de-aluminio-para-fijacion-ensamblada",
+        "url": "https://www.indexfix.com/produit/11615-PSE-A-profile-d-aluminium-pour-fixation-assemblee",
         "logos": ["al"]
       },
       "PSE-C": {
@@ -229,7 +229,7 @@
         "image": "assets/images/PSE-C.jpg",
         "image2x": "assets/images/PSE-C@2x.jpg",
         "image-alt": "Profilé en aluminium pour fixation assemblée latérale.",
-        "url": "https://www.indexfix.com/producto/pse-c-perfil-de-aluminio-para-fijacion-ensamblada-lateral",
+        "url": "https://www.indexfix.com/produit/pse-c-profile-en-aluminium-pour-montage-lateral",
         "logos": ["al"]
       },
       "PSE-CUN": {
@@ -238,7 +238,7 @@
         "image": "assets/images/PSE-CUN.jpg",
         "image2x": "assets/images/PSE-CUN@2x.jpg",
         "image-alt": "Union en aluminium pour profilé PSE-C.",
-        "url": "https://www.indexfix.com/producto/pse-cun-union-de-aluminio-para-perfil-pse-c",
+        "url": "https://www.indexfix.com/produit/pse-cun-connecteur-en-aluminium-pour-le-profil-pse-c",
         "logos": ["al"]
       },
       "PSE-UN": {
@@ -247,7 +247,7 @@
         "image": "assets/images/PSE-UN.jpg",
         "image2x": "assets/images/PSE-UN@2x.jpg",
         "image-alt": "Union en aluminium pour profilé PSE-A.",
-        "url": "https://www.indexfix.com/producto/11614-PSE-UN-union-de-perfil-de-aluminio-para-fijacion-ensamblada",
+        "url": "https://www.indexfix.com/produit/11614-PSE-UN-raccord-de-profile-d-aluminium-pour-fixation-assemblee",
         "logos": ["al"]
       },
       "TPA-R": {
@@ -256,7 +256,7 @@
         "image": "assets/images/TPA-R.jpg",
         "image2x": "assets/images/TPA-R@2x.jpg",
         "image-alt": "Triangle réglable en aluminium prémonté.",
-        "url": "https://www.indexfix.com/producto/11604-TPA-R-triangulo-regulable-de-aluminio-premontado",
+        "url": "https://www.indexfix.com/produit/11604-TPA-R-triangle-premonte-reglable-en-aluminium",
         "logos": ["al"]
       },
       "TRP-XS": {
@@ -265,7 +265,7 @@
         "image": "assets/images/TRP-XS.jpg",
         "image2x": "assets/images/TRP-XS@2x.jpg",
         "image-alt": "Triangle réglable prémonté INDEXTRUT. Acier avec revêtement Atlantis C4-M.",
-        "url": "https://www.indexfix.com/producto/11602-TRP-XS-triangulo-regulable-premontado-indextrut-acero-con-recubrimiento-atlantis-c4-m",
+        "url": "https://www.indexfix.com/produit/11602-TRP-XS-triangle-premonte-reglable-indextrut-acier-avec-revetement-atlantis-c4-m",
         "logos": ["ac", "atl"]
       },
       "TU-RX A2": {
@@ -274,7 +274,7 @@
         "image": "assets/images/TU-RX-A2.jpg",
         "image2x": "assets/images/TU-RX-A2@2x.jpg",
         "image-alt": "Écrou guide à fixation rapide Indextrut. Inoxydable A2.",
-        "url": "https://www.indexfix.com/producto/11609-TU-RX-A2-tuerca-rapida-indextrut-inoxidable-a2",
+        "url": "https://www.indexfix.com/produit/11609-TU-RX-A2-ecrou-rapide-indextrut-acier-inoxydable-a2",
         "logos": ["a2inox"]
       }
     },
@@ -869,7 +869,7 @@
         "image": "assets/images/KFR-SC.jpg",
         "image2x": "assets/images/KFR-SC@2x.jpg",
         "image-alt": "Agrafes et jauges",
-        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-gg"
+        "url": "https://www.indexfix.com/canaux-vente/systemes-d-installation/systemes-d-installation-et-fixations-pour-panneaux-solaires/isf-gg"
       },
       {
         "title": "PROFILÉS, UNIONS, GUIDES ET RACCORDS",
@@ -877,7 +877,7 @@
         "image": "assets/images/GP-XS.jpg",
         "image2x": "assets/images/GP-XS@2x.jpg",
         "image-alt": "PROFILÉS, UNIONS, GUIDES ET RACCORDS",
-        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-pu"
+        "url": "https://www.indexfix.com/canaux-vente/systemes-d-installation/systemes-d-installation-et-fixations-pour-panneaux-solaires/isf-pu"
       },
       {
         "title": "CONNECTEURS + ACCESSOIRES",
@@ -885,7 +885,7 @@
         "image": "assets/images/TU-RX.jpg",
         "image2x": "assets/images/TU-RX@2x.jpg",
         "image-alt": "Connecteurs + accessoires",
-        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-cc"
+        "url": "https://www.indexfix.com/canaux-vente/systemes-d-installation/systemes-d-installation-et-fixations-pour-panneaux-solaires/isf-cc"
       },
       {
         "title": "TRIANGLES",
@@ -893,15 +893,15 @@
         "image": "assets/images/TPA-R.jpg",
         "image2x": "assets/images/TPA-R@2x.jpg",
         "image-alt": "Triangles",
-        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-tr"
+        "url": "https://www.indexfix.com/canaux-vente/systemes-d-installation/systemes-d-installation-et-fixations-pour-panneaux-solaires/isf-tr"
       },
       {
         "title": "ACCESSOIRES RÉGLABLES",
         "description": "Pour l’installation de panneaux solaires",
-        "image": "assets/images/GS-TU.jpg",
-        "image2x": "assets/images/GS-TU@2x.jpg",
+        "image": "assets/images/KFS-RV.jpg",
+        "image2x": "assets/images/KFS-RV@2x.jpg",
         "image-alt": "Accessoires réglables",
-        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-kfs"
+        "url": "https://www.indexfix.com/canaux-vente/systemes-d-installation/systemes-d-installation-et-fixations-pour-panneaux-solaires/isf-kfs"
       },
       {
         "title": "ACCESSOIRES À FIXATION DIRECTE",
@@ -909,7 +909,7 @@
         "image": "assets/images/TAC.jpg",
         "image2x": "assets/images/TAC@2x.jpg",
         "image-alt": "Accessoires à fixation directe",
-        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-fd"
+        "url": "https://www.indexfix.com/canaux-vente/systemes-d-installation/systemes-d-installation-et-fixations-pour-panneaux-solaires/isf-fd"
       },
       {
         "title": "ACCESSOIRES D’ÉTANCHÉITÉ",
@@ -917,7 +917,7 @@
         "image": "assets/images/ARS-P.jpg",
         "image2x": "assets/images/ARS-P@2x.jpg",
         "image-alt": "Accessoires d’étanchéité",
-        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-es"
+        "url": "https://www.indexfix.com/canaux-vente/systemes-d-installation/systemes-d-installation-et-fixations-pour-panneaux-solaires/isf-es"
       }
     ]
   },
@@ -992,28 +992,12 @@
     "more-info": "En savoir plus",
     "solar-kits-cards": [
       {
-        "title": "KC-PSA",
-        "description": "Coplanaire avec profilé à ailes en aluminium (PSA-A). Fixation directe.",
-        "image": "assets/images/KC-PSA.jpg",
-        "image2x": "assets/images/KC-PSA@2x.jpg",
-        "image-alt": "KC-PSA. Coplanaire avec profilé à ailes en aluminium (PSA-A). Fixation directe.",
-        "url": "https://www.indexfix.com/producto/11587-KC-PSA-coplanar-con-perfil-con-alas-de-aluminio-psa-a-fijacion-directa"
-      },
-      {
-        "title": "KC-PSD",
-        "description": "Coplanaire avec profilé à ailes en aluminium (PSA-A). Fixation directe format de profilé discontinu.",
-        "image": "assets/images/KC-PSD.jpg",
-        "image2x": "assets/images/KC-PSD@2x.jpg",
-        "image-alt": "IKC-PSD. Coplanaire avec profilé à ailes en aluminium (PSA-A). Fixation directe format de profilé discontinu.",
-        "url": "https://www.indexfix.com/producto/11586-KC-PSD-coplanar-con-perfil-con-alas-de-aluminio-psa-a-fijacion-directa-formato-de-perfil-discontinuo"
-      },
-      {
-        "title": "KC-PSC",
-        "description": "Coplanaire avec profilé en aluminium PSE-C. Fixation assemblée latérale.",
-        "image": "assets/images/KC-PSC.jpg",
-        "image2x": "assets/images/KC-PSC@2x.jpg",
-        "image-alt": "KC-PSC. Coplanaire avec profilé en aluminium PSE-C. Fixation assemblée latérale.",
-        "url": "https://www.indexfix.com/producto/kc-psc-coplanar-con-perfil-de-aluminio-pse-c-fijacion-ensamblada-lateral"
+        "title": "KC-GPD",
+        "description": "Coplanaire avec guide perforé Atlantis C4-M INDEXTRUT SOLAR GP-XS. Format guide discontinu.",
+        "image": "assets/images/KC-GPD.jpg",
+        "image2x": "assets/images/KC-GPD@2x.jpg",
+        "image-alt": "KC-GPD. Coplanaire avec guide perforé Atlantis C4-M INDEXTRUT SOLAR GP-XS. Format guide discontinu.",
+        "url": "https://www.indexfix.com/produit/11583-KC-GPD-coplanaire-avec-rail-perfore-atlantis-c4-m-indextrut-solar-gp-xs-format-de-rail-discontinu"
       },
       {
         "title": "KC-GPX",
@@ -1021,23 +1005,31 @@
         "image": "assets/images/KC-GPX.jpg",
         "image2x": "assets/images/KC-GPX@2x.jpg",
         "image-alt": "KC-GPX. Coplanaire avec guide perforé en acier Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
-        "url": "https://www.indexfix.com/producto/11584-KC-GPX-coplanar-con-guia-perforada-acero-atlantis-c4-m-indextrut-solar-gp-xs"
+        "url": "https://www.indexfix.com/produit/11584-KC-GPX-coplanaire-avec-rail-en-acier-perfore-atlantis-c4-m-indextrut-solar-gp-xs"
       },
       {
-        "title": "KC-GPD",
-        "description": "Coplanaire avec guide perforé Atlantis C4-M INDEXTRUT SOLAR GP-XS. Format guide discontinu.",
-        "image": "assets/images/KC-GPD.jpg",
-        "image2x": "assets/images/KC-GPD@2x.jpg",
-        "image-alt": "KC-GPD. Coplanaire avec guide perforé Atlantis C4-M INDEXTRUT SOLAR GP-XS. Format guide discontinu.",
-        "url": "https://www.indexfix.com/producto/11583-KC-GPD-coplanar-con-guia-perforada-atlantis-c4-m-indextrut-solar-gp-xs-formato-guia-discontinua"
+        "title": "KC-PSA",
+        "description": "Coplanaire avec profilé à ailes en aluminium (PSA-A). Fixation directe.",
+        "image": "assets/images/KC-PSA.jpg",
+        "image2x": "assets/images/KC-PSA@2x.jpg",
+        "image-alt": "KC-PSA. Coplanaire avec profilé à ailes en aluminium (PSA-A). Fixation directe.",
+        "url": "https://www.indexfix.com/produit/11587-KC-PSA-coplanaire-avec-profile-d-aluminium-a-ailettes-psa-a-fixation-directe"
       },
       {
-        "title": "KT-PSE",
-        "description": "Triangulaire avec profilé en aluminium PSE-A. Fixation assemblée.",
-        "image": "assets/images/KT-PSE.jpg",
-        "image2x": "assets/images/KT-PSE@2x.jpg",
-        "image-alt": "KT-PSE. Triangulaire avec profilé en aluminium PSE-A. Fixation assemblée.",
-        "url": "https://www.indexfix.com/producto/11582-KT-PSE-triangular-con-perfil-de-aluminio-pse-a-fijacion-ensamblada"
+        "title": "KC-PSC",
+        "description": "Coplanaire avec profilé en aluminium PSE-C. Fixation assemblée latérale.",
+        "image": "assets/images/KC-PSC.jpg",
+        "image2x": "assets/images/KC-PSC@2x.jpg",
+        "image-alt": "KC-PSC. Coplanaire avec profilé en aluminium PSE-C. Fixation assemblée latérale.",
+        "url": "https://www.indexfix.com/produit/kc-psc-coplanaire-avec-le-profile-en-aluminium-pse-c-supports-de-montage-lateraux"
+      },
+      {
+        "title": "KC-PSD",
+        "description": "Coplanaire avec profilé à ailes en aluminium (PSA-A). Fixation directe format de profilé discontinu.",
+        "image": "assets/images/KC-PSD.jpg",
+        "image2x": "assets/images/KC-PSD@2x.jpg",
+        "image-alt": "IKC-PSD. Coplanaire avec profilé à ailes en aluminium (PSA-A). Fixation directe format de profilé discontinu.",
+        "url": "https://www.indexfix.com/produit/11586-KC-PSD-coplanaire-avec-profile-d-aluminium-a-ailettes-psa-a-fixation-directe-avec-un-format-de-profile-discontinu"
       },
       {
         "title": "KT-GPX",
@@ -1045,7 +1037,15 @@
         "image": "assets/images/KT-GPX.jpg",
         "image2x": "assets/images/KT-GPX@2x.jpg",
         "image-alt": "KT-GPX. Triangulaire avec guide perforé Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
-        "url": "https://www.indexfix.com/producto/11581-KT-GPX-triangular-con-guia-perforada-atlantis-c4-m-indextrut-solar-gp-xs"
+        "url": "https://www.indexfix.com/produit/11581-KT-GPX-triangulaire-avec-rail-perfore-atlantis-c4-m-indextrut-solar-gp-xs-"
+      },
+      {
+        "title": "KT-PSE",
+        "description": "Triangulaire avec profilé en aluminium PSE-A. Fixation assemblée.",
+        "image": "assets/images/KT-PSE.jpg",
+        "image2x": "assets/images/KT-PSE@2x.jpg",
+        "image-alt": "KT-PSE. Triangulaire avec profilé en aluminium PSE-A. Fixation assemblée.",
+        "url": "https://www.indexfix.com/produit/11582-KT-PSE-triangulaire-avec-profile-en-aluminium-pse-a-fixation-assemblee"
       }
     ]
   },
@@ -1060,7 +1060,7 @@
         "image": "assets/images/anclajes-metalicos.jpg",
         "image2x": "assets/images/anclajes-metalicos@2x.jpg",
         "image-alt": "Fixations métalliques",
-        "url": "https://www.indexfix.com/canales-venta/anclajes/fijaciones-metalicas"
+        "url": "https://www.indexfix.com/canaux-vente/chevilles/fixations-metalliques"
       },
       {
         "title": "Fixations plastiques",
@@ -1068,7 +1068,7 @@
         "image": "assets/images/anclajes-plasticos.jpg",
         "image2x": "assets/images/anclajes-plasticos@2x.jpg",
         "image-alt": "Fixations plastiques",
-        "url": "https://www.indexfix.com/canales-venta/anclajes/fijaciones-plasticas"
+        "url": "https://www.indexfix.com/canaux-vente/chevilles/fixations-plastiques"
       },
       {
         "title": "Ancrages chimiques",
@@ -1076,7 +1076,7 @@
         "image": "assets/images/anclajes-quimicos.jpg",
         "image2x": "assets/images/anclajes-quimicos@2x.jpg",
         "image-alt": "Ancrages chimiques",
-        "url": "https://www.indexfix.com/canales-venta/anclajes/fijaciones-quimicas"
+        "url": "https://www.indexfix.com/canaux-vente/chevilles/fixations-chimiques"
       },
       {
         "title": "Éléments de fixation",
@@ -1084,7 +1084,7 @@
         "image": "assets/images/tornilleria.jpg",
         "image2x": "assets/images/tornilleria@2x.jpg",
         "image-alt": "Éléments de fixation",
-        "url": "https://www.indexfix.com/canales-venta/tornillos"
+        "url": "https://www.indexfix.com/canaux-vente/vis"
       },
       {
         "title": "Colliers de serrage plastiques",
@@ -1092,7 +1092,7 @@
         "image": "assets/images/abrazaderas.jpg",
         "image2x": "assets/images/abrazaderas@2x.jpg",
         "image-alt": "Colliers de serrage plastiques",
-        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/abrazaderas-plasticas"
+        "url": "https://www.indexfix.com/canaux-vente/systemes-d-installation/colliers-plastiques"
       }
     ]
   },
@@ -1108,7 +1108,7 @@
     "phone-legend": "Format accepté 613445599 ou +34613445599",
     "message": "Message/Consultation",
     "personal-data": "J’accepte que mes données personnelles soient utilisées par le personnel technique de Técnicas Expansivas SL (CIF B-26220491) pour me contacter uniquement dans le cadre de ma formation et de l’assistance technique de ses produits.",
-    "legal-data": "J’ai lu et j'accepte les <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Mentions Légales</a> et la <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Politique de Confidentialité</a>.",
+    "legal-data": "J’ai lu et j'accepte les <a href='https://www.indexfix.com//mentions' target='_blank' class='index-link'>Mentions Légales</a> et la <a href='https://www.indexfix.com/confidentialite' target='_blank' class='index-link'>Politique de Confidentialité</a>.",
     "description-1": "TÉCNICAS EXPANSIVAS S.L. informe que les données à caractère personnel fournies volontairement, dont la finalité, les cessions prévues et autres circonstances sont décrites au moment de la collecte des données à caractère personnel. Toutefois, selon le cas, la finalité peut être une des suivantes : traitement d’une demande, réclamation ou question posée ; maintien de la relation établie ; gestion intégrale et commerciale des clients ; comptabilité et facturation ; ou envoi de communications, y compris par voie électronique, d’actualités et activités relatives à TÉCNICAS EXPANSIVAS S.L.",
     "description-2": "Les données intégrées à nos fichiers sont absolument confidentielles et seront traitées dans la plus grande confidentialité ainsi que conformément à toutes les exigences imposées par le Règlement Général sur la Protection des Données (RGPD) du 27 avril 2016. Les données resteront enregistrées dans nos fichiers pendant la durée nécessaire à la finalité ayant motivé leur collecte. Le délai pendant lequel les données personnelles seront conservées sera celui défini par la législation en vigueur et toujours pendant la durée de la prestation du service pour lequel elles ont été communiquées.",
     "description-3": "Il est recommandé de ne pas envoyer de données personnelles de haut niveau, selon la législation de protection des données, comme celles relatives à la santé, car leur transfert n'est pas chiffré ni crypté. Par conséquent, si vous les envoyez, vous le ferez sous votre entière responsabilité.",
