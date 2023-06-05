@@ -318,13 +318,7 @@
               "Union entre profilés au moyen d’un profilé intérieur et de vis autoperceuses, sans interférer avec la fixation des panneaux.",
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
-            "components": [
-              "DIN-7504-K-A2",
-              "PSA-UN",
-              "GM-A",
-              "KFR-SC",
-              "PSA-A"
-            ]
+            "components": ["DIN-7504-K-A2", "PSA-UN", "GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSD",
@@ -357,11 +351,7 @@
               "Profilé disposé en format discontinu pour réduire les mètres de profilé consommé.",
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "PSA-A"
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSV",
@@ -400,11 +390,7 @@
               "Profilé disposé en format discontinu pour réduire les mètres de profilé consommé.",
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "PSA-AV"
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-AV"]
           },
           {
             "title": "SC-PSE",
@@ -722,11 +708,7 @@
               "Profilé disposé en format discontinu pour réduire au minimum les mètres de profilé consommé.",
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "GP-XS"
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-XS"]
           },
           {
             "title": "SC-GPV",
@@ -759,11 +741,7 @@
               "Profilé disposé en format discontinu pour réduire les mètres de profilé consommé.",
               "Fixation des panneaux avec des solutions innovantes très fiables et faciles à installer, interchangeables entre tous les systèmes de montage."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "GP-VD"
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-VD"]
           }
         ]
       },
@@ -951,6 +929,9 @@
     "p-2": "Les kits d’extension contiennent tout le nécessaire pour réaliser l'extension, mais <strong>en éliminant les produits inutiles</strong> (agrafes et/ou jauges en double), ce qui permet de réduire les coûts et d'éviter le gaspillage de matériel.",
     "question-number-solar-panels": "Combien de panneaux solaires souhaitez-vous unir ? Sélectionnez le nombre de panneaux",
     "origin-kit-text": "Kit d’origine",
+    "extension-kit-text": "Kit d'extension",
+    "solar-panel-active": "Panneau solaire actif",
+    "solar-panel-disabled": "Panneau solaire désactivé",
     "fix-a-solar-panel": "Pour fixer {num} panneau solaire, vous avez besoin de",
     "fix-multiple-solar-panels": "Pour fixer {num} panneaux solaires, vous avez besoin de",
     "origin-kit": "{num} kit d’origine",

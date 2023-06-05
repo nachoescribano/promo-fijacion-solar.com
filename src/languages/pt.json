@@ -318,13 +318,7 @@
               "União entre perfis mediante perfil interior e parafusos autoperfurantes, sem interferência na fixação das placas.",
               "Fixação de placas com soluções inovadoras de alta fiabilidade e fácil instalação, intercambiáveis entre todos os sistemas de montagem."
             ],
-            "components": [
-              "DIN-7504-K-A2",
-              "PSA-UN",
-              "GM-A",
-              "KFR-SC",
-              "PSA-A"
-            ]
+            "components": ["DIN-7504-K-A2", "PSA-UN", "GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSD",
@@ -357,11 +351,7 @@
               "Perfil disposto em formato descontínuo para reduzir os metros de perfil consumido.",
               "Fixação de placas com soluções inovadoras de alta fiabilidade e fácil instalação, intercambiáveis entre todos os sistemas de montagem."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "PSA-A"
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSV",
@@ -400,11 +390,7 @@
               "Perfil disposto em formato descontínuo para reduzir os metros de perfil consumido.",
               "Fixação de placas com soluções inovadoras de alta fiabilidade e fácil instalação, intercambiáveis entre todos os sistemas de montagem."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "PSA-AV"
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-AV"]
           },
           {
             "title": "SC-PSE",
@@ -722,11 +708,7 @@
               "Perfil disposto em formato descontínuo para reduzir ao mínimo os metros de perfil consumido.",
               "Fixação de placas com soluções inovadoras de alta fiabilidade e fácil instalação, intercambiáveis entre todos os sistemas de montagem."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "GP-XS"
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-XS"]
           },
           {
             "title": "SC-GPV",
@@ -759,11 +741,7 @@
               "Perfil disposto em formato descontínuo para reduzir os metros de perfil consumido.",
               "Fixação de placas com soluções inovadoras de alta fiabilidade e fácil instalação, intercambiáveis entre todos os sistemas de montagem."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "GP-VD"
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-VD"]
           }
         ]
       },
@@ -951,6 +929,9 @@
     "p-2": "Os kits de ampliação contêm todos os elementos necessários para realizar a ampliação, mas <strong>eliminando os produtos desnecessários</strong> (grampos e calibres duplicados) e, dessa forma, poupando nos custos e evitando desperdícios.",
     "question-number-solar-panels": "Quantos painéis solares pretende unir? Selecione o número de painéis",
     "origin-kit-text": "Kit de origem",
+    "extension-kit-text": "Kit de ampliação",
+    "solar-panel-active": "Painel solar ativo",
+    "solar-panel-disabled": "Painel solar desativado",
     "fix-a-solar-panel": "Para fixar {num} painel solar irá precisar",
     "fix-multiple-solar-panels": "Para fixar {num} painéis solares irá precisar",
     "origin-kit": "{num} kit de origem",

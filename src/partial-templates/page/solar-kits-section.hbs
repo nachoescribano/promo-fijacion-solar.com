@@ -1,13 +1,13 @@
 <a id="solar-kits-section"></a>
 {{#with solar-kits-section}}
-  <section class="section section--color">
+  <section class="section">
     <div class="container">
       <header class="section__header">
         <h2 class="section__title">
           {{title}}
         </h2>
       </header>
-      <div class="swiper-container js-swiper-container-3">
+      <div class="swiper-container js-swiper-container-{{swiperCounter}}">
         <div class="index-cards-container">
           {{#each solar-kits-cards}}
             <article class="index-card index-card--special">

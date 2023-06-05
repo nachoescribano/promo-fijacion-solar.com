@@ -5,7 +5,17 @@ const HandlebarsPlugin = require("handlebars-webpack-plugin");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 const WatchFileAndRunCallbackWebpackPlugin = require("watch-file-change-and-run-callback-webpack-plugin");
 const { copyFileSync } = require("fs");
+const { constrainedMemory } = require("process");
+const { checkPrimeSync } = require("crypto");
 const languanges = ["de", "en", "es", "fr", "pt", "it"];
+let swiperCounter = {
+  de: -1,
+  en: -1,
+  es: -1,
+  fr: -1,
+  pt: -1,
+  it: -1,
+};
 
 // let langEs = require("./src/languages/es.json");
 // let langEn = require("./src/languages/en.json");
@@ -47,6 +57,11 @@ function generateHandlerbarsPlugin(language) {
     //   ),
     // },
     helpers: {
+      for: function (from, to, incr, block) {
+        var accum = "";
+        for (var i = from; i < to; i += incr) accum += block.fn(i);
+        return accum;
+      },
       math: function (lvalue, operator, rvalue, options) {
         lvalue = parseFloat(lvalue);
         rvalue = parseFloat(rvalue);
@@ -65,8 +80,30 @@ function generateHandlerbarsPlugin(language) {
       sumValues: function (value1, value2) {
         return value1 + value2;
       },
+      convertObjectToString(object, option) {
+        if (object) {
+          return JSON.stringify(object);
+        }
+        return null;
+      },
+      replaceKey(key, text, value, option) {
+        return text.replace(`{${key}}`, value);
+      },
+      initSwiperCounter(option) {
+        swiperCounter[language] = -1;
+      },
+      swiperCounter(option) {
+        swiperCounter[language] += 1;
+        return swiperCounter[language];
+      },
+
+      getContentOfItemKey(index, array, key, option) {
+        if (array[parseInt(index) - 1]) {
+          return array[parseInt(index) - 1][key];
+        }
+        return null;
+      },
       getContentOf(key, object, option) {
-        console.log("getContentOf", { key, object }, option.data._parent);
         if (object[key]) {
           return object[key];
         }
@@ -145,7 +182,6 @@ function generateHandlerbarsPlugin(language) {
 const languangesPlugins = languanges.map((languange) =>
   generateHandlerbarsPlugin(languange)
 );
-console.log({ languangesPlugins });
 new WatchFileAndRunCallbackWebpackPlugin({
   matchs: [
     {

@@ -318,13 +318,7 @@
               "Unión entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              "DIN-7504-K-A2",
-              "PSA-UN",
-              "GM-A",
-              "KFR-SC",
-              "PSA-A"
-            ]
+            "components": ["DIN-7504-K-A2", "PSA-UN", "GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSD",
@@ -357,11 +351,7 @@
               "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "PSA-A"
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSV",
@@ -400,11 +390,7 @@
               "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "PSA-AV"
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-AV"]
           },
           {
             "title": "SC-PSE",
@@ -722,11 +708,7 @@
               "Perfil dispuesto en formato discontinuo para reducir al mínimo los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "GP-XS"
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-XS"]
           },
           {
             "title": "SC-GPV",
@@ -759,11 +741,7 @@
               "Perfil dispuesto en formato discontinuo para reducir los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "GP-VD"
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-VD"]
           }
         ]
       },
@@ -951,6 +929,7 @@
     "p-2": "Los kits de ampliación contienen todo lo necesario para realizar la ampliación pero <strong>eliminando los productos no necesarios</strong> (grapas y galgas duplicadas), y por lo tanto ahorrando costes y evitando el desperdicio.",
     "question-number-solar-panels": "¿Cuántas placas solares quieres unir? Selecciona el número de placas",
     "origin-kit-text": "Kit de origen",
+    "extension-kit-text": "Kit de ampliación",
     "fix-a-solar-panel": "Para fijar {num} placa solar necesitas",
     "fix-multiple-solar-panels": "Para fijar {num} placas solares necesitas",
     "origin-kit": "{num} kit de origen",

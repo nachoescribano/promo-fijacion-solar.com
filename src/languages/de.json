@@ -318,13 +318,7 @@
               "Verbindung zwischen Profilen durch Innenprofil und Selbstbohrschrauben, ohne Beeinträchtigung der Paneelenbefestigung.",
               "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
             ],
-            "components": [
-              "DIN-7504-K-A2",
-              "PSA-UN",
-              "GM-A",
-              "KFR-SC",
-              "PSA-A"
-            ]
+            "components": ["DIN-7504-K-A2", "PSA-UN", "GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSD",
@@ -357,11 +351,7 @@
               "Diskontinuierlich angeordnetes Profil, um den Verbrauch von Profilmetern zu reduzieren.",
               "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "PSA-A"
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSV",
@@ -400,11 +390,7 @@
               "Diskontinuierlich angeordnetes Profil, um den Verbrauch von Profilmetern zu reduzieren.",
               "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "PSA-AV"
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-AV"]
           },
           {
             "title": "SC-PSE",
@@ -722,11 +708,7 @@
               "Diskontinuierlich angeordnetes Profil, um den Verbrauch von Profilmetern auf ein Minimum zu reduzieren.",
               "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "GP-XS"
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-XS"]
           },
           {
             "title": "SC-GPV",
@@ -759,11 +741,7 @@
               "Diskontinuierlich angeordnetes Profil, um den Verbrauch von Profilmetern zu reduzieren.",
               "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "GP-VD"
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-VD"]
           }
         ]
       },
@@ -951,6 +929,9 @@
     "p-2": "Diese Erweiterungssätze enthalten alles, was für die Erweiterung erforderlich ist, jedoch <strong>ohne unnötige Produkte</strong> (Klemmen und doppelte Messlehren), wodurch Kosten reduziert und Materialabfälle vermieden werden.",
     "question-number-solar-panels": "Wie viele Sonnenkollektoren möchten Sie verbinden? Wählen Sie die Anzahl der Paneele",
     "origin-kit-text": "Originalset",
+    "extension-kit-text": "Erweiterungsset",
+    "solar-panel-active": "Aktives Solarpanel",
+    "solar-panel-disabled": "Solarpanel deaktiviert",
     "fix-a-solar-panel": "Zur Befestigung von {num} Solarkollektor brauchen Sie",
     "fix-multiple-solar-panels": "Zur Befestigung von {num} Solarkollektoren brauchen Sie",
     "origin-kit": "{num} Originalset",

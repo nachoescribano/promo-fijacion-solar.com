@@ -318,13 +318,7 @@
               "Joint between profiles using an inner profile and self-drilling screws, without obstructing the fixing of the panels.",
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
-            "components": [
-              "DIN-7504-K-A2",
-              "PSA-UN",
-              "GM-A",
-              "KFR-SC",
-              "PSA-A"
-            ]
+            "components": ["DIN-7504-K-A2", "PSA-UN", "GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSD",
@@ -357,11 +351,7 @@
               "Profile installed in pre-cut sections to reduce the number of metres of profile used.",
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "PSA-A"
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-A"]
           },
           {
             "title": "SC-PSV",
@@ -400,11 +390,7 @@
               "Profile installed in pre-cut sections to reduce the number of metres of profile used.",
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "PSA-AV"
-            ]
+            "components": ["GM-A", "KFR-SC", "PSA-AV"]
           },
           {
             "title": "SC-PSE",
@@ -722,11 +708,7 @@
               "Profile available in pre-cut sections to reduce the number of metres of profile used as much as possible.",
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "GP-XS"
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-XS"]
           },
           {
             "title": "SC-GPV",
@@ -759,11 +741,7 @@
               "Profile installed in pre-cut sections to reduce the number of metres of profile used.",
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
-            "components": [
-              "GM-A",
-              "KFR-SC",
-              "GP-VD"
-            ]
+            "components": ["GM-A", "KFR-SC", "GP-VD"]
           }
         ]
       },
@@ -951,6 +929,9 @@
     "p-2": "These kits contain everything you need to expand your installation but <strong>allow you to remove unnecessary products</strong> (duplicate clamp assemblies), therefore saving on costs and avoiding waste.",
     "question-number-solar-panels": "How many solar panels do you want to add? Select the number of panels",
     "origin-kit-text": "Starter kit",
+    "extension-kit-text": "Expansion kit",
+    "solar-panel-active": "Active solar panel",
+    "solar-panel-disabled": "Solar panel deactivated",
     "fix-a-solar-panel": "To install {num} solar panel, you need",
     "fix-multiple-solar-panels": "To install {num} solar panels, you need",
     "origin-kit": "{num} starter kit",

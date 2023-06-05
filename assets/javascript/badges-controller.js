@@ -7,7 +7,6 @@
     ".js-badge.badges-list__item--active"
   );
 
-  console.log({ activeBadge });
   let selectedId = activeBadge?.dataset.containerId;
   let activeContainer = document.querySelector(
     `.js-badged-container-controlled[data-id="${selectedId}"]`
@@ -24,6 +23,8 @@
       `.js-badged-container-controlled[data-id="${selectedId}"]`
     );
     activeContainer?.classList.remove("d-none");
+    const swiperContainer = activeContainer?.querySelector(".swiper-container");
+    swiperContainer?.swiper.update();
   };
   badges.forEach((badge) => {
     badge.addEventListener("click", handlerBagdeClick);

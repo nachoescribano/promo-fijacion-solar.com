@@ -1,0 +1,106 @@
+<a id="calculator-section"></a>
+{{#with calculator-section}}
+  <section class="section section--color">
+    <div class="container">
+      <header class="mb-4">
+        <h2 class="section__title section__title--subtitle-after">{{title}}</h2>
+        <p class="lead">{{subtitle}}</p>
+      </header>
+      <div class="row mb-3">
+        <picture class="col-lg-12 col-xl-7 mb-3 mb-xl-0">
+          <source
+            class="index-card__image index-card__image--cover"
+            srcset="assets/images/AdobeStock_435619491_con_kit_grande@2x.jpg"
+            media="(min-width: 768px)"
+          />
+          <img
+            alt="{{image-alt}}"
+            class="index-card__image index-card__image--cover"
+            src="assets/images/AdobeStock_435619491_con_kit_grande.jpg"
+          />
+        </picture>
+        <div class="col-lg-12 col-xl-5">
+          <p>{{{p-1}}}</p>
+          <p>{{{p-2}}}</p>
+        </div>
+      </div>
+      <h3 class="index-card__title index-card__title--black">
+        {{question-number-solar-panels}}
+      </h3>
+      <div class="solar-panel__scroll">
+        <ul class="solar-panel__container js-solar-panel__container">
+          {{#for 1 11 1}}
+            <li
+              class="solar-panel {{#ifEqual this 1}}solar-panel--active{{/ifEqual}} js-solar-panel"
+              data-solar-panel="{{this}}"
+              data-solar-origin="{{getContentOfItemKey this ../answer-number-kits-list 'origin-kit'}}"
+              data-solar-extension="{{getContentOfItemKey this ../answer-number-kits-list 'extension-kit'}}"
+            >
+              <img
+                alt="{{../solar-panel-active}}"
+                class="solar-panel__img solar-panel__img--hover"
+                src="assets/images/placa-solar.svg"
+              />
+              <img
+                alt="{{../solar-panel-disabled}}"
+                class="solar-panel__img"
+                src="assets/images/placa-solar--disable.svg"
+              />
+              <span class="solar-panel__text">{{this}}</span>
+            </li>
+          {{/for}}
+        </ul>
+      </div>
+      <div>
+        <div class="index-cards-container js-solar-cards-container">
+          <article class="index-card index-card--special">
+            <div class="index-card__container">
+              <div class="index-card__body index-card__body--middle">
+                <h3 class="index-card__title index-card__title--center index-card__title--black mb-0">
+                  <span class="js-solar-text-panel"
+                    data-text-singular="{{fix-a-solar-panel}}"
+                    data-text-plural="{{fix-multiple-solar-panels}}">
+                    {{replaceKey 'num' fix-a-solar-panel 1}}
+                  </span>
+                  <span
+                    class="color-accent js-solar-text-kit"
+                    data-text-kit="{{origin-kit}}"
+                    data-text-kit-extension="{{origin-kit-extension-kit}}"
+                    data-text-kit-extension-plural="{{origin-kit-extension-kits}}">
+                    {{replaceKey 'num' origin-kit 1}}
+                  </span>
+                </h3>
+              </div>
+            </div>
+          </article>
+          <article class="index-card index-card--special">
+            <div class="index-card__container">
+              <div class="index-card__body">
+                <picture>
+                  <source class="index-card__image index-card__image--inline" srcset="assets/images/Kit-de-origen@2x.jpg" media="(min-width: 768px)">
+                  <img alt="{{origin-kit-text}}" class="index-card__image index-card__image--inline" src="assets/images/Kit-de-origen.jpg">
+                </picture>
+                <h3 class="index-card__title index-card__title--center index-card__title--uppercase mb-0">
+                  {{origin-kit-text}}
+                </h3>
+              </div>
+            </div>
+          </article>
+          <article class="index-card index-card--special js-solar-extension-card">
+            <div class="index-card__container">
+              <div class="index-card__body">
+                <picture>
+                  <source class="index-card__image index-card__image--inline" srcset="assets/images/Kit-de-ampliacion@2x.jpg" media="(min-width: 768px)">
+                  <img alt="{{extension-kit-text}}" class="index-card__image index-card__image--inline" src="assets/images/Kit-de-ampliacion.jpg">
+                </picture>
+                <h3 class="index-card__title index-card__title--center index-card__title--uppercase mb-0">
+                  {{extension-kit-text}}
+                </h3>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+{{/with}}

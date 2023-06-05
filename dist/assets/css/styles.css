@@ -1979,5 +1979,70 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
   border-bottom-right-radius: 5px;
 
 }
+.solar-panel__scroll {
+  position: relative;
+  width: 100%;
+  overflow: scroll;
+}
+.solar-panel__container {
+  position: relative;
+  display: inline-flex;
+  flex-wrap: nowrap;
+  list-style: none;
+  padding: 0 1.5rem;
+  gap: 0.5rem;
+}
+.solar-panel__container:after, .solar-panel__container:before {
+  position: absolute;
+  content: '';
+  z-index: 0;
+  left: 0;
+  right: 0;
+  height: 0.875rem;
+  background-color: var(--color-secundary);
+}
+.solar-panel__container:before {
+  top:1.125rem;
+}
+.solar-panel__container:after {
+  top:10.25rem;
+}
 
+.solar-panel {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
 
+.solar-panel--hover:not(.solar-panel--active) .solar-panel__img--hover {
+  filter: grayscale(1);
+  opacity: .7;
+}
+
+.solar-panel--active .solar-panel__img--hover {
+  opacity: 1;
+}
+.solar-panel--hover-active .solar-panel__img--hover {
+  opacity: .5;
+}
+
+.solar-panel__img {
+  width: 7.5rem;
+  z-index: 1;
+}
+.solar-panel__text{
+ font-size: 1.5rem;
+ line-height: 1.75rem;
+
+}
+
+.solar-panel__img--hover {
+  position: absolute;
+  top:0;
+  left: 0;
+  z-index:2;
+  opacity: 0;
+  transition: all ease-in-out 1s;
+}

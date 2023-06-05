@@ -322,11 +322,21 @@ h2 {
   content: none;
 }
 
-.index-card__container--horizontal{
-  flex-direction:row;
+.index-card__container--horizontal {
+  background-color: var(--color-white);
 }
 .index-card__container--horizontal picture{
-  width: 49%;
+  width: 100%;
+}
+
+@media (min-width: 992px) {
+  .index-card__container--horizontal{
+    flex-direction:row;
+  }
+  .index-card__container--horizontal picture{
+    width: 49%;
+  }
+  
 }
 
 .index-card__container--horizontal::before {
@@ -347,6 +357,11 @@ h2 {
   font-weight: 400;
   background-color: var(--color-white);
 
+}
+.index-card__body--middle {
+  justify-content: center;
+  padding-top: 3.75rem;
+  padding-bottom: 3.75rem;
 }
 
 
@@ -380,6 +395,10 @@ h2 {
 
 .index-card__title--center {
   text-align: center;
+}
+
+.index-card__title--uppercase {
+  text-transform: uppercase;
 }
 
 .index-card__title--xl {
@@ -484,11 +503,16 @@ h2 {
   margin-right: 0.25rem;
   margin-bottom: 0.5rem;
 }
+.index-card__regulation-item--full-height {
+  height: 100%;
+}
 
 .index-card__regulation-item--full-width {
   width: 100%;
 }
-
+.index-card__regulation-item-picture {
+  height: 2.1875rem;
+}
 .index-card__materials {
   display: flex;
   flex-wrap: wrap;
@@ -1043,7 +1067,7 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
     border-color: var(--color-secundary);
   }
   .menu-sections__actions:hover .menu-sections__button {
-    width: 260px;
+    width: 280px;
   }
   .menu-sections__button-text {
     opacity: 0;
@@ -1479,7 +1503,7 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
 .swiper-slide {
   text-align: center;
   font-size: 1.125rem;
-  background: var(--color-white);
+  /* background: var(--color-white); */
 
   /* Center slide text vertically */
   display: -webkit-box;
@@ -1495,6 +1519,11 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
   -webkit-align-items: center;
   align-items: center;
 }
+.swiper-slide .index-card__container {
+  width: 100%;
+  min-height: 100%;
+}
+
 .chart {
   width: 100%;
 }
@@ -1979,5 +2008,73 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
   border-bottom-right-radius: 5px;
 
 }
+.solar-panel__scroll {
+  position: relative;
+  width: 100%;
+  overflow: scroll;
+}
+.solar-panel__container {
+  position: relative;
+  display: inline-flex;
+  flex-wrap: nowrap;
+  list-style: none;
+  padding: 0 1.5rem;
+  gap: 0.5rem;
+}
+.solar-panel__container:after, .solar-panel__container:before {
+  position: absolute;
+  content: '';
+  z-index: 0;
+  left: 0;
+  right: 0;
+  height: 0.875rem;
+  background-color: var(--color-secundary);
+}
+.solar-panel__container:before {
+  top:1.125rem;
+}
+.solar-panel__container:after {
+  top:10.25rem;
+}
 
+.solar-panel {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
 
+.solar-panel--hover:not(.solar-panel--active) .solar-panel__img--hover {
+  filter: grayscale(1);
+  opacity: .7;
+}
+
+.solar-panel--active .solar-panel__img--hover {
+  opacity: 1;
+}
+.solar-panel--hover-active .solar-panel__img--hover {
+  opacity: .5;
+}
+
+.solar-panel__img {
+  width: 7.5rem;
+  z-index: 1;
+}
+.solar-panel__text{
+ font-size: 1.5rem;
+ line-height: 1.75rem;
+
+}
+
+.solar-panel__img--hover {
+  position: absolute;
+  top:0;
+  left: 0;
+  z-index:2;
+  opacity: 0;
+  transition: all ease-in-out 1s;
+}
+.color-accent {
+  color: var(--color-accent);
+}
