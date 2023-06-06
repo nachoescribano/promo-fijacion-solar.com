@@ -228,8 +228,8 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  margin-left: calc(-1 * var(--index-cards-gutter-h));
-  margin-right: calc(-1 * var(--index-cards-gutter-h));
+  /* margin-left: calc(-1 * var(--index-cards-gutter-h));
+  margin-right: calc(-1 * var(--index-cards-gutter-h)); */
 }
 .index-cards-container.swiper-wrapper {
   flex-direction: row;
@@ -2011,17 +2011,8 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
 .solar-panel__scroll {
   position: relative;
   width: 100%;
-  overflow: scroll;
 }
-.solar-panel__container {
-  position: relative;
-  display: inline-flex;
-  flex-wrap: nowrap;
-  list-style: none;
-  padding: 0 1.5rem;
-  gap: 0.5rem;
-}
-.solar-panel__container:after, .solar-panel__container:before {
+.solar-panel__scroll:after, .solar-panel__scroll:before {
   position: absolute;
   content: '';
   z-index: 0;
@@ -2030,11 +2021,19 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
   height: 0.875rem;
   background-color: var(--color-secundary);
 }
-.solar-panel__container:before {
+.solar-panel__scroll:before {
   top:1.125rem;
 }
-.solar-panel__container:after {
-  top:10.25rem;
+.solar-panel__scroll:after {
+  bottom: 6rem;
+}
+
+.solar-panel__container {
+  position: relative;
+  display: inline-flex;
+  flex-wrap: nowrap;
+  list-style: none;
+  padding: 0;
 }
 
 .solar-panel {
@@ -2058,7 +2057,7 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
 }
 
 .solar-panel__img {
-  width: 7.5rem;
+  width: 100%;
   z-index: 1;
 }
 .solar-panel__text{
@@ -2077,4 +2076,16 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
 }
 .color-accent {
   color: var(--color-accent);
+}
+@media (min-width: 768px) {
+  .solar-panel__scroll {
+    position: relative;
+    width: 100%;
+    overflow: scroll;
+  }
+
+  .solar-panel__container {
+    padding: 0 1.5rem;
+    gap: 0.5rem;
+  }
 }

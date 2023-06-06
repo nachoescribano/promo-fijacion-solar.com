@@ -7,7 +7,14 @@
   const extensionCardBase = extensionCard.cloneNode(true);
   const cardsContainer = document.querySelector(".js-solar-cards-container");
   const swiperCardsContainer = cardsContainer.parentElement;
+  const jsSolarSwiper = document.querySelector(".js-solar-swiper");
 
+  const jsSolarSwiperClassList = [...jsSolarSwiper.classList];
+  const swiperId = Number(
+    jsSolarSwiperClassList
+      .find((text) => text.includes("js-swiper-container"))
+      .split("-")[3]
+  );
   const { textSingular, textPlural } = spanTextPanel.dataset;
   const { textKit, textKitExtension, textKitExtensionPlural } =
     spanTextKit.dataset;
@@ -73,7 +80,7 @@
     spanTextPanel.innerHTML = solarPanelText;
     let solarTextKit;
     let totalExtensionCard = document.querySelectorAll(
-      ".js-solar-extension-card"
+      ".js-solar-extension-card:not(.d-none)"
     );
     if (isNaN(solarExtension)) {
       solarTextKit = textKit.replace("{num}", solarOrigin);
@@ -81,22 +88,22 @@
     } else {
       if (totalExtensionCard.length < solarExtension) {
         while (totalExtensionCard.length < solarExtension) {
+          cardsContainer.appendChild(extensionCardBase.cloneNode(true));
+
           if (swiperCardsContainer?.swiper) {
-            swiperCardsContainer.swiper.appendSlide(
-              extensionCardBase.cloneNode(true)
-            );
-          } else {
-            cardsContainer.appendChild(extensionCardBase.cloneNode(true));
+            destroySwiper(swiperId);
+            createSwiper(swiperId);
           }
+
           totalExtensionCard = document.querySelectorAll(
-            ".js-solar-extension-card"
+            ".js-solar-extension-card:not(.d-none)"
           );
         }
       } else {
         while (totalExtensionCard.length > solarExtension) {
           cardsContainer.removeChild(cardsContainer.lastChild);
           totalExtensionCard = document.querySelectorAll(
-            ".js-solar-extension-card"
+            ".js-solar-extension-card:not(.d-none)"
           );
         }
       }

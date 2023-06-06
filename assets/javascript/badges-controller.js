@@ -29,4 +29,8 @@
   badges.forEach((badge) => {
     badge.addEventListener("click", handlerBagdeClick);
   });
+  window.requestAnimationFrame(() => {
+    const swiperContainer = activeContainer?.querySelector(".swiper-container");
+    swiperContainer?.swiper?.update();
+  });
 })();
