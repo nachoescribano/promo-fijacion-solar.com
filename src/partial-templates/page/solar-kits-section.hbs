@@ -10,8 +10,8 @@
       <div class="swiper-container js-swiper-container-{{swiperCounter}}">
         <div class="index-cards-container">
           {{#each solar-kits-cards}}
-            <article class="index-card index-card--special">
-              <div class="index-card__container index-card__container--special">
+            <a href="{{url}}" target="_blank" class="index-card index-card--special index-card--links">
+              <article class="index-card__container index-card__container--special">
                 <div class="index-card__body pt-0">
                   <picture class="index-card__image-container--special">
                     <source
@@ -30,17 +30,15 @@
                   </h3>
                   <p class="index-card__subtitle mb-0">{{description}}</p>
                   <footer class="index-card__footer">
-                    <a
-                      href="{{url}}"
+                    <p
                       class="index-card__link index-card__link--footer"
-                      target="_blank"
                     >{{../more-info}}<i
                         class="fas fa-arrow-right index-card__link-icon"
-                      ></i></a>
+                      ></i></pa>
                   </footer>
                 </div>
-              </div>
-            </article>
+              </article>
+            </a>
           {{/each}}
         </div>
       </div>
