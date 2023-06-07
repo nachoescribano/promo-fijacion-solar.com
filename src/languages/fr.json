@@ -121,7 +121,7 @@
         "image": "assets/images/DIN-7504-K-A2.jpg",
         "image2x": "assets/images/DIN-7504-K-A2@2x.jpg",
         "image-alt": "Vis autoperceuse à tête hexagonale. Inoxydable A2",
-        "url": "https://www.indexfix.com/produit/din-7504-k-re-ni-arvul-vis-autoperceuse-atlantis-c4-m-a-pointe-reduite-rondelle-vulcanisee-epdm-inox-a2",
+        "url": "https://www.indexfix.com/produit/11200-DIN-7504-K-A2-vis-inoxydable-a2",
         "logos": ["a2inox"]
       },
       "EMP-XS": {
@@ -764,20 +764,20 @@
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0001.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0001@2x.jpg",
                 "image-alt": "Système triangulaire avec profilé en aluminium PSE-A. Fixation assemblée"
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0002.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0002@2x.jpg",
                 "image-alt": "Système triangulaire avec profilé en aluminium PSE-A. Fixation assemblée"
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003@2x.jpg",
                 "image-alt": "Système triangulaire avec profilé en aluminium PSE-A. Fixation assemblée"
               }
             ],
