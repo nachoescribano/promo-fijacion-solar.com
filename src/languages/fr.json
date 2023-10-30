@@ -937,7 +937,7 @@
     "origin-kit": "{num} kit d’origine",
     "origin-kit-extension-kit": "{num} kit d’origine et {num2} kit d'extension",
     "origin-kit-extension-kits": "{num} kit d’origine et {num2} kits d'extension",
-    "of-plates": "de {num} placas",
+    "of-plates": "de {num} panneaux solaires",
     "answer-number-kits-list": [
       {
         "solar-panel": 1,
@@ -945,46 +945,62 @@
       },
       {
         "solar-panel": 2,
-        "origin-kit": 1
+        "origin-kit": 1,
+        "origin-texts": "deux"
       },
       {
         "solar-panel": 3,
-        "origin-kit": 1
+        "origin-kit": 1,
+        "origin-texts": "trois"
       },
       {
         "solar-panel": 4,
         "origin-kit": 1,
-        "extension-kit": 1
+        "extension-kit": 1,
+        "origin-texts": "deux",
+        "extension-kit-texts": ["deux"]
       },
       {
         "solar-panel": 5,
         "origin-kit": 1,
-        "extension-kit": 1
+        "extension-kit": 1,
+        "origin-texts": "deux",
+        "extension-kit-texts": ["trois"]
       },
       {
         "solar-panel": 6,
         "origin-kit": 1,
-        "extension-kit": 1
+        "extension-kit": 1,
+        "origin-texts": "trois",
+        "extension-kit-texts": ["trois"]
       },
       {
         "solar-panel": 7,
         "origin-kit": 1,
-        "extension-kit": 2
+        "extension-kit": 2,
+        "origin-texts": "trois",
+        "extension-kit-texts": ["deux", "deux"]
       },
       {
         "solar-panel": 8,
         "origin-kit": 1,
-        "extension-kit": 2
+        "extension-kit": 2,
+        "origin-texts": "deux",
+        "extension-kit-texts": ["trois", "trois"]
       },
       {
         "solar-panel": 9,
         "origin-kit": 1,
-        "extension-kit": 2
+        "extension-kit": 2,
+        "origin-texts": "trois",
+        "extension-kit-texts": ["trois", "trois"]
       },
       {
         "solar-panel": 10,
         "origin-kit": 1,
-        "extension-kit": 4
+        "extension-kit": 4,
+        "origin-texts": "deux",
+        "extension-kit-texts": ["deux", "deux", "deux", "deux"]
       }
     ]
   },

@@ -937,7 +937,7 @@
     "origin-kit": "{num} Originalset",
     "origin-kit-extension-kit": "{num} Originalset und {num2} Erweiterungsset",
     "origin-kit-extension-kits": "{num} Originalset und {num2} Erweiterungssets",
-    "of-plates": "de {num} placas",
+    "of-plates": "mit {num} Solarmodulen",
     "answer-number-kits-list": [
       {
         "solar-panel": 1,
@@ -945,46 +945,62 @@
       },
       {
         "solar-panel": 2,
-        "origin-kit": 1
+        "origin-kit": 1,
+        "origin-texts": "zwei"
       },
       {
         "solar-panel": 3,
-        "origin-kit": 1
+        "origin-kit": 1,
+        "origin-texts": "drei"
       },
       {
         "solar-panel": 4,
         "origin-kit": 1,
-        "extension-kit": 1
+        "extension-kit": 1,
+        "origin-texts": "zwei",
+        "extension-kit-texts": ["zwei"]
       },
       {
         "solar-panel": 5,
         "origin-kit": 1,
-        "extension-kit": 1
+        "extension-kit": 1,
+        "origin-texts": "zwei",
+        "extension-kit-texts": ["drei"]
       },
       {
         "solar-panel": 6,
         "origin-kit": 1,
-        "extension-kit": 1
+        "extension-kit": 1,
+        "origin-texts": "drei",
+        "extension-kit-texts": ["drei"]
       },
       {
         "solar-panel": 7,
         "origin-kit": 1,
-        "extension-kit": 2
+        "extension-kit": 2,
+        "origin-texts": "drei",
+        "extension-kit-texts": ["zwei", "zwei"]
       },
       {
         "solar-panel": 8,
         "origin-kit": 1,
-        "extension-kit": 2
+        "extension-kit": 2,
+        "origin-texts": "zwei",
+        "extension-kit-texts": ["drei", "drei"]
       },
       {
         "solar-panel": 9,
         "origin-kit": 1,
-        "extension-kit": 2
+        "extension-kit": 2,
+        "origin-texts": "drei",
+        "extension-kit-texts": ["drei", "drei"]
       },
       {
         "solar-panel": 10,
         "origin-kit": 1,
-        "extension-kit": 4
+        "extension-kit": 4,
+        "origin-texts": "zwei",
+        "extension-kit-texts": ["zwei", "zwei", "zwei", "zwei"]
       }
     ]
   },
