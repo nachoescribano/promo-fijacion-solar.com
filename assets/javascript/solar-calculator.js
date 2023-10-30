@@ -5,10 +5,10 @@
   const spanTextKit = document.querySelector(".js-solar-text-kit");
   const extensionCard = document.querySelector(".js-solar-extension-card");
   const extensionCardBase = extensionCard.cloneNode(true);
+  const kitCard = document.querySelector(".js-solar-kit-card");
   const cardsContainer = document.querySelector(".js-solar-cards-container");
   const swiperCardsContainer = cardsContainer.parentElement;
   const jsSolarSwiper = document.querySelector(".js-solar-swiper");
-
   const jsSolarSwiperClassList = [...jsSolarSwiper.classList];
   const swiperId = Number(
     jsSolarSwiperClassList
@@ -54,6 +54,22 @@
       target = target.parentElement;
     }
     totalActivePanels = parseInt(target.dataset.solarPanel);
+    const originTexts = target.dataset.originTexts;
+    const extensionKitTexts = String(target.dataset.extensionKitTexts).split(
+      ","
+    );
+    const textPlate = target.dataset.textPlate;
+    const kitCardBody = kitCard.querySelector(".index-card__body");
+    kitCardBody.removeChild(kitCardBody.lastChild);
+    const extraText = document.createElement("p");
+    extraText.className = "index-card__legend";
+    const node = document.createTextNode(
+      textPlate.replace("{num}", originTexts)
+    );
+
+    extraText.appendChild(node);
+    kitCardBody.appendChild(extraText);
+
     panels.forEach((panel) => {
       if (parseInt(panel.dataset.solarPanel) > totalActivePanels) {
         panel.classList.remove("solar-panel--active");
@@ -86,26 +102,32 @@
       solarTextKit = textKit.replace("{num}", solarOrigin);
       totalExtensionCard.forEach((el) => el.remove());
     } else {
-      if (totalExtensionCard.length < solarExtension) {
-        while (totalExtensionCard.length < solarExtension) {
-          cardsContainer.appendChild(extensionCardBase.cloneNode(true));
-
-          if (swiperCardsContainer?.swiper) {
-            destroySwiper(swiperId);
-            createSwiper(swiperId);
-          }
-
-          totalExtensionCard = document.querySelectorAll(
-            ".js-solar-extension-card:not(.d-none)"
-          );
+      totalExtensionCard.forEach((el) => el.remove());
+      totalExtensionCard = document.querySelectorAll(
+        ".js-solar-extension-card:not(.d-none)"
+      );
+      while (totalExtensionCard.length < solarExtension) {
+        const newCard = extensionCardBase.cloneNode(true);
+        cardsContainer.appendChild(newCard);
+        const newCardBody = newCard.querySelector(".index-card__body");
+        const extraText = document.createElement("p");
+        extraText.className = "index-card__legend";
+        const node = document.createTextNode(
+          textPlate.replace(
+            "{num}",
+            extensionKitTexts[totalExtensionCard.length]
+          )
+        );
+        extraText.appendChild(node);
+        newCardBody.appendChild(extraText);
+        if (swiperCardsContainer?.swiper) {
+          destroySwiper(swiperId);
+          createSwiper(swiperId);
         }
-      } else {
-        while (totalExtensionCard.length > solarExtension) {
-          cardsContainer.removeChild(cardsContainer.lastChild);
-          totalExtensionCard = document.querySelectorAll(
-            ".js-solar-extension-card:not(.d-none)"
-          );
-        }
+
+        totalExtensionCard = document.querySelectorAll(
+          ".js-solar-extension-card:not(.d-none)"
+        );
       }
       if (solarExtension > 1) {
         solarTextKit = textKitExtensionPlural.replace("{num}", solarOrigin);

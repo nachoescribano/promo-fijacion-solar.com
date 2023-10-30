@@ -36,6 +36,9 @@
                 data-solar-panel="{{this}}"
                 data-solar-origin="{{getContentOfItemKey this ../answer-number-kits-list 'origin-kit'}}"
                 data-solar-extension="{{getContentOfItemKey this ../answer-number-kits-list 'extension-kit'}}"
+                data-origin-texts="{{getContentOfItemKey this ../answer-number-kits-list 'origin-texts'}}"
+                data-extension-kit-texts="{{getContentOfItemKey this ../answer-number-kits-list 'extension-kit-texts'}}"
+                data-text-plate="{{../of-plates}}"
               >
                 <img
                   alt="{{../solar-panel-active}}"
@@ -75,7 +78,8 @@
               </div>
             </div>
           </article>
-          <article class="index-card index-card--special">
+          <article class="index-card index-card--special
+          js-solar-kit-card" data-text-plate="{{of-plates}}">
             <div class="index-card__container">
               <div class="index-card__body">
                 <picture>
@@ -88,7 +92,8 @@
               </div>
             </div>
           </article>
-          <article class="index-card index-card--special js-solar-extension-card">
+          <article class="index-card index-card--special js-solar-extension-card"
+          data-text="{{of-plates}}">
             <div class="index-card__container">
               <div class="index-card__body">
                 <picture>
@@ -105,8 +110,6 @@
       </div>
     </div>
     <template data-template-solar-card="kit">
-      
-
     </template>
   </section>
 {{/with}}

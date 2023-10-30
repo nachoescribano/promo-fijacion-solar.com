@@ -937,6 +937,7 @@
     "origin-kit": "{num} kit de origem",
     "origin-kit-extension-kit": "{num} kit de origem e {num2} kit de ampliação",
     "origin-kit-extension-kits": "{num} kit de origem e {num2} kits de ampliação",
+    "of-plates": "de {num} placas",
     "answer-number-kits-list": [
       {
         "solar-panel": 1,

@@ -935,6 +935,7 @@
     "origin-kit": "{num} kit de origen",
     "origin-kit-extension-kit": "{num} kit de origen y {num2} kit de ampliación",
     "origin-kit-extension-kits": "{num} kit de origen y {num2} kits de ampliación",
+    "of-plates": "de {num} placas",
     "answer-number-kits-list": [
       {
         "solar-panel": 1,
@@ -942,46 +943,62 @@
       },
       {
         "solar-panel": 2,
-        "origin-kit": 1
+        "origin-kit": 1,
+        "origin-texts": "dos"
       },
       {
         "solar-panel": 3,
-        "origin-kit": 1
+        "origin-kit": 1,
+        "origin-texts": "tres"
       },
       {
         "solar-panel": 4,
         "origin-kit": 1,
-        "extension-kit": 1
+        "extension-kit": 1,
+        "origin-texts": "dos",
+        "extension-kit-texts": ["dos"]
       },
       {
         "solar-panel": 5,
         "origin-kit": 1,
-        "extension-kit": 1
+        "extension-kit": 1,
+        "origin-texts": "dos",
+        "extension-kit-texts": ["tres"]
       },
       {
         "solar-panel": 6,
         "origin-kit": 1,
-        "extension-kit": 1
+        "extension-kit": 1,
+        "origin-texts": "tres",
+        "extension-kit-texts": ["tres"]
       },
       {
         "solar-panel": 7,
         "origin-kit": 1,
-        "extension-kit": 2
+        "extension-kit": 2,
+        "origin-texts": "tres",
+        "extension-kit-texts": ["dos", "dos"]
       },
       {
         "solar-panel": 8,
         "origin-kit": 1,
-        "extension-kit": 2
+        "extension-kit": 2,
+        "origin-texts": "dos",
+        "extension-kit-texts": ["tres", "tres"]
       },
       {
         "solar-panel": 9,
         "origin-kit": 1,
-        "extension-kit": 2
+        "extension-kit": 2,
+        "origin-texts": "tres",
+        "extension-kit-texts": ["tres", "tres"]
       },
       {
         "solar-panel": 10,
         "origin-kit": 1,
-        "extension-kit": 4
+        "extension-kit": 4,
+        "origin-texts": "dos",
+        "extension-kit-texts": ["dos", "dos", "dos", "dos"]
       }
     ]
   },

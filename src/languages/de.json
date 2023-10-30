@@ -937,6 +937,7 @@
     "origin-kit": "{num} Originalset",
     "origin-kit-extension-kit": "{num} Originalset und {num2} Erweiterungsset",
     "origin-kit-extension-kits": "{num} Originalset und {num2} Erweiterungssets",
+    "of-plates": "de {num} placas",
     "answer-number-kits-list": [
       {
         "solar-panel": 1,
@@ -1032,12 +1033,12 @@
         "url": "https://www.indexfix.com/produkte/11586-KC-PSD-koplanar-mit-aluminium-flanschprofil-psa-a-direktbefestigung-mit-diskontinuierlichem-profilformat"
       },
       {
-      "title": "KT-GPX",
-      "description": "Dreieckig mit gelochter Führung Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
-      "image": "assets/images/KT-GPX.jpg",
-      "image2x": "assets/images/KT-GPX@2x.jpg",
-      "image-alt": "KT-GPX. Dreieckig mit gelochter Führung Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
-      "url": "https://www.indexfix.com/produkte/11581-KT-GPX-dreieckig-mit-atlantis-c4-m-indextrut-solar-gp-xs-lochschiene"
+        "title": "KT-GPX",
+        "description": "Dreieckig mit gelochter Führung Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
+        "image": "assets/images/KT-GPX.jpg",
+        "image2x": "assets/images/KT-GPX@2x.jpg",
+        "image-alt": "KT-GPX. Dreieckig mit gelochter Führung Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
+        "url": "https://www.indexfix.com/produkte/11581-KT-GPX-dreieckig-mit-atlantis-c4-m-indextrut-solar-gp-xs-lochschiene"
       },
       {
         "title": "KT-PSE",
