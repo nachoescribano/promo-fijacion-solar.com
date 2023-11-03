@@ -24,7 +24,6 @@
   );
 
   let totalActivePanels = activePanels?.length;
-
   window.requestAnimationFrame(() => {
     swiperCardsContainer?.swiper?.update();
   });
@@ -146,9 +145,12 @@
       panel.classList.remove("solar-panel--hover-active");
     });
   };
-  panels.forEach((panel) => {
-    panel.addEventListener("click", handlerPanelsClick);
-    panel.addEventListener("mouseover", handlerPanelsOver);
+  panels.forEach((panel, index) => {
+    if (index !== 0) {
+      panel.addEventListener("click", handlerPanelsClick);
+      panel.addEventListener("mouseover", handlerPanelsOver);
+    }
   });
   panelContainer.addEventListener("mouseleave", handlerPanelContainerLeave);
+  handlerPanelsClick({ target: activePanels[activePanels.length - 1] });
 })();

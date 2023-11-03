@@ -32,7 +32,10 @@
           {{#for 1 11 1}}
             <li>
               <div
-                class="solar-panel {{#ifEqual this 1}}solar-panel--active{{/ifEqual}} js-solar-panel"
+                class="solar-panel {{#ifEqual this 1}}solar-panel--active{{/ifEqual}}
+                {{#ifEqual this 1}}solar-panel--first{{/ifEqual}}
+                {{#ifEqual this 2}} solar-panel--active{{/ifEqual}}
+                js-solar-panel"
                 data-solar-panel="{{this}}"
                 data-solar-origin="{{getContentOfItemKey this ../answer-number-kits-list 'origin-kit'}}"
                 data-solar-extension="{{getContentOfItemKey this ../answer-number-kits-list 'extension-kit'}}"
