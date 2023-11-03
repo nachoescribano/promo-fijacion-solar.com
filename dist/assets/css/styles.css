@@ -2092,6 +2092,10 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
   opacity: .5;
 }
 
+.solar-panel--first{
+  cursor: default;
+}
+
 .solar-panel__img {
   width: 100%;
   z-index: 1;
@@ -2120,11 +2124,11 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
 }
 
 @media (min-width: 768px) {
-  .solar-panel__scroll {
+  /* .solar-panel__scroll {
     position: relative;
     width: 100%;
     overflow: scroll;
-  }
+  } */
 
   .solar-panel__container {
     padding: 0 1.5rem;
