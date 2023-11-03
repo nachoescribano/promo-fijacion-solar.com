@@ -393,6 +393,7 @@ h2 {
   line-height: 1.2;
   color: var(--color-primary);
   margin-bottom: 1rem;
+  word-wrap: break-word;
 }
 .index-card__title--black {
   color: var(--color-black);
