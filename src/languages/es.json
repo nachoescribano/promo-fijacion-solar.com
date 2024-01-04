@@ -160,6 +160,15 @@
         "url": "https://www.indexfix.com/producto/11613-GP-XS-guia-perforada-indextrut-solar-atlantis-c4-m",
         "logos": ["a2inox", "atl"]
       },
+      "KFS-FC": {
+        "title": "KFS-FC",
+        "description": "",
+        "image": "assets/images/KFS-FC.jpg",
+        "image2x": "assets/images/KFS-FC@2X.jpg",
+        "image-alt": "",
+        "url": "",
+        "logos": ["a2inox"]
+      },
       "KFS-FI": {
         "title": "KFS-FI",
         "description": "Conector cruzado para fijación inferior. Inoxidable A2.",
@@ -248,6 +257,24 @@
         "image2x": "assets/images/PSE-UN@2x.jpg",
         "image-alt": "Unión de aluminio para perfil PSE-A.",
         "url": "https://www.indexfix.com/producto/11614-PSE-UN-union-de-perfil-de-aluminio-para-fijacion-ensamblada",
+        "logos": ["al"]
+      },
+      "TPA-A": {
+        "title": "TPA-A",
+        "description": "",
+        "image": "assets/images/TPA-A.jpg",
+        "image2x": "assets/images/TPA-A@2x.jpg",
+        "image-alt": "",
+        "url": "",
+        "logos": ["al"]
+      },
+      "TPA-C": {
+        "title": "TPA-C",
+        "description": "",
+        "image": "assets/images/TPA-C.jpg",
+        "image2x": "assets/images/TPA-C@2x.jpg",
+        "image-alt": "",
+        "url": "",
         "logos": ["al"]
       },
       "TPA-R": {
@@ -742,6 +769,40 @@
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
             ],
             "components": ["GM-A", "KFR-SC", "GP-VD"]
+          },
+          {
+            "title": "SC-PSI",
+            "description": "Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral discontinua.",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001.jpg",
+                "image2x": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001@2x.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002.jpg",
+                "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002@2x.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003.jpg",
+                "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003@2x.jpg",
+                "image-alt": ""
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas inclinadas, con montaje paralelo a la superficie de cubierta.",
+              "Instalación en cubiertas metálicas, sobre zona elevada de grecas.",
+              "Orientación de placas tipo paisaje (horizontal).",
+              "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
+              "Perfil dispuesto en formato discontinuo para reducir al mínimo los metros de perfil consumido.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+
+            ],
+            "components": ["GM-A", "KFR-SC", "PSE-C"]
           }
         ]
       },
@@ -852,6 +913,141 @@
               "TRP-XS",
               "EMP-XS",
               "GP-XS"
+            ]
+          },          
+          {
+            "title": "ST-PTA",
+            "description": "(falta título)",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_@2x.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_@2x.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_@2x.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_@2x.jpg",
+                "image-alt": ""
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas y metálicas de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación fija desde 5° hasta 35°.",
+              "Orientación de placas tipo retrato (vertical).",
+              "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión longitudinal entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
+              "Montaje entre perfiles y triángulos mediante soluciones preensambladas de fijación rápida.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-A",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "ST-PTC",
+            "description": "(falta título)",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_@2x.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_@2x.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_@2x.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_@2x.jpg",
+                "image-alt": ""
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas y metálicas de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación fija desde 5° hasta 35°.",
+              "Orientación de placas tipo retrato (vertical).",
+              "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión longitudinal entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
+              "Montaje entre perfiles y triángulos mediante soluciones preensambladas de fijación rápida."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-C",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "ST-PSC",
+            "description": "Sistema triangular con perfil de aluminio PSE-C. Fijación ensamblada.",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_.jpg",
+                "image2x": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_@2x.jpg",
+                "image-alt": ""
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_.jpg",
+                "image2x": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_@2x.jpg",
+                "image-alt": ""
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas y de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
+              "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación regulable a 25°, 30° y 35°.",
+              "Orientación de placas tipo retrato (vertical).",
+              "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
+              "Opción de fijación del sistema ensamblada sobre estructura auxiliar de perfiles solares anclada a subestructura, mediante tuercas de fijación rápida montadas en los pies de apoyo de los triángulos.",
+              "Perfil dispuesto en formato continuo para simplificar la planificación de la instalación.",
+              "Unión longitudinal entre perfiles mediante perfil interior y tornillos auto taladrantes, sin interferencia en la fijación de placas.",
+              "Montaje entre perfiles y triángulos mediante soluciones preensambladas de fijación rápida.",
+              "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-R",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
             ]
           }
         ]
@@ -1040,7 +1236,7 @@
       },
       {
         "title": "KC-PSD",
-        "description": "CCoplanar con perfil con alas de aluminio (PSA-A). Fijación directa formato de perfil discontinuo.",
+        "description": "Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa formato de perfil discontinuo.",
         "image": "assets/images/KC-PSD.jpg",
         "image2x": "assets/images/KC-PSD@2x.jpg",
         "image-alt": "IKC-PSD. Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa formato de perfil discontinuo.",
@@ -1057,6 +1253,14 @@
       {
         "title": "KT-PSE",
         "description": "Triangular con perfil de aluminio PSE-A. Fijación ensamblada.",
+        "image": "assets/images/KT-PSE.jpg",
+        "image2x": "assets/images/KT-PSE@2x.jpg",
+        "image-alt": "KT-PSE. Triangular con perfil de aluminio PSE-A. Fijación ensamblada.",
+        "url": "https://www.indexfix.com/producto/11582-KT-PSE-triangular-con-perfil-de-aluminio-pse-a-fijacion-ensamblada"
+      },
+      {
+        "title": "KT-PSC",
+        "description": "Triangular con perfil de aluminio PSE-C. Fijación ensamblada.",
         "image": "assets/images/KT-PSE.jpg",
         "image2x": "assets/images/KT-PSE@2x.jpg",
         "image-alt": "KT-PSE. Triangular con perfil de aluminio PSE-A. Fijación ensamblada.",
