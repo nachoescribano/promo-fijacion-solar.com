@@ -162,10 +162,10 @@
       },
       "KFS-FC": {
         "title": "KFS-FC",
-        "description": "",
+        "description": "Conector cruzado para fijación lateral PSE-C",
         "image": "assets/images/KFS-FC.jpg",
         "image2x": "assets/images/KFS-FC@2X.jpg",
-        "image-alt": "",
+        "image-alt": "Conector cruzado para fijación lateral PSE-C",
         "url": "",
         "logos": ["a2inox"]
       },
@@ -261,19 +261,19 @@
       },
       "TPA-A": {
         "title": "TPA-A",
-        "description": "",
+        "description": "Triángulo abierto de aluminio premontado",
         "image": "assets/images/TPA-A.jpg",
         "image2x": "assets/images/TPA-A@2x.jpg",
-        "image-alt": "",
+        "image-alt": "Triángulo abierto de aluminio premontado",
         "url": "",
         "logos": ["al"]
       },
       "TPA-C": {
         "title": "TPA-C",
-        "description": "",
+        "description": "Triángulo cerrado de aluminio premontando",
         "image": "assets/images/TPA-C.jpg",
         "image2x": "assets/images/TPA-C@2x.jpg",
-        "image-alt": "",
+        "image-alt": "Triángulo cerrado de aluminio premontando",
         "url": "",
         "logos": ["al"]
       },
@@ -800,7 +800,6 @@
               "Fijación del sistema directa sobre la propia cubierta, de alta eficacia y rapidez de instalación.",
               "Perfil dispuesto en formato discontinuo para reducir al mínimo los metros de perfil consumido.",
               "Fijación de placas con soluciones innovadoras de alta fiabilidad y fácil instalación, intercambiables entre todos los sistemas de montaje."
-
             ],
             "components": ["GM-A", "KFR-SC", "PSE-C"]
           }
@@ -917,7 +916,7 @@
           },          
           {
             "title": "ST-PTA",
-            "description": "(falta título)",
+            "description": "Sistema triangular de aluminio abierto",
             "carousel": [
               {
                 "type": "image",
@@ -966,7 +965,7 @@
           },
           {
             "title": "ST-PTC",
-            "description": "(falta título)",
+            "description": "Sistema triangular de aluminio cerrado",
             "carousel": [
               {
                 "type": "image",
