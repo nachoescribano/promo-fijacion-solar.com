@@ -265,7 +265,7 @@
         "image": "assets/images/TPA-A.jpg",
         "image2x": "assets/images/TPA-A@2x.jpg",
         "image-alt": "Triángulo abierto de aluminio premontado",
-        "url": "",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-tr",
         "logos": ["al"]
       },
       "TPA-C": {
@@ -274,7 +274,7 @@
         "image": "assets/images/TPA-C.jpg",
         "image2x": "assets/images/TPA-C@2x.jpg",
         "image-alt": "Triángulo cerrado de aluminio premontando",
-        "url": "",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-tr",
         "logos": ["al"]
       },
       "TPA-R": {
@@ -617,7 +617,7 @@
           },
           {
             "title": "SC-GPX",
-            "description": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS.",
+            "description": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS",
             "carousel": [
               {
                 "type": "image",
@@ -772,25 +772,25 @@
           },
           {
             "title": "SC-PSI",
-            "description": "Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral discontinua.",
+            "description": "Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral discontinua",
             "carousel": [
               {
                 "type": "image",
                 "image": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001.jpg",
                 "image2x": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral discontinua"
               },
               {
                 "type": "image",
                 "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002.jpg",
                 "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral discontinua"
               },
               {
                 "type": "image",
                 "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003.jpg",
                 "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral discontinua"
               }
             ],
             "qualities-list": [
@@ -922,25 +922,25 @@
                 "type": "image",
                 "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_.jpg",
                 "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Sistema triangular de aluminio abierto"
               },
               {
                 "type": "image",
                 "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_.jpg",
                 "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Sistema triangular de aluminio abierto"
               },
               {
                 "type": "image",
                 "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_.jpg",
                 "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Sistema triangular de aluminio abierto"
               },
               {
                 "type": "image",
                 "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_.jpg",
                 "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Sistema triangular de aluminio abierto"
               }
             ],
             "qualities-list": [
@@ -971,25 +971,25 @@
                 "type": "image",
                 "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_.jpg",
                 "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Sistema triangular de aluminio cerrado"
               },
               {
                 "type": "image",
                 "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_.jpg",
                 "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Sistema triangular de aluminio cerrado"
               },
               {
                 "type": "image",
                 "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_.jpg",
                 "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Sistema triangular de aluminio cerrado"
               },
               {
                 "type": "image",
                 "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_.jpg",
                 "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Sistema triangular de aluminio cerrado"
               }
             ],
             "qualities-list": [
@@ -1013,19 +1013,19 @@
           },
           {
             "title": "ST-PSC",
-            "description": "Sistema triangular con perfil de aluminio PSE-C. Fijación ensamblada.",
+            "description": "Sistema triangular con perfil de aluminio PSE-C. Fijación ensamblada",
             "carousel": [
               {
                 "type": "image",
                 "image": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_.jpg",
                 "image2x": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-C. Fijación ensamblada"
               },
               {
                 "type": "image",
                 "image": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_.jpg",
                 "image2x": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_@2x.jpg",
-                "image-alt": ""
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-C. Fijación ensamblada"
               }
             ],
             "qualities-list": [

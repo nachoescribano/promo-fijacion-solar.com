@@ -160,6 +160,15 @@
         "url": "https://www.indexfix.com/produto/11613-GP-XS-indextrut-guia-perfurado-solar-atlantida-c4-m",
         "logos": ["a2inox", "atl"]
       },
+      "KFS-FC": {
+        "title": "KFS-FC",
+        "description": "Conector cruzado para fixação lateral PSE-C",
+        "image": "assets/images/KFS-FC.jpg",
+        "image2x": "assets/images/KFS-FC@2X.jpg",
+        "image-alt": "Conector cruzado para fixação lateral PSE-C",
+        "url": "",
+        "logos": ["a2inox"]
+      },
       "KFS-FI": {
         "title": "KFS-FI",
         "description": "Conector transversal para fixação inferior. Inoxidável A2.",
@@ -248,6 +257,24 @@
         "image2x": "assets/images/PSE-UN@2x.jpg",
         "image-alt": "União de alumínio para perfil PSE-A.",
         "url": "https://www.indexfix.com/produto/11614-PSE-UN-ligacao-de-perfil-de-aluminio-para-fixacao-montada",
+        "logos": ["al"]
+      },
+      "TPA-A": {
+        "title": "TPA-A",
+        "description": "Triângulo aberto de alumínio pré-montado",
+        "image": "assets/images/TPA-A.jpg",
+        "image2x": "assets/images/TPA-A@2x.jpg",
+        "image-alt": "Triângulo aberto de alumínio pré-montado",
+        "url": "https://www.indexfix.com/canais-venda/sistemas-de-instalacao/sistemas-de-instalacao-e-fixacoes-para-paineis-solares/isf-tr",
+        "logos": ["al"]
+      },
+      "TPA-C": {
+        "title": "TPA-C",
+        "description": "Triângulo fechado de alumínio pré-montado",
+        "image": "assets/images/TPA-C.jpg",
+        "image2x": "assets/images/TPA-C@2x.jpg",
+        "image-alt": "Triângulo fechado de alumínio pré-montado",
+        "url": "https://www.indexfix.com/canais-venda/sistemas-de-instalacao/sistemas-de-instalacao-e-fixacoes-para-paineis-solares/isf-tr",
         "logos": ["al"]
       },
       "TPA-R": {
@@ -590,7 +617,7 @@
           },
           {
             "title": "SC-GPX",
-            "description": "Sistema Coplanar com guia perfurada de aço Atlantis C4-M Indextrut Solar GP-XS.",
+            "description": "Sistema Coplanar com guia perfurada de aço Atlantis C4-M Indextrut Solar GP-XS",
             "carousel": [
               {
                 "type": "image",
@@ -742,6 +769,39 @@
               "Fixação de placas com soluções inovadoras de alta fiabilidade e fácil instalação, intercambiáveis entre todos os sistemas de montagem."
             ],
             "components": ["GM-A", "KFR-SC", "GP-VD"]
+          },
+          {
+            "title": "SC-PSI",
+            "description": "Coplanar com perfil de alumínio PSE-C. Fixação montada lateral descontínua",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001.jpg",
+                "image2x": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001@2x.jpg",
+                "image-alt": "Coplanar com perfil de alumínio PSE-C. Fixação montada lateral descontínua"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002.jpg",
+                "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002@2x.jpg",
+                "image-alt": "Coplanar com perfil de alumínio PSE-C. Fixação montada lateral descontínua"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003.jpg",
+                "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003@2x.jpg",
+                "image-alt": "Coplanar com perfil de alumínio PSE-C. Fixação montada lateral descontínua"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para coberturas inclinadas, com montagem paralela à superfície da cobertura.",
+              "Instalação em coberturas metálicas, na zona elevada das ondas.",
+              "Orientação de placas tipo paisagem (horizontal).",
+              "Fixação direta do sistema sobre a própria cobertura, de alta eficácia e rapidez de instalação.",
+              "Perfil disposto em formato descontínuo para reduzir ao mínimo os metros de perfil consumido.",
+              "Fixação de placas com soluções inovadoras de alta fiabilidade e fácil instalação, intercambiáveis entre todos os sistemas de montagem."
+            ],
+            "components": ["GM-A", "KFR-SC", "PSE-C"]
           }
         ]
       },
@@ -852,6 +912,141 @@
               "TRP-XS",
               "EMP-XS",
               "GP-XS"
+            ]
+          },
+          {
+            "title": "ST-PTA",
+            "description": "Sistema triangular de alumínio aberto",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_@2x.jpg",
+                "image-alt": "Sistema triangular de alumínio aberto"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_@2x.jpg",
+                "image-alt": "Sistema triangular de alumínio aberto"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_@2x.jpg",
+                "image-alt": "Sistema triangular de alumínio aberto"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_@2x.jpg",
+                "image-alt": "Sistema triangular de alumínio aberto"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para coberturas planas e metálicas de baixa inclinação, com montagem inclinada relativamente à superfície da cobertura.",
+              "Instalação em todos os tipos de coberturas, em triângulos pré-montados com inclinação fixa desde 5° até 35°.",
+              "Orientação de placas tipo retrato (vertical).",
+              "Opção de fixação direta do sistema na subestrutura, mediante ancoragem direta dos pés de apoio dos triângulos.",
+              "Perfil disposto em formato contínuo para simplificar a planificação da instalação.",
+              "União longitudinal entre perfis mediante perfil interior e parafusos autoperfurantes, sem interferência na fixação das placas.",
+              "Montagem entre perfis e triângulos mediante soluções pré-montadas de fixação rápida.",
+              "Fixação de placas com soluções inovadoras de alta fiabilidade e fácil instalação, intercambiáveis entre todos os sistemas de montagem."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-A",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "ST-PTC",
+            "description": "Sistema triangular de alumínio fechado",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_@2x.jpg",
+                "image-alt": "Sistema triangular de alumínio fechado"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_@2x.jpg",
+                "image-alt": "Sistema triangular de alumínio fechado"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_@2x.jpg",
+                "image-alt": "Sistema triangular de alumínio fechado"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_@2x.jpg",
+                "image-alt": "Sistema triangular de alumínio fechado"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para coberturas planas e metálicas de baixa inclinação, com montagem inclinada relativamente à superfície da cobertura.",
+              "Instalação em todos os tipos de coberturas, em triângulos pré-montados com inclinação fixa desde 5° até 35°.",
+              "Orientação de placas tipo retrato (vertical).",
+              "Opção de fixação direta do sistema na subestrutura, mediante ancoragem direta dos pés de apoio dos triângulos.",
+              "Perfil disposto em formato contínuo para simplificar a planificação da instalação.",
+              "União longitudinal entre perfis mediante perfil interior e parafusos autoperfurantes, sem interferência na fixação das placas.",
+              "Montagem entre perfis e triângulos mediante soluções pré-montadas de fixação rápida."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-C",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "ST-PSC",
+            "description": "Sistema triangular com perfil de alumínio PSE-C. Fixação montada",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_.jpg",
+                "image2x": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_@2x.jpg",
+                "image-alt": "Sistema triangular com perfil de alumínio PSE-C. Fixação montada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_.jpg",
+                "image2x": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_@2x.jpg",
+                "image-alt": "Sistema triangular com perfil de alumínio PSE-C. Fixação montada"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para coberturas planas e de baixa inclinação, com montagem inclinada relativamente à superfície da cobertura.",
+              "Instalação em todos os tipos de coberturas, em triângulos pré-montados com inclinação regulável a 25°, 30° e 35°.",
+              "Orientação de placas tipo retrato (vertical).",
+              "Opção de fixação direta do sistema na subestrutura, mediante ancoragem direta dos pés de apoio dos triângulos.",
+              "Opção de fixação do sistema montado em estrutura auxiliar de perfis solares ancorada à subestrutura, mediante porcas de fixação rápida montadas nos pés de apoio dos triângulos.",
+              "Perfil disposto em formato contínuo para simplificar a planificação da instalação.",
+              "União longitudinal entre perfis mediante perfil interior e parafusos autoperfurantes, sem interferência na fixação das placas.",
+              "Montagem entre perfis e triângulos mediante soluções pré-montadas de fixação rápida.",
+              "Fixação de placas com soluções inovadoras de alta fiabilidade e fácil instalação, intercambiáveis entre todos os sistemas de montagem."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-R",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
             ]
           }
         ]

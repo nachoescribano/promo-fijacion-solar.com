@@ -160,6 +160,15 @@
         "url": "https://www.indexfix.com/produkte/11613-GP-XS-indextrut-solar-lochfuhrung-atlantis-c4-m",
         "logos": ["a2inox", "atl"]
       },
+      "KFS-FC": {
+        "title": "KFS-FC",
+        "description": "Kreuzverbinder für seitliche Befestigung PSE-C",
+        "image": "assets/images/KFS-FC.jpg",
+        "image2x": "assets/images/KFS-FC@2X.jpg",
+        "image-alt": "Kreuzverbinder für seitliche Befestigung PSE-C",
+        "url": "",
+        "logos": ["a2inox"]
+      },
       "KFS-FI": {
         "title": "KFS-FI",
         "description": "Kreuzverbinder für untere Befestigung. Rostfrei A2.",
@@ -248,6 +257,24 @@
         "image2x": "assets/images/PSE-UN@2x.jpg",
         "image-alt": "Aluminium-Verbindung für Profil PSE-A.",
         "url": "https://www.indexfix.com/produkte/11614-PSE-UN-aluminium-profilverbindung-fur-die-montierte-fixierung",
+        "logos": ["al"]
+      },
+      "TPA-A": {
+        "title": "TPA-A",
+        "description": "Vormontiertes offenes Aluminium-Dreieck",
+        "image": "assets/images/TPA-A.jpg",
+        "image2x": "assets/images/TPA-A@2x.jpg",
+        "image-alt": "Vormontiertes offenes Aluminium-Dreieck",
+        "url": "https://www.indexfix.com/kataloge/montagesysteme/installationssysteme-und-befestigungen-fur-solarmodule/isf-tr",
+        "logos": ["al"]
+      },
+      "TPA-C": {
+        "title": "TPA-C",
+        "description": "Vormontiertes geschlossenes Aluminium-Dreieck",
+        "image": "assets/images/TPA-C.jpg",
+        "image2x": "assets/images/TPA-C@2x.jpg",
+        "image-alt": "Vormontiertes geschlossenes Aluminium-Dreieck",
+        "url": "https://www.indexfix.com/kataloge/montagesysteme/installationssysteme-und-befestigungen-fur-solarmodule/isf-tr",
         "logos": ["al"]
       },
       "TPA-R": {
@@ -590,7 +617,7 @@
           },
           {
             "title": "SC-GPX",
-            "description": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS.",
+            "description": "Koplanares System mit gelochter Führung aus Stahl Atlantis C4-M Indextrut Solar GP-XS",
             "carousel": [
               {
                 "type": "image",
@@ -742,6 +769,39 @@
               "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
             ],
             "components": ["GM-A", "KFR-SC", "GP-VD"]
+          },
+          {
+            "title": "SC-PSI",
+            "description": "Koplanar mit Aluminiumprofil PSE-C. Seitlich montierte diskontinuierliche Befestigung",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001.jpg",
+                "image2x": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001@2x.jpg",
+                "image-alt": "Koplanar mit Aluminiumprofil PSE-C. Seitlich montierte diskontinuierliche Befestigung"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002.jpg",
+                "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002@2x.jpg",
+                "image-alt": "Koplanar mit Aluminiumprofil PSE-C. Seitlich montierte diskontinuierliche Befestigung"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003.jpg",
+                "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003@2x.jpg",
+                "image-alt": "Koplanar mit Aluminiumprofil PSE-C. Seitlich montierte diskontinuierliche Befestigung"
+              }
+            ],
+            "qualities-list": [
+              "Steildachsystem mit Montage parallel zur Dachfläche.",
+              "Installation auf Metalldächern, auf erhöhten Stegstellen.",
+              "Orientierung von Solarmodulen in „Landscape“ (im Querformat, horizontal).",
+              "Direkte Befestigung des Systems auf dem Dach selbst, hocheffizient und schnell zu installieren.",
+              "Diskontinuierlich angeordnetes Profil, um den Verbrauch von Profilmetern auf ein Minimum zu reduzieren.",
+              "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+            ],
+            "components": ["GM-A", "KFR-SC", "PSE-C"]
           }
         ]
       },
@@ -852,6 +912,141 @@
               "TRP-XS",
               "EMP-XS",
               "GP-XS"
+            ]
+          },
+          {
+            "title": "ST-PTA",
+            "description": "Dreieckiges offenes Aluminium-System",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_@2x.jpg",
+                "image-alt": "Dreieckiges offenes Aluminium-System"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_@2x.jpg",
+                "image-alt": "Dreieckiges offenes Aluminium-System"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_@2x.jpg",
+                "image-alt": "Dreieckiges offenes Aluminium-System"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_@2x.jpg",
+                "image-alt": "Dreieckiges offenes Aluminium-System"
+              }
+            ],
+            "qualities-list": [
+              "System für Flachdächer und Metalldächer mit geringer Neigung, mit geneigter Montage zur Dachfläche.",
+              "Installation auf allen Arten von Dächern, auf vormontierten Dreiecken mit fester Neigung zwischen 5° und 35°.",
+              "Orientierung von Solarmodulen in Portrait (im Hochformat, vertikal).",
+              "Befestigungsmöglichkeit des Systems direkt an der Unterkonstruktion durch direkte Verankerung der Stützfüße der Dreiecke.",
+              "Durchgehend angeordnetes Profil, um die Anlagenplanung zu vereinfachen.",
+              "Längsverbindung zwischen Profilen durch Innenprofil und Selbstbohrschrauben, ohne Beeinträchtigung der Paneelenbefestigung.",
+              "Montage zwischen Profilen und Dreiecken durch vormontierte Schnellbefestigungslösungen.",
+              "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-A",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "ST-PTC",
+            "description": "Dreieckiges geschlossenes Aluminium-System",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_@2x.jpg",
+                "image-alt": "Dreieckiges geschlossenes Aluminium-System"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_@2x.jpg",
+                "image-alt": "Dreieckiges geschlossenes Aluminium-System"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_@2x.jpg",
+                "image-alt": "Dreieckiges geschlossenes Aluminium-System"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_@2x.jpg",
+                "image-alt": "Dreieckiges geschlossenes Aluminium-System"
+              }
+            ],
+            "qualities-list": [
+              "System für Flachdächer und Metalldächer mit geringer Neigung, mit geneigter Montage zur Dachfläche.",
+              "Installation auf allen Arten von Dächern, auf vormontierten Dreiecken mit fester Neigung zwischen 5° und 35°.",
+              "Orientierung von Solarmodulen in Portrait (im Hochformat, vertikal).",
+              "Befestigungsmöglichkeit des Systems direkt an der Unterkonstruktion durch direkte Verankerung der Stützfüße der Dreiecke.",
+              "Durchgehend angeordnetes Profil, um die Anlagenplanung zu vereinfachen.",
+              "Längsverbindung zwischen Profilen durch Innenprofil und Selbstbohrschrauben, ohne Beeinträchtigung der Paneelenbefestigung.",
+              "Montage zwischen Profilen und Dreiecken durch vormontierte Schnellbefestigungslösungen."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-C",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "ST-PSC",
+            "description": "Dreieckiges System mit Aluminiumprofil PSE-C. Montierte Befestigung",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_.jpg",
+                "image2x": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_@2x.jpg",
+                "image-alt": "Dreieckiges System mit Aluminiumprofil PSE-C. Montierte Befestigung"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_.jpg",
+                "image2x": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_@2x.jpg",
+                "image-alt": "Dreieckiges System mit Aluminiumprofil PSE-C. Montierte Befestigung"
+              }
+            ],
+            "qualities-list": [
+              "System für Flachdächer mit geringer Neigung, mit geneigter Montage zur Dachfläche.",
+              "Installation auf allen Arten von Dächern, auf vormontierten Dreiecken mit einstellbarer Neigung von 25°, 30° und 35°.",
+              "Orientierung von Solarmodulen in Portrait (im Hochformat, vertikal).",
+              "Befestigungsmöglichkeit des Systems direkt an der Unterkonstruktion durch direkte Verankerung der Stützfüße der Dreiecke.",
+              "Befestigungsmöglichkeit des Systems montiert auf einer Hilfskonstruktion aus Solarprofilen, verankert an der Unterkonstruktion, mittels Schnellbefestigungsmuttern an den Stützfüßen der Dreiecke montiert.",
+              "Durchgehend angeordnetes Profil, um die Anlagenplanung zu vereinfachen.",
+              "Längsverbindung zwischen Profilen durch Innenprofil und Selbstbohrschrauben, ohne Beeinträchtigung der Paneelenbefestigung.",
+              "Montage zwischen Profilen und Dreiecken durch vormontierte Schnellbefestigungslösungen.",
+              "Befestigung von Solarmodulen mit innovativen Lösungen von hoher Zuverlässigkeit und einfacher Installation, austauschbar unter allen Montagesystemen."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-R",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
             ]
           }
         ]

@@ -160,6 +160,15 @@
         "url": "https://www.indexfix.com/product/11613-GP-XS-indextrut-solar-perforated-guide-atlantis-c4-m",
         "logos": ["a2inox", "atl"]
       },
+      "KFS-FC": {
+        "title": "KFS-FC",
+        "description": "PSE-C Bracket for lateral fixing",
+        "image": "assets/images/KFS-FC.jpg",
+        "image2x": "assets/images/KFS-FC@2X.jpg",
+        "image-alt": "PSE-C Bracket for lateral fixing",
+        "url": "",
+        "logos": ["a2inox"]
+      },
       "KFR-SC": {
         "title": "KFR-SC",
         "description": "Fast-fixing clamp assembly.",
@@ -248,6 +257,24 @@
         "image2x": "assets/images/PSE-UN@2x.jpg",
         "image-alt": "Aluminium joint for PSE-A profile.",
         "url": "https://www.indexfix.com/product/11614-PSE-UN-connector-for-aluminium-profile-for-assembled-fixing",
+        "logos": ["al"]
+      },
+      "TPA-A": {
+        "title": "TPA-A",
+        "description": "Pre-assembled open aluminium triangle",
+        "image": "assets/images/TPA-A.jpg",
+        "image2x": "assets/images/TPA-A@2x.jpg",
+        "image-alt": "Pre-assembled open aluminium triangle",
+        "url": "https://www.indexfix.com/sales-channels/installation-systems/installation-systems-and-fixings-for-solar-panels/isf-tr",
+        "logos": ["al"]
+      },
+      "TPA-C": {
+        "title": "TPA-C",
+        "description": "Pre-assembled closed aluminium triangle",
+        "image": "assets/images/TPA-C.jpg",
+        "image2x": "assets/images/TPA-C@2x.jpg",
+        "image-alt": "Pre-assembled closed aluminium triangle",
+        "url": "https://www.indexfix.com/sales-channels/installation-systems/installation-systems-and-fixings-for-solar-panels/isf-tr",
         "logos": ["al"]
       },
       "TPA-R": {
@@ -590,7 +617,7 @@
           },
           {
             "title": "SC-GPX",
-            "description": "Coplanar system with Indextrut Solar GP-XS perforated steel guide with Atlantis C4-M coating.",
+            "description": "Coplanar system with Indextrut Solar GP-XS perforated steel guide with Atlantis C4-M coating",
             "carousel": [
               {
                 "type": "image",
@@ -742,6 +769,39 @@
               "Panel fixing with highly reliable and easy-to-install innovative solutions that are interchangeable between all assembly systems."
             ],
             "components": ["GM-A", "KFR-SC", "GP-VD"]
+          },
+          {
+            "title": "SC-PSI",
+            "description": "Coplanar with PSE-C aluminium profile. Lateral discontinuous pre-assembled fixing",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001.jpg",
+                "image2x": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001@2x.jpg",
+                "image-alt": "Coplanar with PSE-C aluminium profile. Lateral discontinuous pre-assembled fixing"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002.jpg",
+                "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002@2x.jpg",
+                "image-alt": "Coplanar with PSE-C aluminium profile. Lateral discontinuous pre-assembled fixing"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003.jpg",
+                "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003@2x.jpg",
+                "image-alt": "Coplanar with PSE-C aluminium profile. Lateral discontinuous pre-assembled fixing"
+              }
+            ],
+            "qualities-list": [
+              "System for sloping roofs with installation parallel to the roof surface.",
+              "Installation on metal roofs raised above the ribs.",
+              "Landscape orientation of panels (horizontal).",
+              "Highly efficient, rapid fixing of system directly onto the roof itself.",
+              "Profile available in pre-cut sections to reduce the number of metres of profile used as much as possible.",
+              "Fixing of panels with highly reliable and easily installed innovative solutions that are interchangeable between all the assembly systems."
+            ],
+            "components": ["GM-A", "KFR-SC", "PSE-C"]
           }
         ]
       },
@@ -852,6 +912,141 @@
               "TRP-XS",
               "EMP-XS",
               "GP-XS"
+            ]
+          },
+          {
+            "title": "ST-PTA",
+            "description": "Triangular open aluminium system",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_@2x.jpg",
+                "image-alt": "Triangular open aluminium system"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_@2x.jpg",
+                "image-alt": "Triangular open aluminium system"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_@2x.jpg",
+                "image-alt": "Triangular open aluminium system"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_@2x.jpg",
+                "image-alt": "Triangular open aluminium system"
+              }
+            ],
+            "qualities-list": [
+              "System for flat, metallic and low-gradient roofs, mounted at an angle with respect to the roof.",
+              "Installation on all roof types, on pre-assembled triangles with a fixed angle from 5° to 35°.",
+              "Portrait panel orientation (vertical).",
+              "Option of fixing the system directly to the substructure by anchoring the feet of the triangle supports.",
+              "Profile installed continuously to simplify the planning of the installation.",
+              "Lengthways joint between profiles using an inner profile and self-drilling screws, without obstructing the fixing of the panels.",
+              "Installation of profiles and triangles using pre-assembled fast-fixing solutions.",
+              "Fixing of panels with highly reliable and easily installed innovative solutions that are interchangeable between all the assembly systems."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-A",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "ST-PTC",
+            "description": "Triangular closed aluminium system",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_@2x.jpg",
+                "image-alt": "Triangular closed aluminium system"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_@2x.jpg",
+                "image-alt": "Triangular closed aluminium system"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_@2x.jpg",
+                "image-alt": "Triangular closed aluminium system"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_@2x.jpg",
+                "image-alt": "Triangular closed aluminium system"
+              }
+            ],
+            "qualities-list": [
+              "System for flat, metallic and low-gradient roofs, mounted at an angle with respect to the roof.",
+              "Installation on all roof types, on pre-assembled triangles with a fixed angle from 5° to 35°.",
+              "Portrait panel orientation (vertical).",
+              "Option of fixing the system directly to the substructure by anchoring the feet of the triangle supports.",
+              "Profile installed continuously to simplify the planning of the installation.",
+              "Lengthways joint between profiles using an inner profile and self-drilling screws, without obstructing the fixing of the panels.",
+              "Installation of profiles and triangles using pre-assembled fast-fixing solutions."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-C",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "ST-PSC",
+            "description": "Triangular system with PSE-C aluminium profile. Pre-assembled fixing",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_.jpg",
+                "image2x": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_@2x.jpg",
+                "image-alt": "Triangular system with PSE-C aluminium profile. Pre-assembled fixing"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_.jpg",
+                "image2x": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_@2x.jpg",
+                "image-alt": "Triangular system with PSE-C aluminium profile. Pre-assembled fixing"
+              }
+            ],
+            "qualities-list": [
+              "System for flat and low-gradient roofs, mounted at an angle with respect to the roof.",
+              "Installation on all roof types, on pre-assembled triangles with an angle adjustable to 25°, 30° or 35°.",
+              "Portrait panel orientation (vertical).",
+              "Option of fixing the system directly to the substructure by anchoring the feet of the triangle supports.",
+              "Option of mounting the assembled system on an auxiliary profile frame anchored to the substructure, using fast-fixing nuts mounted on the triangle support feet.",
+              "Profile installed continuously to simplify the planning of the installation.",
+              "Lengthways joint between profiles using an inner profile and self-drilling screws, without obstructing the fixing of the panels.",
+              "Installation of profiles and triangles using pre-assembled fast-fixing solutions.",
+              "Fixing of panels with highly reliable and easily installed innovative solutions that are interchangeable between all the assembly systems."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-R",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
             ]
           }
         ]

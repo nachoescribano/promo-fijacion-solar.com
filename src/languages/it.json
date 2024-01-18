@@ -160,6 +160,15 @@
         "url": "https://www.indexfix.com/prodotto/gp-xs-guida-forata-indextrut-solare-acciaio-atlantis-c4-m",
         "logos": ["a2inox", "atl"]
       },
+      "KFS-FC": {
+        "title": "KFS-FC",
+        "description": "Connettore a croce per fissaggio laterale PSE-C",
+        "image": "assets/images/KFS-FC.jpg",
+        "image2x": "assets/images/KFS-FC@2X.jpg",
+        "image-alt": "Connettore a croce per fissaggio laterale PSE-C",
+        "url": "",
+        "logos": ["a2inox"]
+      },
       "KFS-FI": {
         "title": "KFS-FI",
         "description": "Connettore a croce per fissaggio inferiore. Inossidabile A2.",
@@ -248,6 +257,24 @@
         "image2x": "assets/images/PSE-UN@2x.jpg",
         "image-alt": "Giunzione in alluminio per profilo PSE-A.",
         "url": "https://www.indexfix.com/prodotto/pse-un-connettore-in-alluminio-per-profilo-pse-a",
+        "logos": ["al"]
+      },
+      "TPA-A": {
+        "title": "TPA-A",
+        "description": "Triangolo aperto in alluminio premontato",
+        "image": "assets/images/TPA-A.jpg",
+        "image2x": "assets/images/TPA-A@2x.jpg",
+        "image-alt": "Triangolo aperto in alluminio premontato",
+        "url": "https://www.indexfix.com/canali-vendita/sistemi-di-installazione/sistemi-di-installazione-e-fissaggio-per-pannelli-solari/isf-tr",
+        "logos": ["al"]
+      },
+      "TPA-C": {
+        "title": "TPA-C",
+        "description": "Triangolo chiuso in alluminio premontato",
+        "image": "assets/images/TPA-C.jpg",
+        "image2x": "assets/images/TPA-C@2x.jpg",
+        "image-alt": "Triangolo chiuso in alluminio premontato",
+        "url": "https://www.indexfix.com/canali-vendita/sistemi-di-installazione/sistemi-di-installazione-e-fissaggio-per-pannelli-solari/isf-tr",
         "logos": ["al"]
       },
       "TPA-R": {
@@ -590,7 +617,7 @@
           },
           {
             "title": "SC-GPX",
-            "description": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS.",
+            "description": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS",
             "carousel": [
               {
                 "type": "image",
@@ -742,6 +769,39 @@
               "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili tra tutti i sistemi di montaggio."
             ],
             "components": ["GM-A", "KFR-SC", "GP-VD"]
+          },
+          {
+            "title": "SC-PSI",
+            "description": "Complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale discontinuo",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001.jpg",
+                "image2x": "assets/images/SC-PSI---CUBIERTA-PANEL-SANWICH-001@2x.jpg",
+                "image-alt": "Complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002.jpg",
+                "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 002@2x.jpg",
+                "image-alt": "Complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale discontinuo"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003.jpg",
+                "image2x": "assets/images/SC-PSI - CUBIERTA PANEL SANWICH 003@2x.jpg",
+                "image-alt": "Complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale discontinuo"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti inclinati, con montaggio in parallelo alla superficie del tetto.",
+              "Installazione su tetti metallici, su aree di tramezzo rialzate.",
+              "Orientamento dei pannelli a paesaggio (orizzontale).",
+              "Fissaggio del sistema direttamente sul tetto, altamente efficiente e veloce da installare.",
+              "Profilo disposto in modo discontinuo per ridurre al minimo i metri di profilo consumati.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili con tutti i sistemi di montaggio."
+            ],
+            "components": ["GM-A", "KFR-SC", "PSE-C"]
           }
         ]
       },
@@ -852,6 +912,141 @@
               "TRP-XS﻿",
               "EMP-XS﻿",
               "GP-XS"
+            ]
+          },
+          {
+            "title": "ST-PTA",
+            "description": "Sistema triangolare aperto in alluminio",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0000_@2x.jpg",
+                "image-alt": "Sistema triangolare aperto in alluminio"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0001_@2x.jpg",
+                "image-alt": "Sistema triangolare aperto in alluminio"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0002_@2x.jpg",
+                "image-alt": "Sistema triangolare aperto in alluminio"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_.jpg",
+                "image2x": "assets/images/TPAA SISTEMA DE MONTAJE TRIANGULAR CUBIERTA PANEL 3G+NAVE METALICA0003_@2x.jpg",
+                "image-alt": "Sistema triangolare aperto in alluminio"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti piani e in metallo a bassa pendenza, con montaggio inclinato rispetto alla superficie del tetto.",
+              "Installazione su tutti i tipi di tetto, su triangoli preassemblati con inclinazione fissa da 5° fino a 35°.",
+              "Orientamento dei pannelli a ritratto (verticale).",
+              "Possibilità di fissare direttamente il sistema alla sottostruttura, mediante l'ancoraggio diretto dei piedi di supporto dei triangoli.",
+              "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
+              "Unione longitudinale tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
+              "Montaggio tra profili e triangoli con soluzioni preassemblate a fissaggio rapido.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili con tutti i sistemi di montaggio."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-A",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "ST-PTC",
+            "description": "Sistema triangolare chiuso in alluminio",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0000_@2x.jpg",
+                "image-alt": "Sistema triangolare chiuso in alluminio"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0001_@2x.jpg",
+                "image-alt": "Sistema triangolare chiuso in alluminio"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0002_@2x.jpg",
+                "image-alt": "Sistema triangolare chiuso in alluminio"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_.jpg",
+                "image2x": "assets/images/TPAC SISTEMA DE MONTAJE TRIANGULAR ZUNCHOS DE HORMIGON0003_@2x.jpg",
+                "image-alt": "Sistema triangolare chiuso in alluminio"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti piani e in metallo a bassa pendenza, con montaggio inclinato rispetto alla superficie del tetto.",
+              "Installazione su tutti i tipi di tetto, su triangoli preassemblati con inclinazione fissa da 5° fino a 35°.",
+              "Orientamento dei pannelli a ritratto (verticale).",
+              "Possibilità di fissare direttamente il sistema alla sottostruttura, mediante l'ancoraggio diretto dei piedi di supporto dei triangoli.",
+              "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
+              "Unione longitudinale tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
+              "Montaggio tra profili e triangoli con soluzioni preassemblate a fissaggio rapido."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-C",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
+            ]
+          },
+          {
+            "title": "ST-PSC",
+            "description": "Sistema triangolare con profilo in alluminio PSE-C. Fissaggio assemblato",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_.jpg",
+                "image2x": "assets/images/ST-PSC SISTEMA DE MONTAJE TRIANGULAR0001_@2x.jpg",
+                "image-alt": "Sistema triangolare con profilo in alluminio PSE-C. Fissaggio assemblato"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_.jpg",
+                "image2x": "assets/images/ST-PSC- CUBIERTA PANEL 3G+NAVE METALICA_0000_@2x.jpg",
+                "image-alt": "Sistema triangolare con profilo in alluminio PSE-C. Fissaggio assemblato"
+              }
+            ],
+            "qualities-list": [
+              "Sistema per tetti piani e a bassa pendenza, montato parallelamente alla superficie del tetto.",
+              "Installazione su tutti i tipi di tetto, su triangoli preassemblati con inclinazione regolabile a 25°, 30° e 35°.",
+              "Orientamento dei pannelli a ritratto (verticale).",
+              "Possibilità di fissare direttamente il sistema alla sottostruttura, mediante l'ancoraggio diretto dei piedi di supporto dei triangoli.",
+              "Possibilità di fissare il sistema assemblato su una struttura ausiliaria di profili solari ancorata alla sottostruttura, mediante dadi a fissaggio rapido montati sui piedi di supporto dei triangoli.",
+              "Profilo disposto in modo continuo per semplificare la pianificazione dell'installazione.",
+              "Unione longitudinale tra i profili mediante profilo interno e viti autoperforanti, senza interferire con il fissaggio dei pannelli.",
+              "Montaggio tra profili e triangoli con soluzioni preassemblate a fissaggio rapido.",
+              "Fissaggio di pannelli con soluzioni innovative, altamente affidabili e facili da installare, intercambiabili con tutti i sistemi di montaggio."
+            ],
+            "components": [
+              "DIN-7504-K-A2",
+              "GM-A",
+              "KFR-SC",
+              "TPA-R",
+              "KFS-FC",
+              "PSE-CUN",
+              "PSE-C"
             ]
           }
         ]
