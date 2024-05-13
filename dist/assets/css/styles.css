@@ -399,7 +399,7 @@ h2 {
   color: var(--color-black);
 }
 .index-card__title--special {
-  padding-top: 1.25rem;
+  /*padding-top: 1.25rem;*/
 }
 /* .index-card__title:hover {
   color: var(--color-secundary);
@@ -519,6 +519,7 @@ h2 {
 }
 .index-card__regulations--right-alignment{
   justify-content: flex-end;
+  padding-top: 1.25rem;
 }
 .index-card__regulations > .index-card__regulations {
   margin-left: 0;
