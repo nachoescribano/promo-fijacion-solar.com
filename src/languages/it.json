@@ -1202,6 +1202,23 @@
   "solar-kits-section": {
     "title": "Tipi di kit solari",
     "more-info": "Ulteriori informazioni",
+    "material-cover": {
+      "ce": {
+        "image": "assets/images/HO_CE_24.png",
+        "image2x": "assets/images/HO_CE_24@2x.png",
+        "image-alt": "Marchio CE"
+      },
+      "al": {
+        "image": "assets/images/MAT_ALU.png",
+        "image2x": "assets/images/MAT_ALU@2x.png",
+        "image-alt": "Alluminio"
+      },
+      "atl": {
+        "image": "assets/images/RP_ATLANTIS C4-M.png",
+        "image2x": "assets/images/RP_ATLANTIS C4-M@2x.png",
+        "image-alt": "Atlantis C4-M"
+      }
+    },
     "solar-kits-cards": [
       {
         "title": "KC-GPD",
@@ -1209,7 +1226,8 @@
         "image": "assets/images/KC-GPD.jpg",
         "image2x": "assets/images/KC-GPD@2x.jpg",
         "image-alt": "KC-GPD. Complanare con guida forata in Atlantis C4-M INDEXTRUT SOLAR GP-XS. Formato guida discontinua.",
-        "url": "https://www.indexfix.com/prodotto/kc-gpd-complanare-con-guida-forata-atlantis-c4-m-indextrut-solar-gp-xs-formato-guida-discontinua"
+        "url": "https://www.indexfix.com/prodotto/kc-gpd-complanare-con-guida-forata-atlantis-c4-m-indextrut-solar-gp-xs-formato-guida-discontinua",
+        "logos": ["atl"]
       },
       {
         "title": "KC-GPX",
@@ -1217,7 +1235,8 @@
         "image": "assets/images/KC-GPX.jpg",
         "image2x": "assets/images/KC-GPX@2x.jpg",
         "image-alt": "KC-GPX. Complanare con guida forata in acciaio Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
-        "url": "https://www.indexfix.com/produkte/11584-KC-GPX-koplanar-mit-perforierter-stahlschiene-atlantis-c4-m-indextrut-solar-gp-xs"
+        "url": "https://www.indexfix.com/produkte/11584-KC-GPX-koplanar-mit-perforierter-stahlschiene-atlantis-c4-m-indextrut-solar-gp-xs",
+        "logos": ["atl"]
       },
       {
         "title": "KC-PSA",
@@ -1225,7 +1244,8 @@
         "image": "assets/images/KC-PSA.jpg",
         "image2x": "assets/images/KC-PSA@2x.jpg",
         "image-alt": "KC-PSA. Complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto.",
-        "url": "https://www.indexfix.com/prodotto/kc-psa-complanare-con-profilo-alare-in-alluminio-%28psa-a%29-attacco-diretto"
+        "url": "https://www.indexfix.com/prodotto/kc-psa-complanare-con-profilo-alare-in-alluminio-%28psa-a%29-attacco-diretto",
+        "logos": ["ce","al"]
       },
       {
         "title": "KC-PSC",
@@ -1233,7 +1253,8 @@
         "image": "assets/images/KC-PSC.jpg",
         "image2x": "assets/images/KC-PSC@2x.jpg",
         "image-alt": "KC-PSC. Complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale.",
-        "url": "https://www.indexfix.com/prodotto/kc-psc-complanare-con-profilo-in-alluminio-pse-c-fissaggio-assemblato-laterale"
+        "url": "https://www.indexfix.com/prodotto/kc-psc-complanare-con-profilo-in-alluminio-pse-c-fissaggio-assemblato-laterale",
+        "logos": ["ce","al"]
       },
       {
         "title": "KC-PSD",
@@ -1241,7 +1262,8 @@
         "image": "assets/images/KC-PSD.jpg",
         "image2x": "assets/images/KC-PSD@2x.jpg",
         "image-alt": "IKC-PSD. Complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto a profilo discontinuo.",
-        "url": "https://www.indexfix.com/prodotto/kc-psd-complanare-con-profilo-alare-in-alluminio-%28psa-a%29-attacco-diretto-formato-profilo-discontinuo"
+        "url": "https://www.indexfix.com/prodotto/kc-psd-complanare-con-profilo-alare-in-alluminio-%28psa-a%29-attacco-diretto-formato-profilo-discontinuo",
+        "logos": ["ce","al"]
       },
       {
         "title": "KT-GPX",
@@ -1249,7 +1271,8 @@
         "image": "assets/images/KT-GPX.jpg",
         "image2x": "assets/images/KT-GPX@2x.jpg",
         "image-alt": "KT-GPX. Triangolare con guida forata Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
-        "url": "https://www.indexfix.com/prodotto/kt-gpx-triangolare-con-guida-forata-atlantis-c4-m-indextrut-solar-gp-xs"
+        "url": "https://www.indexfix.com/prodotto/kt-gpx-triangolare-con-guida-forata-atlantis-c4-m-indextrut-solar-gp-xs",
+        "logos": ["atl"]
       },
       {
         "title": "KT-PSE",
@@ -1257,7 +1280,8 @@
         "image": "assets/images/KT-PSE.jpg",
         "image2x": "assets/images/KT-PSE@2x.jpg",
         "image-alt": "KT-PSE. Triangolare con profilo in alluminio PSE-A. Fissaggio assemblato.",
-        "url": "https://www.indexfix.com/prodotto/kt-pse-triangolare-con-profilo-in-alluminio-pse-a-fissaggio-assemblato"
+        "url": "https://www.indexfix.com/prodotto/kt-pse-triangolare-con-profilo-in-alluminio-pse-a-fissaggio-assemblato",
+        "logos": ["ce","al"]
       }
     ]
   },

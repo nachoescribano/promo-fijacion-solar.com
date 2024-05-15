@@ -1202,6 +1202,23 @@
   "solar-kits-section": {
     "title": "Typen von Solarsets",
     "more-info": "Mehr Information",
+    "material-cover": {
+      "ce": {
+        "image": "assets/images/HO_CE_24.png",
+        "image2x": "assets/images/HO_CE_24@2x.png",
+        "image-alt": "CE-Kennzeichnung"
+      },
+      "al": {
+        "image": "assets/images/MAT_ALU.png",
+        "image2x": "assets/images/MAT_ALU@2x.png",
+        "image-alt": "Aluminium"
+      },
+      "atl": {
+        "image": "assets/images/RP_ATLANTIS C4-M.png",
+        "image2x": "assets/images/RP_ATLANTIS C4-M@2x.png",
+        "image-alt": "Atlantis C4-M"
+      }
+    },
     "solar-kits-cards": [
       {
         "title": "KC-GPD",
@@ -1209,7 +1226,8 @@
         "image": "assets/images/KC-GPD.jpg",
         "image2x": "assets/images/KC-GPD@2x.jpg",
         "image-alt": "KC-GPD. Koplanar mit gelochter Führung Atlantis C4-M INDEXTRUT SOLAR GP-XS. Diskontinuierliches Führungsformat.",
-        "url": "https://www.indexfix.com/produkte/11583-KC-GPD-koplanar-mit-perforierter-fuhrung-atlantis-c4-m-indextrut-solar-gp-xs-diskontinuierliches-fuhrungsformat"
+        "url": "https://www.indexfix.com/produkte/11583-KC-GPD-koplanar-mit-perforierter-fuhrung-atlantis-c4-m-indextrut-solar-gp-xs-diskontinuierliches-fuhrungsformat",
+        "logos": ["atl"]
       },
       {
         "title": "KC-GPX",
@@ -1217,7 +1235,8 @@
         "image": "assets/images/KC-GPX.jpg",
         "image2x": "assets/images/KC-GPX@2x.jpg",
         "image-alt": "KC-GPX. Koplanar mit gelochter Führung aus Stahl Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
-        "url": "https://www.indexfix.com/produkte/11584-KC-GPX-koplanar-mit-perforierter-stahlschiene-atlantis-c4-m-indextrut-solar-gp-xs"
+        "url": "https://www.indexfix.com/produkte/11584-KC-GPX-koplanar-mit-perforierter-stahlschiene-atlantis-c4-m-indextrut-solar-gp-xs",
+        "logos": ["atl"]
       },
       {
         "title": "KC-PSA",
@@ -1225,7 +1244,8 @@
         "image": "assets/images/KC-PSA.jpg",
         "image2x": "assets/images/KC-PSA@2x.jpg",
         "image-alt": "KC-PSA. Koplanar mit Aluminium-Flügelprofil (PSA-A). Direktbefestigung.",
-        "url": "https://www.indexfix.com/produkte/11587-KC-PSA-koplanar-mit-aluminium-flugelprofil-psa-a-direkte-befestigung"
+        "url": "https://www.indexfix.com/produkte/11587-KC-PSA-koplanar-mit-aluminium-flugelprofil-psa-a-direkte-befestigung",
+        "logos": ["ce","al"]
       },
       {
         "title": "KC-PSC",
@@ -1233,7 +1253,8 @@
         "image": "assets/images/KC-PSC.jpg",
         "image2x": "assets/images/KC-PSC@2x.jpg",
         "image-alt": "KC-PSC. Koplanar mit Aluminiumprofil PSE-C. Seitlich montierte Befestigung.",
-        "url": "https://www.indexfix.com/produkte/kc-psc-koplanar-mit-pse-c-aluminiumprofil-seitliche-halterungen"
+        "url": "https://www.indexfix.com/produkte/kc-psc-koplanar-mit-pse-c-aluminiumprofil-seitliche-halterungen",
+        "logos": ["ce","al"]
       },
       {
         "title": "KC-PSD",
@@ -1241,7 +1262,8 @@
         "image": "assets/images/KC-PSD.jpg",
         "image2x": "assets/images/KC-PSD@2x.jpg",
         "image-alt": "IKC-PSD. Koplanar mit Aluminium-Flügelprofil (PSA-A). Direkte Befestigung des diskontinuierlichen Profilformats.",
-        "url": "https://www.indexfix.com/produkte/11586-KC-PSD-koplanar-mit-aluminium-flanschprofil-psa-a-direktbefestigung-mit-diskontinuierlichem-profilformat"
+        "url": "https://www.indexfix.com/produkte/11586-KC-PSD-koplanar-mit-aluminium-flanschprofil-psa-a-direktbefestigung-mit-diskontinuierlichem-profilformat",
+        "logos": ["ce","al"]
       },
       {
         "title": "KT-GPX",
@@ -1249,7 +1271,8 @@
         "image": "assets/images/KT-GPX.jpg",
         "image2x": "assets/images/KT-GPX@2x.jpg",
         "image-alt": "KT-GPX. Dreieckig mit gelochter Führung Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
-        "url": "https://www.indexfix.com/produkte/11581-KT-GPX-dreieckig-mit-atlantis-c4-m-indextrut-solar-gp-xs-lochschiene"
+        "url": "https://www.indexfix.com/produkte/11581-KT-GPX-dreieckig-mit-atlantis-c4-m-indextrut-solar-gp-xs-lochschiene",
+        "logos": ["atl"]
       },
       {
         "title": "KT-PSE",
@@ -1257,7 +1280,8 @@
         "image": "assets/images/KT-PSE.jpg",
         "image2x": "assets/images/KT-PSE@2x.jpg",
         "image-alt": "KT-PSE. Dreieckig mit Aluminiumprofil PSE-A. Montierte Befestigung.",
-        "url": "https://www.indexfix.com/produkte/11582-KT-PSE-dreieckig-mit-pse-a-aluminiumprofil-montierte-befestigung"
+        "url": "https://www.indexfix.com/produkte/11582-KT-PSE-dreieckig-mit-pse-a-aluminiumprofil-montierte-befestigung",
+        "logos": ["ce","al"]
       }
     ]
   },

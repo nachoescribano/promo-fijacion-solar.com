@@ -1202,6 +1202,23 @@
   "solar-kits-section": {
     "title": "Tipos de Kits Solares",
     "more-info": "Mais informações",
+    "material-cover": {
+      "ce": {
+        "image": "assets/images/HO_CE_24.png",
+        "image2x": "assets/images/HO_CE_24@2x.png",
+        "image-alt": "Marca CE"
+      },
+      "al": {
+        "image": "assets/images/MAT_ALU.png",
+        "image2x": "assets/images/MAT_ALU@2x.png",
+        "image-alt": "Alumínio"
+      },
+      "atl": {
+        "image": "assets/images/RP_ATLANTIS C4-M.png",
+        "image2x": "assets/images/RP_ATLANTIS C4-M@2x.png",
+        "image-alt": "Atlantis C4-M"
+      }
+    },
     "solar-kits-cards": [
       {
         "title": "KC-GPD",
@@ -1209,7 +1226,8 @@
         "image": "assets/images/KC-GPD.jpg",
         "image2x": "assets/images/KC-GPD@2x.jpg",
         "image-alt": "KC-GPD. Coplanar com guia perfurada Atlantis C4-M INDEXTRUT SOLAR GP-XS. Formato guia descontínua.",
-        "url": "https://www.indexfix.com/produto/11583-KC-GPD-coplanar-com-perfil-perfurado-atlantis-c4-m-indextrut-solar-gp-xs-formato-de-guia-descontinuo"
+        "url": "https://www.indexfix.com/produto/11583-KC-GPD-coplanar-com-perfil-perfurado-atlantis-c4-m-indextrut-solar-gp-xs-formato-de-guia-descontinuo",
+        "logos": ["atl"]
       },
       {
         "title": "KC-GPX",
@@ -1217,7 +1235,8 @@
         "image": "assets/images/KC-GPX.jpg",
         "image2x": "assets/images/KC-GPX@2x.jpg",
         "image-alt": "KC-GPX. Coplanar com guia perfurada de aço Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
-        "url": "https://www.indexfix.com/produto/11584-KC-GPX-coplanar-com-perfil-de-aco-perfurado-atlantis-c4-m-indextrut-solar-gp-xs"
+        "url": "https://www.indexfix.com/produto/11584-KC-GPX-coplanar-com-perfil-de-aco-perfurado-atlantis-c4-m-indextrut-solar-gp-xs",
+        "logos": ["atl"]
       },
       {
         "title": "KC-PSA",
@@ -1225,7 +1244,8 @@
         "image": "assets/images/KC-PSA.jpg",
         "image2x": "assets/images/KC-PSA@2x.jpg",
         "image-alt": "KC-PSA. Coplanar com perfil com asas de alumínio (PSA-A). Fixação direta.",
-        "url": "https://www.indexfix.com/produto/11587-KC-PSA-coplanar-com-perfil-de-asa-de-aluminio-psa-a-fixacao-directa"
+        "url": "https://www.indexfix.com/produto/11587-KC-PSA-coplanar-com-perfil-de-asa-de-aluminio-psa-a-fixacao-directa",
+        "logos": ["ce","al"]
       },
       {
         "title": "KC-PSC",
@@ -1233,7 +1253,8 @@
         "image": "assets/images/KC-PSC.jpg",
         "image2x": "assets/images/KC-PSC@2x.jpg",
         "image-alt": "KC-PSC. Coplanar com perfil de alumínio PSE-C. Fixação montada lateral.",
-        "url": "https://www.indexfix.com/produto/kc-psc-coplanar-com-perfil-de-aluminio-pse-c-suportes-de-montagem-lateral"
+        "url": "https://www.indexfix.com/produto/kc-psc-coplanar-com-perfil-de-aluminio-pse-c-suportes-de-montagem-lateral",
+        "logos": ["ce","al"]
       },
       {
         "title": "KC-PSD",
@@ -1241,7 +1262,8 @@
         "image": "assets/images/KC-PSD.jpg",
         "image2x": "assets/images/KC-PSD@2x.jpg",
         "image-alt": "IKC-PSD. Coplanar com perfil com asas de alumínio (PSA-A). Fixação direta formato de perfil descontínuo.",
-        "url": "https://www.indexfix.com/produto/11586-KC-PSD-coplanar-com-perfil-de-flange-de-aluminio-psa-a-fixacao-directa-com-formato-de-perfil-descontinuo"
+        "url": "https://www.indexfix.com/produto/11586-KC-PSD-coplanar-com-perfil-de-flange-de-aluminio-psa-a-fixacao-directa-com-formato-de-perfil-descontinuo",
+        "logos": ["ce","al"]
       },
       {
         "title": "KT-GPX",
@@ -1249,7 +1271,8 @@
         "image": "assets/images/KT-GPX.jpg",
         "image2x": "assets/images/KT-GPX@2x.jpg",
         "image-alt": "KT-GPX. Triangular com guia perfurada Atlantis C4-M INDEXTRUT SOLAR GP-XS.",
-        "url": "https://www.indexfix.com/produto/11581-KT-GPX-triangular-com-atlantis-c4-m-indextrut-solar-gp-xs-com-perfil-perfurado"
+        "url": "https://www.indexfix.com/produto/11581-KT-GPX-triangular-com-atlantis-c4-m-indextrut-solar-gp-xs-com-perfil-perfurado",
+        "logos": ["atl"]
       },
       {
         "title": "KT-PSE",
@@ -1257,7 +1280,8 @@
         "image": "assets/images/KT-PSE.jpg",
         "image2x": "assets/images/KT-PSE@2x.jpg",
         "image-alt": "KT-PSE. Triangular com perfil de alumínio PSE-A. Fixação montada.",
-        "url": "https://www.indexfix.com/produto/11582-KT-PSE-triangular-com-perfil-de-aluminio-pse-a-fixacao-montada"
+        "url": "https://www.indexfix.com/produto/11582-KT-PSE-triangular-com-perfil-de-aluminio-pse-a-fixacao-montada",
+        "logos": ["ce","al"]
       }
     ]
   },
