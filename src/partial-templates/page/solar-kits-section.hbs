@@ -31,12 +31,14 @@
                                     <picture class="index-card__regulation-item-picture">
                                       <source
                                         class="index-card__regulation-item {{#ifEqual ../this "ce"}}index-card__regulation-item--full-height--CE{{else}}index-card__regulation-item--full-height{{/ifEqual}}"
+                                        {{!-- class="index-card__regulation-item index-card__regulation-item--full-height" --}}
                                         srcset="{{image2x}}"
                                         media="(min-width: 768px)"
                                       />
                                       <img
                                         alt="{{image-alt}}"
                                         class="index-card__regulation-item {{#ifEqual ../this "ce"}}index-card__regulation-item--full-height--CE{{else}}index-card__regulation-item--full-height{{/ifEqual}}"
+                                        {{!-- class="index-card__regulation-item index-card__regulation-item--full-height" --}}
                                         src="{{image}}"
                                       />
                                     </picture>
