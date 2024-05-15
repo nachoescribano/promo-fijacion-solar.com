@@ -25,6 +25,24 @@
                       src="{{image}}"
                     />
                   </picture>
+                  <div class="index-card__regulations index-card__regulations--right-alignment">
+                              {{#each logos}}
+                                  {{#with (getContentOf this ../../material-cover)}}
+                                    <picture class="index-card__regulation-item-picture">
+                                      <source
+                                        class="index-card__regulation-item {{#ifEqual ../this "ce"}}index-card__regulation-item--full-height--CE{{else}}index-card__regulation-item--full-height{{/ifEqual}}"
+                                        srcset="{{image2x}}"
+                                        media="(min-width: 768px)"
+                                      />
+                                      <img
+                                        alt="{{image-alt}}"
+                                        class="index-card__regulation-item {{#ifEqual ../this "ce"}}index-card__regulation-item--full-height--CE{{else}}index-card__regulation-item--full-height{{/ifEqual}}"
+                                        src="{{image}}"
+                                      />
+                                    </picture>
+                                  {{/with}}
+                              {{/each}}
+                  </div>
                   <h3 class="index-card__title index-card__title--black index-card__title--special  mb-0">
                     {{title}}
                   </h3>
