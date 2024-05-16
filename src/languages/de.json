@@ -1282,6 +1282,15 @@
         "image-alt": "KT-PSE. Dreieckig mit Aluminiumprofil PSE-A. Montierte Befestigung.",
         "url": "https://www.indexfix.com/produkte/11582-KT-PSE-dreieckig-mit-pse-a-aluminiumprofil-montierte-befestigung",
         "logos": ["ce","al"]
+      },
+      {
+        "title": "KT-PSC",
+        "description": "Dreieckig mit Aluminiumprofil PSE-C. Montierte Befestigung.",
+        "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+        "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+        "image-alt": "KT-PSC. Dreieckig mit Aluminiumprofil PSE-C. Montierte Befestigung.",
+        "url": "https://www.indexfix.com/de/produkte/kt-psc-dreieckig-mit-pse-c-aluminiumprofil-montierte-befestigung",
+        "logos": ["ce","al"]
       }
     ]
   },

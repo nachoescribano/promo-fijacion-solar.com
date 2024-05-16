@@ -1282,6 +1282,15 @@
         "image-alt": "KT-PSE. Triangolare con profilo in alluminio PSE-A. Fissaggio assemblato.",
         "url": "https://www.indexfix.com/prodotto/kt-pse-triangolare-con-profilo-in-alluminio-pse-a-fissaggio-assemblato",
         "logos": ["ce","al"]
+      },
+      {
+        "title": "KT-PSC",
+        "description": "Triangolare con profilo in alluminio PSE-C. Fissaggio assemblato.",
+        "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+        "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+        "image-alt": "KT-PSC. Triangolare con profilo in alluminio PSE-C. Fissaggio assemblato.",
+        "url": "https://www.indexfix.com/it/prodotto/kt-psc-triangolare-con-profilo-in-alluminio-pse-c-fissaggio-assemblato",
+        "logos": ["ce","al"]
       }
     ]
   },

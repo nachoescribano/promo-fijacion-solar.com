@@ -537,6 +537,10 @@ h2 {
   height: 100%;
 }
 
+.index-card__regulation-item--full-height--CE {
+  height: 80%;
+}
+
 .index-card__regulation-item--full-width {
   width: 100%;
 }

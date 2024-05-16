@@ -1282,6 +1282,15 @@
         "image-alt": "KT-PSE. Triangular with PSE-A aluminium profile. Pre-assembled fixing.",
         "url": "https://www.indexfix.com/product/11582-KT-PSE-triangular-with-pse-a-aluminium-profile-assembled-fixing",
         "logos": ["ce","al"]
+      },
+      {
+        "title": "KT-PSC",
+        "description": "Triangular with PSE-C aluminium profile. Pre-assembled fixing.",
+        "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+        "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+        "image-alt": "KT-PSC. Triangular with PSE-C aluminium profile. Pre-assembled fixing.",
+        "url": "https://www.indexfix.com/en/product/kt-psc-triangular-with-pse-c-aluminium-profile-assembled-fixing",
+        "logos": ["ce","al"]
       }
     ]
   },
