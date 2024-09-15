@@ -1053,6 +1053,11 @@
       }
     ]
   },
+  "app-section": {
+    "title": "INDEX Solar Fixing: A APP para simplificar e otimizar os seus projectos de instalação de painéis solares",
+    "parragraph": "Descubra a aplicação APP INDEX Solar Fixing, uma aplicação inovadora, concebida para simplificar e otimizar os seus projetos de instalação de PAINÉIS SOLARES. Com apenas algumas informações, a nossa aplicação fornecerá com rapidez e precisão as fixações e sistemas de instalação necessários para levar a cabo o seu projeto.",
+    "button-text": "Aceder à app"
+  },
   "range-section": {
     "title": "Gamas de produtos para instalações solares",
     "subtitle": "Explicar aqui que os produtos podem ser adquiridos em conjunto quando se compra um Sistema ou Kit, ou em separado. As gamas são mostradas aqui.",
