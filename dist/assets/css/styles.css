@@ -40,6 +40,15 @@
   color: var(--color-primary);
 }
 
+.body-link {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+.body-link:hover {
+  color: var(--color-primary);
+}
+
 .lead {
   font-weight: 400;
 }

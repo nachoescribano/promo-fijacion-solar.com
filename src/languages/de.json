@@ -56,6 +56,12 @@
         "image-alt": "Schulung",
         "title": "Schulung",
         "text": "Wir erteilen individuell gestaltete Schulungen, mit dem Ziel, alle Möglichkeiten und Leistungen unserer Produkte richtig nutzen zu können."
+      },
+      {
+        "image": "assets/images/icono-index-academy.svg",
+        "image-alt": "Index Academy",
+        "title": "Index Academy",
+        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtube.com/playlist?list=PLzFk7JNxcu3vlWAqXgFW7VJC7pyE_1aoF&si=HcPT48AqdIjK7S0l' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
       }
     ]
   },

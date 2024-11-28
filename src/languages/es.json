@@ -56,6 +56,12 @@
         "image-alt": "formación",
         "title": "Formación",
         "text": "Impartimos formaciones personalizadas, con el objetivo de enseñar a hacer un uso correcto de todas las posibilidades y prestaciones de nuestros productos."
+      },
+      {
+        "image": "assets/images/icono-index-academy.svg",
+        "image-alt": "Index Academy",
+        "title": "Index Academy",
+        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtube.com/playlist?list=PLzFk7JNxcu3uklq6s0e6NnnfUrewT_Mih&si=Ppbnjybm2Q6eEoXW' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
       }
     ]
   },

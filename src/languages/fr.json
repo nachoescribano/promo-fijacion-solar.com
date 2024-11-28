@@ -56,6 +56,18 @@
         "image-alt": "formation",
         "title": "Formation",
         "text": "Nous proposons des formations personnalisées, dans le but d'enseigner l'utilisation correcte de toutes les possibilités et caractéristiques de nos produits."
+      },
+      {
+        "image": "assets/images/icono-index-academy.svg",
+        "image-alt": "Index Academy",
+        "title": "Index Academy",
+        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtube.com/playlist?list=PLzFk7JNxcu3s4x5yLEL0j6S1tuDnKRlcg&si=EAHYe3uMLocgrvo5' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
+      },
+      {
+        "image": "assets/images/icono-index-academy.svg",
+        "image-alt": "Index Academy",
+        "title": "Index Academy",
+        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtube.com/playlist?list=PLzFk7JNxcu3sX-pmoxFz8VDDCa1RhkK1-&si=MLKrn0TURoLAmG6b' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
       }
     ]
   },

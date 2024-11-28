@@ -56,6 +56,12 @@
         "image-alt": "training",
         "title": "Training",
         "text": "We provide tailored training to show how to correctly use all the options and functions of our products."
+      },
+      {
+        "image": "assets/images/icono-index-academy.svg",
+        "image-alt": "Index Academy",
+        "title": "Index Academy",
+        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtube.com/playlist?list=PLzFk7JNxcu3sX-pmoxFz8VDDCa1RhkK1-&si=MLKrn0TURoLAmG6b' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
       }
     ]
   },
