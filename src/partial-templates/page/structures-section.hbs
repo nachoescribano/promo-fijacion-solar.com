@@ -67,7 +67,7 @@
                       <div class="carousel-item {{#ifFirst @index}}active{{/ifFirst}}">
                         {{#ifEqual this.type 'image'}}
                           <picture class="d-block w-100">
-                              <source
+                            <source
                               class="index-card__image index-card__image--cover"
                               srcset="{{image2x}}"
                               media="(min-width: 768px)"
@@ -78,7 +78,20 @@
                               src="{{image}}"
                             />
                           </picture>
-                          {{/ifEqual}}
+                        {{/ifEqual}}
+                        {{#ifEqual this.type 'video'}}
+                          <div class="d-block w-100" style="height: 368px;">
+                            <iframe
+                              class="w-100 h-100"
+                              src="{{video-url}}"
+                              title="{{video-title}}"
+                              frameborder="0"
+                              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                              allowfullscreen
+                              style="object-fit: cover;"
+                            ></iframe>
+                          </div>
+                        {{/ifEqual}}
                       </div>
                     {{/each}}
                     </div>
