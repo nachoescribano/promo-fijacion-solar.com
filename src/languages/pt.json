@@ -341,6 +341,11 @@
                 "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema Coplanar com perfil com asas de alumínio (PSA-A). Fixação direta"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/JCOhdh8USj4?rel=0",
+                "video-title": "SC-PSA"
               }
             ],
             "qualities-list": [
@@ -375,6 +380,11 @@
                 "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema Coplanar com perfil com asas de alumínio (PSA-A). Fixação direta com formato de perfil descontínuo"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/hUB7w_POwtk?rel=0",
+                "video-title": "SC-PSD"
               }
             ],
             "qualities-list": [
@@ -414,6 +424,11 @@
                 "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
                 "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
                 "image-alt": "Sistema Coplanar com perfil com asas de alumínio (PSA-AV). Fixação direta em vale formato de perfil descontínuo"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/g6tymnKRras?rel=0",
+                "video-title": "SC-PSV"
               }
             ],
             "qualities-list": [
@@ -513,6 +528,11 @@
                 "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
                 "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
                 "image-alt": "Sistema Coplanar com perfil de alumínio PSE-A. Fixação montada"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/oVW3yBAjaOo?rel=0",
+                "video-title": "SC-PSE"
               }
             ],
             "qualities-list": [
@@ -602,6 +622,21 @@
                 "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006.jpg",
                 "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006@2x.jpg",
                 "image-alt": "Sistema Coplanar com perfil de alumínio PSE-C. Fixação montada lateral"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/rfzAzjb35Es?rel=0",
+                "video-title": "SC-PSC-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/56_mV7LjpmM?rel=0",
+                "video-title": "SC-PSC-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/o2Q7wzAilsY?rel=0",
+                "video-title": "SC-PSC-3"
               }
             ],
             "qualities-list": [
@@ -691,6 +726,39 @@
                 "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001.jpg",
                 "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001@2x.jpg",
                 "image-alt": "Sistema Coplanar com guia perfurada de aço Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0002.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0002@2x.jpg",
+                "image-alt": "Sistema Coplanar com guia perfurada de aço Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0003.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0003@2x.jpg",
+                "image-alt": "Sistema Coplanar com guia perfurada de aço Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0004.jpg",
+                "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0004@2x.jpg",
+                "image-alt": "Sistema Coplanar com guia perfurada de aço Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/IVqRGHMjv9I?rel=0",
+                "video-title": "SC-GPX-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/E9BKHtGjpII?rel=0",
+                "video-title": "SC-GPX-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/-T9HSPdo5pw?rel=0",
+                "video-title": "SC-GPX-3"
               }
             ],
             "qualities-list": [
@@ -732,6 +800,11 @@
                 "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema Coplanar com guia perfurada Atlantis C4-M Indextrut Solar GP-XS. Formato guia descontínua"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/BwRUJEvfPPc?rel=0",
+                "video-title": "SC-GPD"
               }
             ],
             "qualities-list": [
@@ -765,6 +838,11 @@
                 "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema Coplanar com guia perfurada de aço Atlantis C4-M Indextrut Solar GP-XS. Fixação direta no vale do perfil descontínuo"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/3Zo3eNsEZIs?rel=0",
+                "video-title": "SC-GPV"
               }
             ],
             "qualities-list": [
@@ -846,6 +924,26 @@
                 "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003.jpg",
                 "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003@2x.jpg",
                 "image-alt": "Sistema triangular com perfil de alumínio PSE-A. Fixação montada"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/FSK_WOoY82c?rel=0",
+                "video-title": "ST-PSE-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/l_8Ks9-R8Tk?rel=0",
+                "video-title": "ST-PSE-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/uiKkt1sMc_k?rel=0",
+                "video-title": "ST-PSE-3"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/5n9g7A_UV0E?rel=0",
+                "video-title": "ST-PSE-4"
               }
             ],
             "qualities-list": [
@@ -896,6 +994,26 @@
                 "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
                 "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
                 "image-alt": "Sistema Triangular com guia perfurada Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/K3e1U-blnXo?rel=0",
+                "video-title": "ST-GPX-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/OOTCMoq7EBU?rel=0",
+                "video-title": "ST-GPX-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/JyqtPcfpuAA?rel=0",
+                "video-title": "ST-GPX-3"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/1C8dwdtaRfc?rel=0",
+                "video-title": "ST-GPX-4"
               }
             ],
             "qualities-list": [

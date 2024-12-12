@@ -335,6 +335,11 @@
                 "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/EEmG13tyTe4?rel=0",
+                "video-title": "SC-PSA"
               }
             ],
             "qualities-list": [
@@ -369,6 +374,11 @@
                 "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema complanare con profilo con alette in alluminio (PSA-A). Fissaggio diretto a profilo discontinuo"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/fPmQo9IElyw?rel=0",
+                "video-title": "SC-PSD"
               }
             ],
             "qualities-list": [
@@ -408,6 +418,11 @@
                 "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
                 "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
                 "image-alt": "Sistema complanare con profilo ad alette in alluminio (PSA- AV). Fissaggio diretto in vallata a profilo discontinuo"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/B_bgMS64XbE?rel=0",
+                "video-title": "SC-PSV"
               }
             ],
             "qualities-list": [
@@ -507,6 +522,11 @@
                 "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
                 "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
                 "image-alt": "Sistema complanare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/mfLtdoj0Ens?rel=0",
+                "video-title": "SC-PSE"
               }
             ],
             "qualities-list": [
@@ -596,6 +616,21 @@
                 "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006.jpg",
                 "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006@2x.jpg",
                 "image-alt": "Sistema complanare con profilo in alluminio PSE-C. Fissaggio assemblato laterale"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/PscH45sozM8?rel=0",
+                "video-title": "SC-PSC-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/RbMmRNW7nR8?rel=0",
+                "video-title": "SC-PSC-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/RbMmRNW7nR8?rel=0",
+                "video-title": "SC-PSC-3"
               }
             ],
             "qualities-list": [
@@ -685,6 +720,21 @@
                 "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001.jpg",
                 "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001@2x.jpg",
                 "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS."
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/hRxp7zHI_Gg?rel=0",
+                "video-title": "SC-GPX-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/SsIILVmtMk0?rel=0",
+                "video-title": "SC-GPX-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/bLaTLHnpRN8?rel=0",
+                "video-title": "SC-GPX-3"
               }
             ],
             "qualities-list": [
@@ -726,6 +776,11 @@
                 "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema complanare con guida forata Atlantis C4-M Indextrut Solar GP-XS. Formato guida discontinua"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/S6x8uvUqVyc?rel=0",
+                "video-title": "SC-GPD"
               }
             ],
             "qualities-list": [
@@ -759,6 +814,11 @@
                 "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema complanare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS. Fissaggio diretto a valle con profilo discontinuo"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/mbPAzQggvCQ?rel=0",
+                "video-title": "SC-GPV"
               }
             ],
             "qualities-list": [
@@ -840,6 +900,26 @@
                 "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003.jpg",
                 "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003@2x.jpg",
                 "image-alt": "Sistema triangolare con profilo in alluminio PSE-A. Fissaggio assemblato"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/6w43AXT_inw?rel=0",
+                "video-title": "ST-PSE-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/P-RDUOtXlMI?rel=0",
+                "video-title": "ST-PSE-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/oNN_YX8YGfs?rel=0",
+                "video-title": "ST-PSE-3"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/ZsOpkQRj8kY?rel=0",
+                "video-title": "ST-PSE-4"
               }
             ],
             "qualities-list": [
@@ -856,7 +936,7 @@
             "components": [
               "DIN-7504-K-A2",
               "GM-A",
-              "KFR-SC﻿",
+              "KFR-SC",
               "TPA-R﻿",
               "KFS-FL﻿",
               "PSE-UN﻿",
@@ -890,6 +970,26 @@
                 "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
                 "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
                 "image-alt": "Sistema triangolare con guida forata in acciaio Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/cAg5pizmEp0?rel=0",
+                "video-title": "ST-GPX-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/o49x_I_e41c?rel=0",
+                "video-title": "ST-GPX-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/p-NutswCYvc?rel=0",
+                "video-title": "ST-GPX-3"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/inSTY3DQqUE?rel=0",
+                "video-title": "ST-GPX-4"
               }
             ],
             "qualities-list": [
@@ -910,7 +1010,7 @@
               "KFR-SC﻿",
               "DIN-6921 A2",
               "TU-RX A2",
-              "TRP-XS﻿",
+              "TRP-XS",
               "EMP-XS﻿",
               "GP-XS"
             ]
@@ -1090,7 +1190,7 @@
       },
       {
         "title": "TRIANGOLI",
-        "description": "Per l’installazione di pannelli solari",
+        "description": "Per l'installazione di pannelli solari",
         "image": "assets/images/TPA-R.jpg",
         "image2x": "assets/images/TPA-R@2x.jpg",
         "image-alt": "Triangoli",
@@ -1098,7 +1198,7 @@
       },
       {
         "title": "ACCESSORI REGOLABILI",
-        "description": "Per l’installazione di pannelli solari",
+        "description": "Per l'installazione di pannelli solari",
         "image": "assets/images/KFS-RV.jpg",
         "image2x": "assets/images/KFS-RV@2x.jpg",
         "image-alt": "Accessori regolabili",
@@ -1106,7 +1206,7 @@
       },
       {
         "title": "ACCESSORI A FISSAGGIO DIRETTO",
-        "description": "Per l’installazione di pannelli solari",
+        "description": "Per l'installazione di pannelli solari",
         "image": "assets/images/TAC.jpg",
         "image2x": "assets/images/TAC@2x.jpg",
         "image-alt": "Accessori a fissaggio diretto",
@@ -1127,7 +1227,7 @@
     "subtitle": "I kit sono adatti per installazioni complanari o triangolari e comprendono gli elementi necessari per completare l'intero processo di montaggio",
     "image-alt": "Scatola kit solare davanti all'impianto solare",
     "p-1": "Abbiamo <strong>kit per 2 o 3 pannelli (kit originali)</strong> per i diversi tipi di supporti per pannelli solari (complanari e triangolari). <strong>kit per 2 o 3 pannelli (kit originali)</strong>, che consentono di aumentare il numero di pannelli da installare, ma senza incorrere in costi inutili.",
-    "p-2": "I kit di espansione contengono tutto il necessario per ampliare l’installazione, ma <strong>eliminano i prodotti non necessari</strong> (graffe e calibri doppi), riducendo così i costi ed evitando gli sprechi.",
+    "p-2": "I kit di espansione contengono tutto il necessario per ampliare l'installazione, ma <strong>eliminano i prodotti non necessari</strong> (graffe e calibri doppi), riducendo così i costi ed evitando gli sprechi.",
     "question-number-solar-panels": "Quanti pannelli solari volete unire? Selezionare il numero di pannelli",
     "origin-kit-text": "Kit originale",
     "extension-kit-text": "Kit di espansione",
@@ -1307,7 +1407,7 @@
     "materials-cards": [
       {
         "title": "Fissaggi metallici",
-        "description": "Ancoraggi metallici a espansione o ancoraggi a battere in acciaio al carbonio e acciaio inossidabile, omologati per l’installazione di elementi di calcestruzzo fessurato, calcestruzzo non fessurato, carichi sismici o resistenza al fuoco R30-R120 in calcestruzzo.",
+        "description": "Ancoraggi metallici a espansione o ancoraggi a battere in acciaio al carbonio e acciaio inossidabile, omologati per l'installazione di elementi di calcestruzzo fessurato, calcestruzzo non fessurato, carichi sismici o resistenza al fuoco R30-R120 in calcestruzzo.",
         "image": "assets/images/anclajes-metalicos.jpg",
         "image2x": "assets/images/anclajes-metalicos@2x.jpg",
         "image-alt": "Fissaggi metallici",
@@ -1339,7 +1439,7 @@
       },
       {
         "title": "Morsetti di plastica",
-        "description": "Le fascette di Nylon® e i morsetti in plastica sono prodotti fortemente richiesti nel mondo dell’installazione professionale.",
+        "description": "Le fascette di Nylon® e i morsetti in plastica sono prodotti fortemente richiesti nel mondo dell'installazione professionale.",
         "image": "assets/images/abrazaderas.jpg",
         "image2x": "assets/images/abrazaderas@2x.jpg",
         "image-alt": "Morsetti di plastica",
@@ -1360,7 +1460,7 @@
     "message": "Messaggio/Domanda",
     "personal-data": "Accetto il trattamento dei miei dati personali da parte del personale tecnico di Técnicas Expansivas SL (CIF B-26220491) affinché possano contattarmi esclusivamente per formazione e consulenza tecnica sui prodotti.",
     "legal-data": "Ho letto e accetto l'<a href='https://www.indexfix.com/avviso' target='_blank' class='index-link'>Avviso legale</a> e l'<a href='https://www.indexfix.com/privacy-it' target='_blank' class='index-link'>Informativa sulla privacy</a>.",
-    "description-1": "TÉCNICAS EXPANSIVAS S.L. informa che per i dati personali forniti volontariamente, le finalità, i trasferimenti previsti e altre circostanze si comunicano al momento della raccolta dei dati personali, anche se, a seconda del caso specifico, la loro finalità può essere una delle seguenti: risposta a richieste, reclami o dubbi sollevati dall’utente, mantenimento della relazione instaurata, gestione integrale e commerciale dei clienti, contabilità e fatturazione o invio di comunicazioni, anche per via elettronica, di notizie e attività relative a TÉCNICAS EXPANSIVAS S.L.",
+    "description-1": "TÉCNICAS EXPANSIVAS S.L. informa che per i dati personali forniti volontariamente, le finalità, i trasferimenti previsti e altre circostanze si comunicano al momento della raccolta dei dati personali, anche se, a seconda del caso specifico, la loro finalità può essere una delle seguenti: risposta a richieste, reclami o dubbi sollevati dall'utente, mantenimento della relazione instaurata, gestione integrale e commerciale dei clienti, contabilità e fatturazione o invio di comunicazioni, anche per via elettronica, di notizie e attività relative a TÉCNICAS EXPANSIVAS S.L.",
     "description-2": "I dati contenuti nei nostri archivi sono assolutamente confidenziali e saranno trattati con la massima riservatezza e nel rispetto di tutti i requisiti del regolamento generale sulla protezione dei dati (GDPR) del 27 aprile 2016. I dati rimarranno registrati nei nostri archivi per il tempo necessario allo scopo per il quale sono stati raccolti. Il periodo durante il quale saranno conservati i dati personali sarà quello stabilito dalla legislazione vigente e sempre per la durata per cui si presta il servizio per il quale sono stati comunicati.",
     "description-3": "Si raccomanda di non inviare dati personali di alto livello secondo la legislazione sulla protezione dei dati, come quelli relativi alla salute, poiché non vengono criptati né codificati. Quindi, la responsabilità è di chi li invia.",
     "description-4": "Gli utenti possono in qualsiasi momento esercitare i loro diritti di accesso, rettifica, opposizione, cancellazione, limitazione del trattamento o richiesta di portabilità in conformità con le disposizioni del regolamento generale sulla protezione dei dati (GDPR) del 27 aprile 2016 inviando una lettera al responsabile del trattamento: Valentín Gómez, Direttore, insieme a una fotocopia della carta d'identità, a TÉCNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logroño (La Rioja) o inviando un'e-mail al seguente indirizzo: info@indexfix.com.",
