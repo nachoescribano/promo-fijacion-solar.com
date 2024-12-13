@@ -325,6 +325,11 @@
             "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa",
             "carousel": [
               {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/JCOhdh8USj4?rel=0",
+                "video-title": "SC-PSA"
+              },
+              {
                 "type": "image",
                 "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000.jpg",
                 "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000@2x.jpg",
@@ -341,11 +346,6 @@
                 "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/JCOhdh8USj4?rel=0",
-                "video-title": "SC-PSA"
               }
             ],
             "qualities-list": [
@@ -364,6 +364,11 @@
             "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo",
             "carousel": [
               {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/hUB7w_POwtk?rel=0",
+                "video-title": "SC-PSD"
+              },
+              {
                 "type": "image",
                 "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000.jpg",
                 "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0000@2x.jpg",
@@ -380,11 +385,6 @@
                 "image": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-PSD CUBIERTA DE PANEL 4G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-A). Fijación directa con formato de perfil discontinuo"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/hUB7w_POwtk?rel=0",
-                "video-title": "SC-PSD"
               }
             ],
             "qualities-list": [
@@ -401,6 +401,11 @@
             "title": "SC-PSV",
             "description": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo",
             "carousel": [
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/g6tymnKRras?rel=0",
+                "video-title": "SC-PSV"
+              },
               {
                 "type": "image",
                 "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0000.jpg",
@@ -424,11 +429,6 @@
                 "image": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003.jpg",
                 "image2x": "assets/images/SC-PSAV - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA0003@2x.jpg",
                 "image-alt": "Sistema Coplanar con perfil con alas de aluminio (PSA-AV). Fijación directa en valle formato de perfil discontinuo"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/g6tymnKRras?rel=0",
-                "video-title": "SC-PSV"
               }
             ],
             "qualities-list": [
@@ -445,6 +445,11 @@
             "title": "SC-PSE",
             "description": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada",
             "carousel": [
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/oVW3yBAjaOo?rel=0",
+                "video-title": "SC-PSE"
+              },
               {
                 "type": "image",
                 "image": "assets/images/SC-PSE - CUBIERTA PANEL SANDWICH 2G TAPAJUNTAS+NAVE METALICA FIJACION SOPORTE TRAPEZOIDAL0000.jpg",
@@ -528,11 +533,6 @@
                 "image": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
                 "image2x": "assets/images/SC-PSE CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004@2x.jpg",
                 "image-alt": "Sistema Coplanar con perfil de aluminio PSE-A. Fijación ensamblada"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/oVW3yBAjaOo?rel=0",
-                "video-title": "SC-PSE"
               }
             ],
             "qualities-list": [
@@ -557,6 +557,21 @@
             "title": "SC-PSC",
             "description": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral",
             "carousel": [
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/rfzAzjb35Es?rel=0",
+                "video-title": "SC-PSC-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/56_mV7LjpmM?rel=0",
+                "video-title": "SC-PSC-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/o2Q7wzAilsY?rel=0",
+                "video-title": "SC-PSC-3"
+              },
               {
                 "type": "image",
                 "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0004.jpg",
@@ -622,21 +637,6 @@
                 "image": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006.jpg",
                 "image2x": "assets/images/SC-PSC CUBIERTA TEJA MIXTA+ESTRUCTURA MAMPOSTERIA-FIJACION TAMIZ QUIMICO0006@2x.jpg",
                 "image-alt": "Sistema Coplanar con perfil de aluminio PSE-C. Fijación ensamblada lateral"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/rfzAzjb35Es?rel=0",
-                "video-title": "SC-PSC-1"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/56_mV7LjpmM?rel=0",
-                "video-title": "SC-PSC-2"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/o2Q7wzAilsY?rel=0",
-                "video-title": "SC-PSC-3"
               }
             ],
             "qualities-list": [
@@ -661,6 +661,21 @@
             "title": "SC-GPX",
             "description": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS",
             "carousel": [
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/IVqRGHMjv9I?rel=0",
+                "video-title": "SC-GPX-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/E9BKHtGjpII?rel=0",
+                "video-title": "SC-GPX-2"
+              },              
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/-T9HSPdo5pw?rel=0",
+                "video-title": "SC-GPX-3"
+              },
               {
                 "type": "image",
                 "image": "assets/images/SC-GPX - CUBIERTA PANEL SANDWICH TEJA+PORCHE METALICO0000.jpg",
@@ -726,21 +741,6 @@
                 "image": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001.jpg",
                 "image2x": "assets/images/SC-GPX - CUBIERTA TEJA HORMIGON+CERCHA MADERA DETALLE MADERA0001@2x.jpg",
                 "image-alt": "Sistema Coplanar con guía perforada acero Atlantis C4-M Indextrut Solar GP-XS."
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/IVqRGHMjv9I?rel=0",
-                "video-title": "SC-GPX-1"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/E9BKHtGjpII?rel=0",
-                "video-title": "SC-GPX-2"
-              },              
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/-T9HSPdo5pw?rel=0",
-                "video-title": "SC-GPX-3"
               }
             ],
             "qualities-list": [
@@ -766,6 +766,11 @@
             "description": "Sistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua",
             "carousel": [
               {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/BwRUJEvfPPc?rel=0",
+                "video-title": "SC-GPD"
+              },
+              {
                 "type": "image",
                 "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
                 "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
@@ -782,11 +787,6 @@
                 "image": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-GPD - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "SSistema Coplanar con guía perforada Atlantis C4-M Indextrut Solar GP-XS. Formato guía discontinua"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/BwRUJEvfPPc?rel=0",
-                "video-title": "SC-GPD"
               }
             ],
             "qualities-list": [
@@ -804,6 +804,11 @@
             "description": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo",
             "carousel": [
               {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/3Zo3eNsEZIs?rel=0",
+                "video-title": "SC-GPV"
+              },
+              {
                 "type": "image",
                 "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
                 "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
@@ -820,11 +825,6 @@
                 "image": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
                 "image2x": "assets/images/SC-GPV - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
                 "image-alt": "Sistema Coplanar con guía perforada de acero Atlantis C4-M Indextrut Solar GP-XS. Fijación directa en valle perfil discontinuo"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/3Zo3eNsEZIs?rel=0",
-                "video-title": "SC-GPV"
               }
             ],
             "qualities-list": [
@@ -884,6 +884,26 @@
             "description": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada",
             "carousel": [
               {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/FSK_WOoY82c?rel=0",
+                "video-title": "ST-PSE-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/l_8Ks9-R8Tk?rel=0",
+                "video-title": "ST-PSE-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/uiKkt1sMc_k?rel=0",
+                "video-title": "ST-PSE-3"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/5n9g7A_UV0E?rel=0",
+                "video-title": "ST-PSE-4"
+              },
+              {
                 "type": "image",
                 "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
                 "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
@@ -906,26 +926,6 @@
                 "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003.jpg",
                 "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003@2x.jpg",
                 "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/FSK_WOoY82c?rel=0",
-                "video-title": "ST-PSE-1"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/l_8Ks9-R8Tk?rel=0",
-                "video-title": "ST-PSE-2"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/uiKkt1sMc_k?rel=0",
-                "video-title": "ST-PSE-3"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/5n9g7A_UV0E?rel=0",
-                "video-title": "ST-PSE-4"
               }
             ],
             "qualities-list": [
@@ -954,6 +954,26 @@
             "description": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS",
             "carousel": [
               {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/K3e1U-blnXo?rel=0",
+                "video-title": "ST-GPX-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/OOTCMoq7EBU?rel=0",
+                "video-title": "ST-GPX-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/JyqtPcfpuAA?rel=0",
+                "video-title": "ST-GPX-3"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/1C8dwdtaRfc?rel=0",
+                "video-title": "ST-GPX-4"
+              },
+              {
                 "type": "image",
                 "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
                 "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
@@ -976,26 +996,6 @@
                 "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
                 "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
                 "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/K3e1U-blnXo?rel=0",
-                "video-title": "ST-GPX-1"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/OOTCMoq7EBU?rel=0",
-                "video-title": "ST-GPX-2"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/JyqtPcfpuAA?rel=0",
-                "video-title": "ST-GPX-3"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/1C8dwdtaRfc?rel=0",
-                "video-title": "ST-GPX-4"
               }
             ],
             "qualities-list": [
