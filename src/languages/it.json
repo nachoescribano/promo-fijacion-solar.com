@@ -31,7 +31,7 @@
         "image": "assets/images/icono-futuro.svg",
         "image-alt": "futuro",
         "title": "Uno sguardo al futuro",
-        "text": "Lo sviluppo di questa nuova soluzione rappresenta una sfida che si è concretizzata in un progetto di ricerca e innovazione che ha implicato lo sfruttamento delle più recenti tecnologie in materia di materiali/rivestimenti e la necessità di progettare nuovi profili e sistemi di assemblaggio in grado di apportare innovazioni sul mercato attuale."
+        "text": "Abbiamo creato una soluzione innovativa che combina le più recenti tecnologie in materia di materiali e rivestimenti. Inoltre, progettiamo nuovi profili e sistemi di montaggio che offrono innovazioni sul mercato attuale."
       },
       {
         "image": "assets/images/icono-soporte-tecnico.svg",
@@ -43,7 +43,7 @@
         "image": "assets/images/icono-produccion-nacional-certificada-sensibilidad-ambiental.svg",
         "image-alt": "certificato",
         "title": "Produzione nazionale, certificata e rispettosa dell'ambiente",
-        "text": "Una parte significativa dei prodotti inclusi nella nostra gamma è di origine nazionale, il che è necessario per garantire l'alta qualità e i valori di innovazione richiesti."
+        "text": "La maggior parte dei prodotti inclusi nella gamma è di origine nazionale e rispetta rigorosi standard di qualità, innovazione e rispetto dell'ambiente."
       },
       {
         "image": "assets/images/icono-pequeno-usuario.svg",
@@ -55,7 +55,13 @@
         "image": "assets/images/icono-formacion.svg",
         "image-alt": "formazione",
         "title": "Formazione",
-        "text": "Forniamo una formazione personalizzata, con l'obiettivo di insegnare l'uso corretto di tutte le possibilità e le caratteristiche dei nostri prodotti."
+        "text": "Ti aiutiamo a sfruttare al meglio i nostri prodotti con una formazione personalizzata che ti aiuterà a scoprirne tutte le caratteristiche e i vantaggi."
+      },
+      {
+        "image": "assets/images/icono-index-academy.svg",
+        "image-alt": "Index Academy",
+        "title": "Index Academy",
+        "text": "Impara a installare i pannelli solari con i nostri sistemi grazie a <a href='https://youtu.be/Bv5qQDU8TPw?list=PLzFk7JNxcu3vOkb87q62N2mPaWl5SOX4V' target='_blank' class='body-link'>video tutorial</a> chiari e semplici."
       }
     ]
   },

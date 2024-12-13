@@ -31,7 +31,7 @@
         "image": "assets/images/icono-futuro.svg",
         "image-alt": "avenir",
         "title": "Le regard tourné vers l’avenir",
-        "text": "Le développement de cette nouvelle solution a été un défi sous la forme d'un projet de recherche et d'innovation qui a conduit à l'incorporation des dernières technologies en matière de matériaux/revêtements et à la nécessité de concevoir de nouveaux profils et systèmes d'assemblage qui apportent des nouveautés sur le marché actuel."
+        "text": "Nous avons créé une solution innovante qui combine les technologies de pointe en matière de matériaux et de revêtements. En outre, nous avons conçu de nouveaux profils et systèmes de montage qui proposent des nouveautés sur le marché actuel."
       },
       {
         "image": "assets/images/icono-soporte-tecnico.svg",
@@ -43,7 +43,7 @@
         "image": "assets/images/icono-produccion-nacional-certificada-sensibilidad-ambiental.svg",
         "image-alt": "certification",
         "title": "Production nationale, certifiée et avec une sensibilité environnementale",
-        "text": "Un volume important des produits inclus dans notre gamme est d'origine nationale, ce qui est nécessaire pour garantir les hautes valeurs de qualité et d'innovation requises."
+        "text": "La plupart des produits de la gamme sont d’origine nationale et répondent à des normes strictes en matière de qualité, d’innovation et de respect de l’environnement."
       },
       {
         "image": "assets/images/icono-pequeno-usuario.svg",
@@ -55,19 +55,13 @@
         "image": "assets/images/icono-formacion.svg",
         "image-alt": "formation",
         "title": "Formation",
-        "text": "Nous proposons des formations personnalisées, dans le but d'enseigner l'utilisation correcte de toutes les possibilités et caractéristiques de nos produits."
+        "text": "Nous vous aidons à tirer le meilleur parti de nos produits grâce à des formations spécialisées, conçues pour vous permettre de découvrir toutes leurs caractéristiques et avantages."
       },
       {
         "image": "assets/images/icono-index-academy.svg",
         "image-alt": "Index Academy",
         "title": "Index Academy",
-        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtube.com/playlist?list=PLzFk7JNxcu3s4x5yLEL0j6S1tuDnKRlcg&si=EAHYe3uMLocgrvo5' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
-      },
-      {
-        "image": "assets/images/icono-index-academy.svg",
-        "image-alt": "Index Academy",
-        "title": "Index Academy",
-        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtube.com/playlist?list=PLzFk7JNxcu3sX-pmoxFz8VDDCa1RhkK1-&si=MLKrn0TURoLAmG6b' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
+        "text": "Apprenez à installer des panneaux solaires en utilisant nos systèmes à l’aide de <a href='https://youtu.be/g_fD1C-XZq8?list=PLzFk7JNxcu3vOkb87q62N2mPaWl5SOX4V' target='_blank' class='body-link'>tutoriels vidéo</a> clairs et simples."
       }
     ]
   },

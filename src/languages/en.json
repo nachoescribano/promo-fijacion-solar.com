@@ -31,7 +31,7 @@
         "image": "assets/images/icono-futuro.svg",
         "image-alt": "Future",
         "title": "Looking to the future",
-        "text": "The development of this new solution has been a challenging research and innovation project that led to the incorporation of cutting-edge technologies in materials/coatings and the need to design new profiles and assembly systems to deliver innovations to today's market."
+        "text": "We have created an innovative solution that combines the latest technologies in materials and coatings. We also design new profiles and assembly systems that offer innovations to the current market."
       },
       {
         "image": "assets/images/icono-soporte-tecnico.svg",
@@ -43,7 +43,7 @@
         "image": "assets/images/icono-produccion-nacional-certificada-sensibilidad-ambiental.svg",
         "image-alt": "certified",
         "title": "Certified and environmentally friendly production in Spain",
-        "text": "A large proportion of the products included in the new range is produced in Spain, which is necessary to guarantee the high levels of quality and innovation required."
+        "text": "Many of the products included in the range are of national origin, complying with strict standards on quality, innovation and respect for the environment."
       },
       {
         "image": "assets/images/icono-pequeno-usuario.svg",
@@ -55,13 +55,13 @@
         "image": "assets/images/icono-formacion.svg",
         "image-alt": "training",
         "title": "Training",
-        "text": "We provide tailored training to show how to correctly use all the options and functions of our products."
+        "text": "We help you get the most out of our products with personalised formations, designed so that you can discover all their functions and benefits."
       },
       {
         "image": "assets/images/icono-index-academy.svg",
         "image-alt": "Index Academy",
         "title": "Index Academy",
-        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtube.com/playlist?list=PLzFk7JNxcu3sX-pmoxFz8VDDCa1RhkK1-&si=MLKrn0TURoLAmG6b' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
+        "text": "Learn to install solar panels using our systems with clear and simple <a href='https://youtu.be/Bv5qQDU8TPw?list=PLzFk7JNxcu3vOkb87q62N2mPaWl5SOX4V' target='_blank' class='body-link'>video tutorials</a> ."
       }
     ]
   },

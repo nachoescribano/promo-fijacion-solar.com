@@ -29,6 +29,7 @@
 }
 
 /* TUNE */
+/* estilo para los enlaces con tamaño menor en el texto*/
 .index-link {
   font-weight: 500;
   color: var(--color-accent);
@@ -40,7 +41,9 @@
   color: var(--color-primary);
 }
 
+/* estilo para los enlaces en el texto*/
 .body-link {
+  font-weight: 500;
   color: var(--color-accent);
   text-decoration: none;
 }

@@ -31,7 +31,7 @@
         "image": "assets/images/icono-futuro.svg",
         "image-alt": "futuro",
         "title": "Mirada al futuro",
-        "text": "El desarrollo de esta nueva solución ha sido un reto en forma de proyecto de investigación e innovación que ha dado lugar a la incorporación de las últimas tecnologías en materiales/recubrimientos y a la necesidad de diseñar nuevos perfiles y sistemas de montaje que aportasen novedades al mercado actual."
+        "text": "Hemos creado una solución innovadora que combina las últimas tecnologías en materiales y recubrimientos. Además, diseñamos nuevos perfiles y sistemas de montaje que ofrecen novedades al mercado actual."
       },
       {
         "image": "assets/images/icono-soporte-tecnico.svg",
@@ -43,7 +43,7 @@
         "image": "assets/images/icono-produccion-nacional-certificada-sensibilidad-ambiental.svg",
         "image-alt": "certificado",
         "title": "Producción nacional, certificada y con sensibilidad ambiental",
-        "text": "Un importante volumen de los productos incluidos en nuestra gama es de procedencia nacional, necesario para garantizar los altos valores de calidad e innovación requeridos."
+        "text": "Gran parte de los productos incluidos en la gama son de procedencia nacional, cumpliendo con estrictos estándares de calidad, innovación y respeto por el medio ambiente."
       },
       {
         "image": "assets/images/icono-pequeno-usuario.svg",
@@ -55,13 +55,13 @@
         "image": "assets/images/icono-formacion.svg",
         "image-alt": "formación",
         "title": "Formación",
-        "text": "Impartimos formaciones personalizadas, con el objetivo de enseñar a hacer un uso correcto de todas las posibilidades y prestaciones de nuestros productos."
+        "text": "Te ayudamos a aprovechar al máximo nuestros productos con formaciones personalizadas, diseñadas para que descubras todas sus funciones y beneficios."
       },
       {
         "image": "assets/images/icono-index-academy.svg",
         "image-alt": "Index Academy",
         "title": "Index Academy",
-        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtube.com/playlist?list=PLzFk7JNxcu3uklq6s0e6NnnfUrewT_Mih&si=Ppbnjybm2Q6eEoXW' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
+        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtu.be/aSCjWfCjOf4?list=PLzFk7JNxcu3vOkb87q62N2mPaWl5SOX4V' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
       }
     ]
   },
