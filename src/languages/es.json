@@ -16,9 +16,9 @@
   "back-to-top": "Ir al inicio",
   "show-aside": "mostrar accesos rápidos",
   "main-section": {
-    "title": "Sistemas de instalación para PANELES SOLARES: estructuras, anclajes y accesorios",
+    "title": "Sistemas de instalación y fijaciones para paneles solares",
     "image-alt": "Técnico caminando entre instalación solar sobre cubierta",
-    "p": "Las instalaciones solares necesitan la máxima fiabilidad contra los elementos externos. Por ello, en INDEX<sup>®</sup> contamos con productos de alta calidad para las estructuras para placas de acero y aluminio, así como soluciones unificadas de montaje y fijaciones que simplifican la gestión de componentes y el ensamblado de la estructura en el lugar de instalación."
+    "p": "Estructuras para placas de acero y aluminio, anclajes y accesorios que simplifican la gestión de los componentes, el ensamblado y el mantenimiento de la instalación. "
   },
   "header": {
     "url-home": "https://www.indexfix.com",
@@ -66,8 +66,8 @@
     ]
   },
   "structures-section": {
-    "title": "Estructuras para placas solares",
-    "subtitle": "Disponemos de distintas soluciones de estructuras tanto para estructuras coplanares como triangulares, dando solución a las instalaciones más comunes del mercado.",
+    "title": "Todo lo necesario para una instalación fácil y rápida de paneles solares: estructuras y kits",
+    "subtitle": "Estructuras para placas solares",
     "qualities-advantages": "Cualidades y ventajas",
     "system-components": "Componentes del Sistema",
     "systems": "Sistemas",
@@ -314,8 +314,8 @@
     },
     "types": [
       {
-        "title": "ESTRUCTURAS COPLANARES PARA PLACAS SOLARES",
-        "description": "Soportes para placas solares indicados para cubiertas inclinadas. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
+        "title": "ESTRUCTURAS COPLANARES",
+        "description": "Soportes para placas solares indicados para cubiertas inclinadas.",
         "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1.jpg",
         "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1@2x.jpg",
         "image-alt": "Estructura coplanar para placas solares",
@@ -873,8 +873,8 @@
         ]
       },
       {
-        "title": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
-        "description": "Soportes para placas solares indicados para cubiertas planas y de baja pendiente. Ofrecen una instalación sencilla y efectiva de los paneles sobre diferentes superficies, tanto en vertical como en horizontal.",
+        "title": "ESTRUCTURAS TRIANGULARES",
+        "description": "Soportes para placas solares indicados para cubiertas planas y cubiertas inclinadas.",
         "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000-1.jpg",
         "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x-1.jpg",
         "image-alt": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
@@ -1157,6 +1157,148 @@
             ]
           }
         ]
+      },
+      {
+        "title": "ESTRUCTURAS LASTRADAS",
+        "description": "Soportes para placas solares indicados para cubiertas planas y de baja pendiente, sin necesidad de perforación.",
+        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000-1.jpg",
+        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x-1.jpg",
+        "image-alt": "ESTRUCTURAS LASTRADAS PARA PLACAS SOLARES",
+        "systems": [
+          {
+            "title": "SL-SUR",
+            "description": "Sistema lastrado sur",
+            "carousel": [
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/FSK_WOoY82c?rel=0",
+                "video-title": "ST-PSE-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/l_8Ks9-R8Tk?rel=0",
+                "video-title": "ST-PSE-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/uiKkt1sMc_k?rel=0",
+                "video-title": "ST-PSE-3"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/5n9g7A_UV0E?rel=0",
+                "video-title": "ST-PSE-4"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0001.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0001@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0002.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0002@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003.jpg",
+                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003@2x.jpg",
+                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas y de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
+              "Instalación sobre triángulos preensamblados con inclinación fija de 10º o 15º.",
+              "Orientación de placas tipo paisaje (horizontal).",
+              "Posibilidad de montaje para cubiertas irregulares.",
+              "Sistema premontado para aumentar la velocidad de instalación."
+            ],
+            "components": [
+              "KFR-SC",
+              "GM-A",
+              "PLA",
+              "PLS",
+              "PLI",
+              "PLI-UN",
+              "PTL",
+              "TPL"
+            ]
+          },
+          {
+            "title": "SL-ESW",
+            "description": "Sistema lastrado este-oeste",
+            "carousel": [
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/K3e1U-blnXo?rel=0",
+                "video-title": "ST-GPX-1"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/OOTCMoq7EBU?rel=0",
+                "video-title": "ST-GPX-2"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/JyqtPcfpuAA?rel=0",
+                "video-title": "ST-GPX-3"
+              },
+              {
+                "type": "video",
+                "video-url": "https://www.youtube.com/embed/1C8dwdtaRfc?rel=0",
+                "video-title": "ST-GPX-4"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
+                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
+                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas y de baja pendiente, con montaje inclinado respecto a la superficie de cubierta.",
+              "Instalación sobre triángulos preensamblados con inclinación fija de 10º o 15º.",
+              "Orientación de placas tipo paisaje (horizontal).",
+              "Posibilidad de montaje para cubiertas irregulares.",
+              "Sistema premontado para aumentar la velocidad de instalación."
+            ],
+            "components": [
+              "KFR-SC",
+              "GM-A",
+              "PLA",
+              "PLS",
+              "PLI",
+              "PLI-UN",
+              "TPL"
+            ]
+          }         
+        ]
       }
     ]
   },
@@ -1172,7 +1314,6 @@
     "range-cards": [
       {
         "title": "GRAPAS Y GALGAS",
-        "description": "Para montaje de placas",
         "image": "assets/images/KFR-SC.jpg",
         "image2x": "assets/images/KFR-SC@2x.jpg",
         "image-alt": "Grapas y galgas",
@@ -1180,7 +1321,6 @@
       },
       {
         "title": "PERFILES, UNIONES, GUÍAS Y EMPALMES",
-        "description": "Para estructura de apoyo",
         "image": "assets/images/GP-XS.jpg",
         "image2x": "assets/images/GP-XS@2x.jpg",
         "image-alt": "PERFILES, UNIONES, GUÍAS Y EMPALMES",
@@ -1188,15 +1328,13 @@
       },
       {
         "title": "CONECTORES + COMPLEMENTOS",
-        "description": "Para montaje de estructuras solares",
-        "image": "assets/images/TU-RX.jpg",
-        "image2x": "assets/images/TU-RX@2x.jpg",
+        "image": "assets/images/KFS-FI.jpg",
+        "image2x": "assets/images/KFS-FI@2x.jpg",
         "image-alt": "Conectores + complementos",
         "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-cc"
       },
       {
         "title": "TRIÁNGULOS",
-        "description": "Para instalación de placas solares",
         "image": "assets/images/TPA-R.jpg",
         "image2x": "assets/images/TPA-R@2x.jpg",
         "image-alt": "Triángulos",
@@ -1204,15 +1342,13 @@
       },
       {
         "title": "ACCESORIOS REGULABLES",
-        "description": "Para la instalación de placas solares",
-        "image": "assets/images/KFS-RV.jpg",
-        "image2x": "assets/images/KFS-RV@2x.jpg",
+        "image": "assets/images/GS-TC.jpg",
+        "image2x": "assets/images/GS-TC@2x.jpg",
         "image-alt": "Accesorios regulables",
         "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-kfs"
       },
       {
         "title": "ACCESORIOS DE FIJACIÓN DIRECTA",
-        "description": "Para la instalación de placas solares",
         "image": "assets/images/TAC.jpg",
         "image2x": "assets/images/TAC@2x.jpg",
         "image-alt": "Accesorios de fijación directa",
@@ -1220,11 +1356,17 @@
       },
       {
         "title": "ACCESORIOS DE ESTANQUEIDAD",
-        "description": "Accesorios de estanqueidad",
-        "image": "assets/images/ARS-P.jpg",
-        "image2x": "assets/images/ARS-P@2x.jpg",
+        "image": "assets/images/MS-IS.jpg",
+        "image2x": "assets/images/MS-IS@2x.jpg",
         "image-alt": "Accesorios de estanqueidad",
         "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-es"
+      },
+      {
+        "title": "KITS",
+        "image": "assets/images/Kit.jpg",
+        "image2x": "assets/images/Kit@2x.jpg",
+        "image-alt": "Kits para instalaciones solares",
+        "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/sistemas-de-instalacion-y-fijaciones-para-placas-solares/isf-kt"
       }
     ]
   },
