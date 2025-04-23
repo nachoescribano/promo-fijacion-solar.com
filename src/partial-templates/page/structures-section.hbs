@@ -2,7 +2,7 @@
 {{#with structures-section}}
   <section class="section section--color">
     <div class="container">
-      <header class="section__header--structure">
+      <header class="section__header--block">
         <h2 class="section__title section__title--subtitle-after">
           {{title}}
         </h2>
@@ -16,24 +16,24 @@
         >
           {{#each types as |type indexType|}}
             <article
-              class="index-card index-card--50-percent"
+              class="index-card index-card--33-percent"
             >
-              <div class="index-card__container index-card__container--horizontal">
+              <div class="index-card__container">
                 <picture>
                   <source
-                    class="index-card__image index-card__image--cover"
+                    class="index-card__image index-card__image--top"
                     srcset="{{this.image2x}}"
                     media="(min-width: 768px)"
                   />
                   <img
                     alt="{{this.image-alt}}"
-                    class="index-card__image index-card__image--cover"
+                    class="index-card__image index-card__image--top"
                     src="{{this.image}}"
                   />
                 </picture>
-                <div class="index-card__body">
+                <div class="index-card__body index-card__body--structure">
                   <h2
-                    class="index-card__title index-card__title--black mb-0 mt-1"
+                    class="index-card__title index-card__title--structure index-card__title--black mb-0 mt-1"
                   >
                     {{type.title}}
                   </h2>

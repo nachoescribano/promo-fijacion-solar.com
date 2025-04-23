@@ -124,7 +124,7 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.1875rem;
   line-height: 2.6875rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .section__title--subtitle-after {
@@ -153,6 +153,12 @@ h2 {
 .section__header {
   display: flex;
   justify-content: space-between;
+}
+.section__header--block {
+  display: block;
+}
+.section__header--block h2.section__title {
+  margin-bottom: 1rem;
 }
 
 .definition-list {
@@ -378,7 +384,9 @@ h2 {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   background-color: var(--color-white);
-
+}
+.index-card__body--structure {
+  padding-top: 1.375rem;
 }
 .index-card__body--middle {
   justify-content: center;
@@ -410,10 +418,13 @@ h2 {
 .index-card__title--black {
   color: var(--color-black);
 }
-.index-card__title--special {
-  /*padding-top: 1.25rem;*/
+.index-card__title--structure {
+  font-size: 1.15rem;
 }
-/* .index-card__title:hover {
+/*.index-card__title--special {
+  padding-top: 1.25rem;
+}
+.index-card__title:hover {
   color: var(--color-secundary);
 }
 
@@ -441,16 +452,15 @@ h2 {
   font-size: 1rem;
   line-height: 1.25;
   margin-top: 0.75rem;
-  margin-bottom: 1.5rem;
-  /*margin-top: 2.25rem;
-  margin-bottom: 2.5rem;*/
 }
+
 .index-card__subtitle-footer {
   font-size: 1rem;
   line-height: 1.25;
   margin-bottom: 0.625rem;
   font-weight: bold;
 }
+
 .index-card__subtitle--center {
   text-align: center;
 }
@@ -511,6 +521,13 @@ h2 {
   object-fit: cover;
   object-position: left;
   height: 100%;
+  width: 100%;
+}
+
+.index-card__image--top {
+  object-fit: cover;
+  object-position: top center;
+  height: 100px;
   width: 100%;
 }
 .index-card__image--special {
@@ -649,12 +666,12 @@ h2 {
   .index-card--full-width {
     width: 100%;
   }
-  .index-card__image:not(.index-card__image--inline, .index-card__image--cover) {
+  /*.index-card__image:not(.index-card__image--inline, .index-card__image--cover) {
     position: absolute;
     width: 50%;
     z-index: -1;
     height: 100%;
-  }
+  }*/
   .index-card__image:not(.index-card__image--inline) + .index-card__body {
     margin-right: 50%;
   }
@@ -669,6 +686,9 @@ h2 {
   }
   .index-card--50-percent {
     width: calc(100% / 2);
+  }
+  .index-card--33-percent {
+    width: calc(100% / 3);
   }
   .index-card--full-width {
     width: 100%;
@@ -2153,3 +2173,5 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
     gap: 0.5rem;
   }
 }
+
+

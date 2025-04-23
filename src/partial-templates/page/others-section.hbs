@@ -12,8 +12,9 @@
           {{#each materials-cards}}
             <a target="_blank" href="{{url}}" class="index-card index-card--mini index-card--links">
               <article class="index-card__container">
-                <div class="index-card__body pt-0">
-                  <picture>
+                <div class="index-card__body pt-3">
+                  <picture
+                    class="mb-3">
                     <source
                       class="index-card__image index-card__image--inline"
                       srcset="{{image2x}}"
@@ -28,7 +29,6 @@
                   <h3 class="index-card__title index-card__title--black mb-0">
                     {{title}}
                   </h3>
-                  <p class="index-card__subtitle mb-0">{{description}}</p>
                   <footer class="index-card__footer">
                     <p
                       class="index-card__link index-card__link--footer"

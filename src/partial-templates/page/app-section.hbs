@@ -3,7 +3,6 @@
   <section class="section">
     <div class="container">
       {{!-- <header class="section__header">
-
       </header> --}}
       <div class="row">
 
@@ -12,6 +11,11 @@
             {{title}}
           </h2>
           <p>{{parragraph}}</p>
+          <ul class="dashed-list">
+            {{#each qualities-list}}
+              <li class="dashed-list__item">{{this}}</li>
+            {{/each}}
+          </ul>
           <a
             href="https://solar.indexfix.com/"
             class="btn btn-lg btn-primary my-3 btn-index-submit js-form-submit"

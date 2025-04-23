@@ -25,43 +25,25 @@
     "menu": "menu"
   },
   "features-section": {
-    "title": "Un sistema fiable de fácil montaje y mantenimiento",
+    "title": "Un sistema fiable de fácil montaje, mantenimiento y valor añadido",
     "list": [
       {
-        "image": "assets/images/icono-futuro.svg",
-        "image-alt": "futuro",
-        "title": "Mirada al futuro",
-        "text": "Hemos creado una solución innovadora que combina las últimas tecnologías en materiales y recubrimientos. Además, diseñamos nuevos perfiles y sistemas de montaje que ofrecen novedades al mercado actual."
-      },
-      {
         "image": "assets/images/icono-soporte-tecnico.svg",
-        "image-alt": "soporte técnico",
-        "title": "Soporte técnico",
-        "text": "Disponemos de un completo asesoramiento sobre los diferentes sistemas y su adecuación al emplazamiento de la instalación, cálculos personalizados y desgloses de componentes."
+        "image-alt": "Soporte técnico y formación",
+        "title": "Soporte técnico y formación",
+        "text": "Brindamos asesoramiento a nuestros clientes sobre los distintos sistemas y su adecuación al emplazamiento de la instalación, cálculos personalizados y desgloses de componentes."
       },
       {
         "image": "assets/images/icono-produccion-nacional-certificada-sensibilidad-ambiental.svg",
         "image-alt": "certificado",
         "title": "Producción nacional, certificada y con sensibilidad ambiental",
-        "text": "Gran parte de los productos incluidos en la gama son de procedencia nacional, cumpliendo con estrictos estándares de calidad, innovación y respeto por el medio ambiente."
+        "text": "Apostamos por productos de procedencia nacional, que cumplen con estrictos estándares de calidad, innovación y respeto por el medio ambiente."
       },
       {
         "image": "assets/images/icono-pequeno-usuario.svg",
         "image-alt": "pequeno usuario",
         "title": "Productos adaptados para el pequeño usuario",
-        "text": "Nos gusta entender las necesidades de todos nuestros clientes para poder ofrecer el mejor servicio."
-      },
-      {
-        "image": "assets/images/icono-formacion.svg",
-        "image-alt": "formación",
-        "title": "Formación",
-        "text": "Te ayudamos a aprovechar al máximo nuestros productos con formaciones personalizadas, diseñadas para que descubras todas sus funciones y beneficios."
-      },
-      {
-        "image": "assets/images/icono-index-academy.svg",
-        "image-alt": "Index Academy",
-        "title": "Index Academy",
-        "text": "Aprende a instalar placas solares usando nuestros sistemas con <a href='https://youtu.be/aSCjWfCjOf4?list=PLzFk7JNxcu3vOkb87q62N2mPaWl5SOX4V' target='_blank' class='body-link'>videotutoriales</a> claros y sencillos."
+        "text": "Entendemos las necesidades de todos nuestros clientes para poder ofrecer el mejor servicio."
       }
     ]
   },
@@ -293,6 +275,69 @@
         "url": "https://www.indexfix.com/producto/11604-TPA-R-triangulo-regulable-de-aluminio-premontado",
         "logos": ["al"]
       },
+      "TPH-A": {
+        "title": "TPH-A",
+        "description": "Triángulo horizontal abierto de aluminio premontado TPH-A",
+        "image": "assets/images/TPH-A.jpg",
+        "image2x": "assets/images/TPH-A@2x.jpg",
+        "image-alt": "Triángulo horizontal abierto de aluminio premontado TPH-A",
+        "url": "",
+        "logos": ["al"]
+      },
+      "TPH-C": {
+        "title": "TPH-C",
+        "description": "Triángulo horizontal cerrado de aluminio premontado TPH-C",
+        "image": "assets/images/TPH-C.jpg",
+        "image2x": "assets/images/TPH-C@2x.jpg",
+        "image-alt": "Triángulo horizontal cerrado de aluminio premontado TPH-C",
+        "url": "",
+        "logos": ["al"]
+      },
+      "PTL": {
+        "title": "PTL",
+        "description": "Pletina trasera para sistema lastrado PTL",
+        "image": "assets/images/PTL.jpg",
+        "image2x": "assets/images/PTL@2x.jpg",
+        "image-alt": "Pletina trasera para sistema lastrado PTL",
+        "url": "",
+        "logos": ["a2inox"]
+      },
+      "PLI-UN": {
+        "title": "PLI-UN",
+        "description": "Unión para perfil PLI",
+        "image": "assets/images/PLI-UN.jpg",
+        "image2x": "assets/images/PLI-UN@2x.jpg",
+        "image-alt": "Unión para perfil PLI",
+        "url": "",
+        "logos": ["al"]
+      },
+      "PLI": {
+        "title": "PLI",
+        "description": "",
+        "image": "assets/images/PLI.jpg",
+        "image2x": "assets/images/PLI@2x.jpg",
+        "image-alt": "",
+        "url": "",
+        "logos": []
+      },
+      "PLS": {
+        "title": "PLS",
+        "description": "",
+        "image": "assets/images/PLS.jpg",
+        "image2x": "assets/images/PLS@2x.jpg",
+        "image-alt": "",
+        "url": "",
+        "logos": []
+      },
+      "PLA": {
+        "title": "PLA",
+        "description": "",
+        "image": "assets/images/PLA.jpg",
+        "image2x": "assets/images/PLA@2x.jpg",
+        "image-alt": "",
+        "url": "",
+        "logos": []
+      },
       "TRP-XS": {
         "title": "TRP-XS",
         "description": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
@@ -301,6 +346,15 @@
         "image-alt": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
         "url": "https://www.indexfix.com/producto/11602-TRP-XS-triangulo-regulable-premontado-indextrut-acero-con-recubrimiento-atlantis-c4-m",
         "logos": ["ac", "atl"]
+      },
+      "TPL": {
+        "title": "TPL",
+        "description": "",
+        "image": "assets/images/TPL.jpg",
+        "image2x": "assets/images/TPL@2x.jpg",
+        "image-alt": "",
+        "url": "",
+        "logos": []
       },
       "TU-RX A2": {
         "title": "TU-RX A2",
@@ -316,8 +370,8 @@
       {
         "title": "ESTRUCTURAS COPLANARES",
         "description": "Soportes para placas solares indicados para cubiertas inclinadas.",
-        "image": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1.jpg",
-        "image2x": "assets/images/SC-PSA - CUBIERTA PANEL 5G+NAVE METALICA0000-1@2x.jpg",
+        "image": "assets/images/estructura-coplanar.jpg",
+        "image2x": "assets/images/estructura-coplanar@2x.jpg",
         "image-alt": "Estructura coplanar para placas solares",
         "systems": [
           {
@@ -875,8 +929,8 @@
       {
         "title": "ESTRUCTURAS TRIANGULARES",
         "description": "Soportes para placas solares indicados para cubiertas planas y cubiertas inclinadas.",
-        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000-1.jpg",
-        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x-1.jpg",
+        "image": "assets/images/estructura-triangular.jpg",
+        "image2x": "assets/images/estructura-triangular@2x.jpg",
         "image-alt": "ESTRUCTURAS TRIANGULARES PARA PLACAS SOLARES",
         "systems": [
           {
@@ -1155,14 +1209,74 @@
               "PSE-CUN",
               "PSE-C"
             ]
+          },
+          {
+            "title": "ST-PHA",
+            "description": "Sistema triangular horizontal abierto",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-PHA_01.jpg",
+                "image2x": "assets/images/ST-PHA_01@2x.jpg",
+                "image-alt": "Sistema triangular horizontal abierto"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PHA_02.jpg",
+                "image2x": "assets/images/ST-PHA_02@2x.jpg",
+                "image-alt": "Sistema triangular horizontal abierto"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas, de baja pendiente o inclinadas.",
+              "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación desde 5º hasta 30º.",
+              "Orientación de placas tipo paisaje (horizontal).",
+              "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
+              "Montaje entre perfiles y triángulos mediante soluciones preensambladas de fijación rápida."
+            ],
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "TPH-A"
+            ]
+          },
+          {
+            "title": "ST-PHC",
+            "description": "Sistema triangular horizontal cerrado",
+            "carousel": [
+              {
+                "type": "image",
+                "image": "assets/images/ST-PHC_01.jpg",
+                "image2x": "assets/images/ST-PHC_01@2x.jpg",
+                "image-alt": "Sistema triangular horizontal cerrado"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/ST-PHC_02.jpg",
+                "image2x": "assets/images/ST-PHC_02@2x.jpg",
+                "image-alt": "Sistema triangular horizontal cerrado"
+              }
+            ],
+            "qualities-list": [
+              "Sistema para cubiertas planas, de baja pendiente o inclinadas.",
+              "Instalación en todo tipo de cubiertas, sobre triángulos preensamblados con inclinación desde 5º hasta 30º.",
+              "Orientación de placas tipo paisaje (horizontal).",
+              "Opción de fijación del sistema directa a subestructura, mediante anclaje directo de los pies de apoyo de los triángulos.",
+              "Montaje entre perfiles y triángulos mediante soluciones preensambladas de fijación rápida."
+            ],
+            "components": [
+              "GM-A",
+              "KFR-SC",
+              "TPH-C"
+            ]
           }
         ]
       },
       {
         "title": "ESTRUCTURAS LASTRADAS",
         "description": "Soportes para placas solares indicados para cubiertas planas y de baja pendiente, sin necesidad de perforación.",
-        "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000-1.jpg",
-        "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x-1.jpg",
+        "image": "assets/images/estructura-lastrada.jpg",
+        "image2x": "assets/images/estructura-lastrada@2x.jpg",
         "image-alt": "ESTRUCTURAS LASTRADAS PARA PLACAS SOLARES",
         "systems": [
           {
@@ -1170,48 +1284,70 @@
             "description": "Sistema lastrado sur",
             "carousel": [
               {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/FSK_WOoY82c?rel=0",
-                "video-title": "ST-PSE-1"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/l_8Ks9-R8Tk?rel=0",
-                "video-title": "ST-PSE-2"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/uiKkt1sMc_k?rel=0",
-                "video-title": "ST-PSE-3"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/5n9g7A_UV0E?rel=0",
-                "video-title": "ST-PSE-4"
+                "type": "image",
+                "image": "assets/images/SL-SUR_01.jpg",
+                "image2x": "assets/images/SL-SUR_01@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
-                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+                "image": "assets/images/SL-SUR_02.jpg",
+                "image2x": "assets/images/SL-SUR_02@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0001.jpg",
-                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0001@2x.jpg",
-                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+                "image": "assets/images/SL-SUR_03.jpg",
+                "image2x": "assets/images/SL-SUR_03@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0002.jpg",
-                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0002@2x.jpg",
-                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+                "image": "assets/images/SL-SUR_04.jpg",
+                "image2x": "assets/images/SL-SUR_04@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003.jpg",
-                "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0003@2x.jpg",
-                "image-alt": "Sistema triangular con perfil de aluminio PSE-A. Fijación ensamblada"
+                "image": "assets/images/SL-SUR_05.jpg",
+                "image2x": "assets/images/SL-SUR_05@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SL-SUR_06.jpg",
+                "image2x": "assets/images/SL-SUR_06@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SL-SUR_07.jpg",
+                "image2x": "assets/images/SL-SUR_07@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SL-SUR_08.jpg",
+                "image2x": "assets/images/SL-SUR_08@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SL-SUR_09.jpg",
+                "image2x": "assets/images/SL-SUR_09@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SL-SUR_10.jpg",
+                "image2x": "assets/images/SL-SUR_10@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
+              },
+              {
+                "type": "image",
+                "image": "assets/images/SL-SUR_11.jpg",
+                "image2x": "assets/images/SL-SUR_11@2x.jpg",
+                "image-alt": "Sistema lastrado sur"
               }
             ],
             "qualities-list": [
@@ -1237,48 +1373,34 @@
             "description": "Sistema lastrado este-oeste",
             "carousel": [
               {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/K3e1U-blnXo?rel=0",
-                "video-title": "ST-GPX-1"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/OOTCMoq7EBU?rel=0",
-                "video-title": "ST-GPX-2"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/JyqtPcfpuAA?rel=0",
-                "video-title": "ST-GPX-3"
-              },
-              {
-                "type": "video",
-                "video-url": "https://www.youtube.com/embed/1C8dwdtaRfc?rel=0",
-                "video-title": "ST-GPX-4"
+                "type": "image",
+                "image": "assets/images/SL-ESW_01.jpg",
+                "image2x": "assets/images/SL-ESW_01@2x.jpg",
+                "image-alt": "Sistema lastrado este-oeste"
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000.jpg",
-                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0000@2x.jpg",
-                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+                "image": "assets/images/SL-ESW_02.jpg",
+                "image2x": "assets/images/SL-ESW_02@2x.jpg",
+                "image-alt": "Sistema lastrado este-oeste"
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001.jpg",
-                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0001@2x.jpg",
-                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+                "image": "assets/images/SL-ESW_03.jpg",
+                "image2x": "assets/images/SL-ESW_03@2x.jpg",
+                "image-alt": "Sistema lastrado este-oeste"
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002.jpg",
-                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0002@2x.jpg",
-                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+                "image": "assets/images/SL-ESW_04.jpg",
+                "image2x": "assets/images/SL-ESW_04@2x.jpg",
+                "image-alt": "Sistema lastrado este-oeste"
               },
               {
                 "type": "image",
-                "image": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003.jpg",
-                "image2x": "assets/images/ST-GPX - CUBIERTA PANEL 3G+NAVE METALICA0003@2x.jpg",
-                "image-alt": "Sistema Triangular con guía perforada Atlantis C4-M Indextrut Solar GP-XS"
+                "image": "assets/images/SL-ESW_05.jpg",
+                "image2x": "assets/images/SL-ESW_05@2x.jpg",
+                "image-alt": "Sistema lastrado este-oeste"
               }
             ],
             "qualities-list": [
@@ -1303,9 +1425,15 @@
     ]
   },
   "app-section": {
-    "title": "INDEX Solar Fixing: La APP para simplificar y optimizar tus proyectos de instalación de paneles solares",
-    "parragraph": "Descubra la APP INDEX Solar Fixing, una aplicación innovadora, diseñada para simplificar y optimizar tus proyectos para la instalación de PANELES SOLARES. Con solo unos datos de entrada, nuestra aplicación te proporcionará de manera rápida y precisa las fijaciones y sistemas de instalación necesarios para llevar a cabo su proyecto.",
-    "button-text": "Acceso App"
+    "title": "Calcula las fijaciones para tu instalación solar en minutos",
+    "parragraph": "INDEX Solar Fixing® es una aplicación online que te ayuda a calcular las fijaciones y sistemas de montaje ideales para tu instalación solar. Rápida, precisa y diseñada para facilitar tu trabajo.",
+    "qualities-list": [
+      "Los cálculos son válidos con todo tipo de placas y orientación.",
+      "Es compatible con todo tipo de superficies.",
+      "Incluye todas las fijaciones posibles.",
+      "Es multi-dispositivo y multi-idioma."
+    ],
+    "button-text": "Probar aplicación"
   },
   "range-section": {
     "title": "Gamas de productos para instalaciones solares",
@@ -1453,6 +1581,7 @@
   },
   "solar-kits-section": {
     "title": "Tipos de Kits Solares",
+    "parragraph": "Los kits solares INDEX® son soluciones completas y listas para instalar, que incluyen los componentes necesarios para montar un número específico de paneles solares, sin necesidad de adquirir piezas adicionales.",
     "more-info": "Más información",
     "material-cover": {
       "ce": {
@@ -1542,6 +1671,24 @@
         "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
         "image-alt": "KT-PSE. Triangular con perfil de aluminio PSE-C. Fijación ensamblada.",
         "url": "https://www.indexfix.com/producto/kt-psc-triangular-con-perfil-aluminio-pse-c",
+        "logos": ["ce","al"]
+      },
+      {
+        "title": "KL-SUR",
+        "description": ": Kit lastrado orientación sur.",
+        "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+        "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+        "image-alt": "KT-PSE. : Kit lastrado orientación sur.",
+        "url": "",
+        "logos": ["ce","al"]
+      },
+      {
+        "title": "KL-ESW",
+        "description": ": Kit lastrado orientación este-oeste.",
+        "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
+        "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
+        "image-alt": "KT-PSE. : Kit lastrado orientación este-oeste.",
+        "url": "",
         "logos": ["ce","al"]
       }
     ]
