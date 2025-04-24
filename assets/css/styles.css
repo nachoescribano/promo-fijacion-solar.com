@@ -117,6 +117,9 @@ h2 {
   padding-top: 5.9375rem;
   padding-bottom: 6.25rem;
 }
+.section--m {
+  padding-bottom: 2.8125rem;
+}
 .section--color {
   background-color: var(--color-neutral-4);
 }
@@ -194,7 +197,7 @@ h2 {
 
 
 .section__instalation-item {
-  margin-bottom: 1.75rem;
+  /*margin-bottom: 1.75rem;*/
 }
 .section__instalation-item--center {
   text-align: center;

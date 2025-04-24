@@ -1,8 +1,8 @@
 {
   "lang": "es",
-  "description": "",
+  "description": "Estructuras y componentes para instalaciones solares seguras, duraderas y eficientes: coplanar, triangular, lastrado y más fijaciones. Descúbrelas.",
   "keywords": "",
-  "title": "Sistemas de instalación para PANELES SOLARES: estructuras, anclajes y accesorios | INDEX",
+  "title": "Fijaciones y estructuras para paneles solares | INDEX®",
   "home": "Inicio",
   "features": "Características",
   "structures": "Tipos de estructuras",
@@ -313,48 +313,39 @@
       },
       "PLI": {
         "title": "PLI",
-        "description": "",
+        "description": "Perfil lastrado inferior PLI",
         "image": "assets/images/PLI.jpg",
         "image2x": "assets/images/PLI@2x.jpg",
-        "image-alt": "",
+        "image-alt": "Perfil lastrado inferior PLI",
         "url": "",
-        "logos": []
+        "logos": ["al"]
       },
       "PLS": {
         "title": "PLS",
-        "description": "",
+        "description": "Perfil lastrado superior PLS",
         "image": "assets/images/PLS.jpg",
         "image2x": "assets/images/PLS@2x.jpg",
-        "image-alt": "",
+        "image-alt": "Perfil lastrado superior PLS",
         "url": "",
-        "logos": []
+        "logos": ["al"]
       },
       "PLA": {
         "title": "PLA",
-        "description": "",
+        "description": "Perfil lastrado apoyo PLA",
         "image": "assets/images/PLA.jpg",
         "image2x": "assets/images/PLA@2x.jpg",
-        "image-alt": "",
+        "image-alt": "Perfil lastrado apoyo PLA",
         "url": "",
-        "logos": []
-      },
-      "TRP-XS": {
-        "title": "TRP-XS",
-        "description": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
-        "image": "assets/images/TRP-XS.jpg",
-        "image2x": "assets/images/TRP-XS@2x.jpg",
-        "image-alt": "Triángulo regulable premontado INDEXTRUT. Acero con recubrimiento Atlantis C4-M.",
-        "url": "https://www.indexfix.com/producto/11602-TRP-XS-triangulo-regulable-premontado-indextrut-acero-con-recubrimiento-atlantis-c4-m",
-        "logos": ["ac", "atl"]
+        "logos": ["al"]
       },
       "TPL": {
         "title": "TPL",
-        "description": "",
+        "description": "Tapa lateral para sistema lastrado TPL",
         "image": "assets/images/TPL.jpg",
         "image2x": "assets/images/TPL@2x.jpg",
-        "image-alt": "",
+        "image-alt": "Tapa lateral para sistema lastrado TPL",
         "url": "",
-        "logos": []
+        "logos": ["a2inox"]
       },
       "TU-RX A2": {
         "title": "TU-RX A2",
@@ -1739,6 +1730,14 @@
         "url": "https://www.indexfix.com/canales-venta/sistemas-de-instalacion/abrazaderas-plasticas"
       }
     ]
+  },
+  "learn-section": {
+    "logoSrc": "assets/images/logo-index-academy.svg",
+    "logoAlt": "logo index academy",
+    "title": "Aprende con nosotros",
+    "description": "En este vídeo explicamos los tipos de instalaciones de paneles solares que existen, cómo elegir el más adecuado y cuáles son los productos disponibles en nuestra gama.",
+    "videoSrc": "https://www.youtube.com/embed/aSCjWfCjOf4?si=2gRZB3GDmYtIBWFY",
+    "videoTitle": "Video sobre energía solar"
   },
   "contact-section": {
     "title": "Solicita más información",
