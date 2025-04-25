@@ -114,8 +114,8 @@ h2 {
 }
 
 .section {
-  padding-top: 5.9375rem;
-  padding-bottom: 6.25rem;
+  padding-top: 2.5rem;
+  padding-bottom: 3.125rem;
 }
 .section--m {
   padding-bottom: 2.8125rem;
@@ -125,8 +125,8 @@ h2 {
 }
 .section__title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.1875rem;
-  line-height: 2.6875rem;
+  font-size: 1.75rem; /* 20% menos de 2.1875rem */
+  line-height: 2.15rem; /* 20% menos de 2.6875rem */
   margin-bottom: 2rem;
 }
 
@@ -412,8 +412,8 @@ h2 {
 .index-card__title {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
-  font-size: 1.25rem;
-  line-height: 1.2;
+  font-size: 1rem; /* 20% menos de 1.25rem */
+  line-height: 1.4; /* 20% menos de 1.2 -> no queda bien*/
   color: var(--color-primary);
   margin-bottom: 1rem;
   word-wrap: break-word;
@@ -832,7 +832,7 @@ h2 {
 .main-section {
   position: relative;
   padding-bottom: 4rem;
-  min-height: 100vh;
+  min-height: 60vh;
 }
 .main-section::before {
     content: '';
@@ -842,7 +842,7 @@ h2 {
     background: linear-gradient(180deg, rgba(0,0,0,.6) 0%, rgba(0,0,0,0.5) 40%, rgba(0,0,0,0) 100%);
 }
 .main-section--full-height-mask::before {
-height: 100vh;
+height: 60vh;
 background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%) 40%, rgba(0,0,0,0) 100%);
 }
 .main-section__header {
@@ -864,12 +864,11 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
   }
 }
 
-
 .main-section__title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.875rem;
+  font-size: 2.3rem; /* 20% menos de 2.875rem */
   font-weight: 300;
-  line-height: 1.1;
+  line-height: 0.88; /* 20% menos de 1.1 */
   word-break: keep-all;
 }
 
@@ -891,7 +890,7 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
 
 .main-section__image {
   width: 100%;
-  height: 100vh;
+  height: 60vh;
   object-fit: cover;
   z-index: -1;
 }
@@ -920,8 +919,8 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
 .main-section__list-item {
   position: relative;
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.1875rem;
-  line-height: 1.228571428571429;
+  font-size: 1.75rem; /* 20% menos de 2.1875rem */
+  line-height: 0.98; /* 20% menos de 1.228571428571429 */
   font-weight: 200;
   margin-bottom: 1.25rem;
   padding-left: 2.5rem;
@@ -946,7 +945,7 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
     top: 20%; */
     color: var(--color-white);
     text-shadow: none;
-    padding: 24vh 0 0 0;
+    padding: 17vh 0 0 0;
     margin-left: 15%;
   }
   .main-section__title {

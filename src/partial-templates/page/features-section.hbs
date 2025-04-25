@@ -4,22 +4,22 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <h2 class="section__title section__title--small-margin">
+          <h2 class="section__title section__title--small-margin text-center">
             {{title}}
           </h2>
           <div class="swiper-container js-swiper-container-{{swiperCounter}}">
             <ul class="row not-list-style">
               {{#each list}}
-                <li class="col-12 col-md-6 col-lg-4 section__instalation-item">
+                <li class="col-12 col-md-6 col-lg-4 section__instalation-item d-flex flex-column align-items-center">
                   <img
                     class="img-fluid image-thumb"
                     src="{{this.image}}"
                     alt="{{this.feature}}"
                   />
                   <h3
-                    class="section__instalation-title--simply"
+                    class="section__instalation-title--simply text-center"
                   >{{this.title}}</h3>
-                  <p>{{{this.text}}}</p>
+                  <p class="text-center">{{{this.text}}}</p>
                 </li>
               {{/each}}
             </ul>

@@ -1427,7 +1427,7 @@
     "button-text": "Probar aplicación"
   },
   "range-section": {
-    "title": "Gamas de productos para instalaciones solares",
+    "title": "Gama de productos para instalaciones solares",
     "subtitle": "Aquí explicar que los productos se pueden adquirir en conjunto cuando adquieres un Sistema o Kit, o por separado. Aquí se muestran las gamas.",
     "more-info": "Más información",
     "range-cards": [
@@ -1666,19 +1666,19 @@
       },
       {
         "title": "KL-SUR",
-        "description": ": Kit lastrado orientación sur.",
+        "description": "Lastrado orientación sur.",
         "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
         "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-        "image-alt": "KT-PSE. : Kit lastrado orientación sur.",
+        "image-alt": "KL-SUR. Lastrado orientación sur.",
         "url": "",
         "logos": ["ce","al"]
       },
       {
         "title": "KL-ESW",
-        "description": ": Kit lastrado orientación este-oeste.",
+        "description": "Lastrado orientación este-oeste.",
         "image": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000.jpg",
         "image2x": "assets/images/ST-PSE SISTEMA DE MONTAJE TRIANGULAR ALUMINIO0000@2x.jpg",
-        "image-alt": "KT-PSE. : Kit lastrado orientación este-oeste.",
+        "image-alt": "KL-ESW. Lastrado orientación este-oeste.",
         "url": "",
         "logos": ["ce","al"]
       }
